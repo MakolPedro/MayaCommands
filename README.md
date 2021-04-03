@@ -31,24 +31,23 @@ Prefixo padrão ( - )
 
 **-slut** Ganhe ou perca até 10000 dinheiros
 
-**-level** Veja seu level
+**-level | -level @user** Veja seu level ou o de alguém
 
--dailyxp 150xp diariamente
+**-dailyxp** 150xp diariamente
 
--rank Ranking
+**-rank** Ranking Interservidor de XP Maya
 
--marry @user Se case com alguém
+**-marry @user** Se case com alguém
 
--divorce Se divorcie
+**-divorce** Se divorcie
 
--family 1...5 Adicione até 5 pessoas a sua familia
+**-family 1...5** Adicione até 5 pessoas a sua familia
 
--nofamily 1...5 Tire alguém da sua familia
+**-nofamily 1...5** Tire alguém da sua familia
 
--rp Dê reputação
+**-rp** Dê reputação
 
--setstatus Defina seu status no seu perfil
+**-setstatus** Defina seu status no seu perfil
+> -setstatus Eu sou a lua que brilha no céu
 
--profile -perfil Veja seu perfil
-
--perfil @user Perfil de alguém
+**-profile | -perfil @user** Veja seu perfil ou o de alguém
