@@ -62,91 +62,94 @@ Prefixo padrão ( - )
 
 > Isso aqui é um paraiso para os Mods e Adms
 
+#### [Obrigatório] <Opicional>
+
 #### Administração Exclusive (Personalização)
 **-setxpchannel #canal** Seleciona o canal para envio de mensagens XP Level Up
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
-**-setreportchannel #canal** Seleciona o canal para receber reports dos membros
+**-setreportchannel [#canal]** Seleciona o canal para receber reports dos membros
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
 
 **-setautorole @cargo** Selecione um cargo para todos que entrar no servidor recebe-lo
 
-**-setleave #canal** Canal de saída
+**-setleave [#canal]** Canal de saída
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
 
-**-setwelcome #canal** Canal de boas vindas
+**-setwelcome [#canal]** Canal de boas vindas
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
 
-**-setwelcomemsg Mensagem de boas vindas** Escolha uma mensagem legal de boas vindas
+**-setwelcomemsg [Sua mensagem de boas vindas]** Escolha uma mensagem legal de boas vindas
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
 
-**-setleavemsg Mensagem de saída** Escolha uma mensagem legal pra saida
+**-setleavemsg [Sua mensagem de saída]** Escolha uma mensagem legal pra saida
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
 
-**-setlogchannel #canal** Canal de Relatório
+**-setlogchannel [#canal]** Canal de Relatório
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
 [Exemplo2](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
 [Exemplo3](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
 
--unban Desban algúm membro
+**-unban [ID]** Desban algúm membro *(requer o ID do usuário)*
 
--createchannel Crie canais de texto
+**-createchannel [#NomeDoCanal]** Crie canais de texto
 
--createvoice Crie canais de voz
+**-createvoice [#NomeDaCall]** Crie canais de voz
 
--lockdown Trave o servidor em caso de emergência
+**-lockdown** Trave o servidor em caso de emergência
 
+#### Moderação
 
--move Move o mebro pra sua call
+**-move [@user]** Move o mebro pra sua call
 
--addrole Dê cargos
+**-addrole [@user] [@cargo]** Dê cargos
 
--removerole Tire Cargos
+**-removerole [@user] [@cargo]** Tire Cargos
 
--setnick @user Mude o nickname de alguém
+**-setnick [@user] [Novo Nome]** Mude o nickname de alguém
 
--kick Chute alguém do servidor
+**-kick [@user] <razão>** Chute alguém do servidor
 
--ban Banir membros
+**-ban [@user] <razão>** Banir membros
 
--muteinfo Info do meu Mute System
+**-muteinfo** Informações do Mute System
 
--mute Mute alguém (tempmute)
+**-mute [@user] [10s/m/h] <razão>** Mute alguém
 
--unmute Desmuta alguém
+**-unmute [@user] <razão>** Desmuta alguém
 
--warn Dê Warns
+**-warn [@user]** Dê Warns *razão em breve*
 
--warns Confira seus Warns
+**-warns [@user]** Confira Warns
 
--resetwarns
+**-rwarns | -resetwarns [@user]** Reset warns de alguém
 
--rwarns Reset warns de membros
+**-kickvoice [@user]** Tire alguém da call
 
--kickvoice Tire alguém da call
+### Chat Commands
 
-Chat
+**-lockchannel <#canal>** Trave um canal especifico
 
--lockchannel Trave um canal especifico
+**-anunciar [Título] - [Anúncio]** Publique informações
 
--anunciar Publique informações
+**-clear** Limpe o chat, veja os [comandos do Clear](https://github.com/rodycouto/MayaCommands/blob/main/Clear%20commands.png)
 
--clear Limpe o chat
+**-slowmode [Tempo em segundos]** Ative o modo lento
 
--slowmode Ative o modo lento
+### Maya Comandos Exclusivos
 
-Maya
+**-setprefix | -prefix [NovoPrefixo]** Mudar prefixo
 
--setprefix -prefix Informações sobre o meu prefix
+**-resetprefix** Reseta meu prefixo para ( - )
 
--say Diga algo atráves de mim
+**-say [Sua mensagem]** Diga algo atráves de mim
 
--dm -pv Mande mensagem no privado
+**-dm | -pv [@user] [Mensagem]** Comando Travado
 
-Interação
+### Interação com os server
 
--criarcomando Cria um comando só pro servidor
+**-criarcomando [NomeDoComando] [O que eu vou responder]** Cria um comando só pro servidor
 
--deletecomando Deleta um comando criado
+**-deletecomando [NomeDoComando]** Deleta um comando criado
 
--sorteio Faça sorteios
+**-sorteio [20s/m/h/d] [#CanalDoSorteio] [Prêmio]** Faça sorteios
