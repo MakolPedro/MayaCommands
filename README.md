@@ -1,5 +1,5 @@
 # Todos os comandos disponiveis da Maya™
-###Prefixo padrão ( - )
+Prefixo padrão ( - )
 
 
 Maya System
