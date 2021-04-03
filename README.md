@@ -65,21 +65,21 @@ Prefixo padrão ( - )
 #### Administração Exclusive (Personalização)
 **-setxpchannel #canal** Seleciona o canal para envio de mensagens XP Level Up
 
-![Photo Level Up](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
 **-setreportchannel #canal** Seleciona o canal para receber reports dos membros
 
-![Photo Report](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
 
 **-setautorole @cargo** Selecione um cargo para todos que entrar no servidor recebe-lo
 
 **-setleave #canal** Canal de saída
 
-![Embed Saida No Text](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
 
 **-setwelcome #canal** Canal de boas vindas
 
-![Embed Welcome No Text](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
 
 **-setwelcomemsg Mensagem de boas vindas** Escolha uma mensagem legal de boas vindas
 
@@ -87,14 +87,14 @@ Prefixo padrão ( - )
 
 **-setleavemsg Mensagem de saída** Escolha uma mensagem legal pra saida
 
-![Embed Saida](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
 
 **-setlogchannel #canal** Canal de Relatório
 
-![Embed Log](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
 
-![Embed Mute](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
-![Embed Kick](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
+[Exemplo2](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
+[Exemplo3](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
 
 -unban Desban algúm membro
 
