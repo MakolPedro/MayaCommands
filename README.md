@@ -6,6 +6,8 @@ Prefixo padrão ( - )
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Picture.png)
 
 
+
+
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
