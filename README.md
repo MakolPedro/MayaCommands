@@ -5,6 +5,8 @@ Prefixo padrão ( - )
 
 [Me convite pro seu servidor](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
 
+[Minha central de suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8)
+
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Picture.png)
 
 
