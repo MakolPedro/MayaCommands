@@ -170,7 +170,7 @@ Prefixo padrão ( - )
 
 **-ddtank**
 
-**-freefire | -ff*
+**-freefire | -ff**
 
 **-gartic**
 
@@ -214,13 +214,13 @@ Prefixo padrão ( - )
 
 > Comandos úteis e que podem ajudar muito
 
-**-covid <br>** Informações mundiais sobre a COVID-19
+**-covid < br >** Informações mundiais sobre a COVID-19
 
 ### 🔸 Servidor
 
 **-invite | -inv** Me coloque no seu servidor
 
-**-ideia** Mande ideias pro seu Servidor
+**-ideia [Sua ideia]** Mande ideias pro seu Servidor para ser votada
 
 **-report <@user> [O motivo do seu report]** coisas pra Staff do Servidor
 
@@ -252,9 +252,9 @@ Prefixo padrão ( - )
 
 ### 💡 Fun
 
-**-Jokenpo | -j <pedra> <papel> <tesoura>** Jooo keeen po!
+**-Jokenpo | -j < pedra > < papel > < tesoura >** Jooo keeen po!
 
-**-coinflip <cara> <coroa>** Cara ou coroa?
+**-coinflip < cara > < coroa >** Cara ou coroa?
  
 **-ascii [Sua mensagem]** Muito doido
 
@@ -270,7 +270,7 @@ Prefixo padrão ( - )
 
 **-translate | -t [pt][en][fr] [A frase que deseja traaduzir]** Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
 
-**-invisible | invisivel** Não há nada aqui
+**-invisible | -invisivel** Não há nada aqui
 
 **-piada** kkkkkk q u a l i d a d e
 
