@@ -153,3 +153,126 @@ Prefixo padrão ( - )
 **-deletecomando [NomeDoComando]** Deleta um comando criado
 
 **-sorteio [20s/m/h/d] [#CanalDoSorteio] [Prêmio]** Faça sorteios
+
+# 🎮 Link de Games
+
+> Acesse os principais jogos rapidamente
+
+**-amongus**
+**-brawlhalla**
+**-brawlstars**
+**-clashroyale | -clash**
+**-counterstrike | -cs**
+**-ddtank**
+**-freefire | -ff**
+**-gartic**
+**-genshinimpact | -genshin**
+**-gta**
+**-habbo**
+**-leagueoflegends | -lol**
+**-summoners | -sumwar**
+**-mario**
+**-mobilelegends | -mbl**
+**-minecraft**
+**-paladins**
+**-rocketleague**
+**-transformice | -tfm**
+**-uno**
+**-valorant**
+
+# 📺 Animes
+
+> Esses comandos estão sendo desenvolvidos ainda, não se preocupe
+
+**-ind** Indicação de Animes (+2000 Animes)
+
+**-sao** Fotos/gifs de Sword Art Online
+
+**-quiznaruto** Quiz de Naruto pra quem é viciado
+
+# 💡 Comandos Gerais
+
+> Comandos úteis e que podem ajudar muito
+
+**-covid <br>** Informações mundiais sobre a COVID-19
+
+### 🔸 Servidor
+
+**-invite | -inv** Me coloque no seu servidor
+
+**-ideia** Mande ideias pro seu Servidor
+
+**-report <@user> [O motivo do seu report]** coisas pra Staff do Servidor
+
+**-serverinfo** Informações do Servidor
+
+**-dono | -owner** Veja quem é o dono do server
+
+### 💡 Comandinhos da Maya
+
+**-ping** Pong!
+
+**-uptime** Tempo que eu estou acordada
+
+**-botinfo** Informações sobre mim
+
+**-sup | -support | -suporte** Minha central de Suporte
+
+### 💡 Usuário
+
+**-avatar <@user>** Veja sua foto de perfil ou a de alguém
+
+**-id <@user>** Veja o ID
+
+**-spotify | -spot <@user>** Veja a música que alguém está escutando
+
+**-user <@user>** Veja o nome de usúario de alguém
+
+**-userinfo <@user>** Veja informações detalhadas de alguém
+
+### 💡 Fun
+
+**-Jokenpo | -j <pedra> <papel> <tesoura>** Jooo keeen po!
+
+**-coinflip <cara> <coroa>** Cara ou coroa?
+ 
+**-ascii [Sua mensagem]** Muito doido
+
+**-frase** Filosofia pura
+
+**-changemymind [Sua frase]** Changemymind Meme
+
+### 💡 Util
+
+**-cat** Gatinhos são úteis, tá bom? ;-;
+
+**-clima [SuaCidade]** Veja o clima da sua cidade
+
+**-translate | -t [pt][en][fr] [A frase que deseja traaduzir]** Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
+
+**-invisible | invisivel** Não há nada aqui
+
+**-piada** kkkkkk q u a l i d a d e
+
+**-imc [peso] [altura]** (Peso e Altura sem ponto e virgula) Veja seu imc *Exemplo: -imc 75 181*
+
+### 💡 Random
+
+**-advice** This command is completelly in english
+
+**-boom** Só faz boom
+
+**-ecchi** Não recomendo usar isso
+
+**-explosion** Megumiiin
+
+**-feet** Pézin
+
+**-livia** Gay
+
+**-loli** Lolicon
+
+**-stonks | -notstonks** Stonks esse comando
+
+**-puppy** Fofiiiinho
+
