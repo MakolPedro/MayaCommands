@@ -1,7 +1,9 @@
 # Todos os comandos disponiveis da Maya™
 Prefixo padrão ( - )
 
-[Me adicione no seu servidor](https://discord.gg/mx8eMx6)
+[Entre no meu servidor](https://discord.gg/mx8eMx6)
+
+[Me convite pro seu servidor](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
 
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Picture.png)
 
