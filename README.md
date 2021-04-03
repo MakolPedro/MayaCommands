@@ -159,25 +159,45 @@ Prefixo padrão ( - )
 > Acesse os principais jogos rapidamente
 
 **-amongus**
+
 **-brawlhalla**
+
 **-brawlstars**
+
 **-clashroyale | -clash**
+
 **-counterstrike | -cs**
+
 **-ddtank**
-**-freefire | -ff**
+
+**-freefire | -ff*
+
 **-gartic**
+
 **-genshinimpact | -genshin**
+
 **-gta**
+
 **-habbo**
+
 **-leagueoflegends | -lol**
+
 **-summoners | -sumwar**
+
 **-mario**
+
 **-mobilelegends | -mbl**
+
 **-minecraft**
+
 **-paladins**
+
 **-rocketleague**
+
 **-transformice | -tfm**
+
 **-uno**
+
 **-valorant**
 
 # 📺 Animes
