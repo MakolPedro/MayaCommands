@@ -62,7 +62,7 @@ Prefixo padrão ( - )
 
 > Isso aqui é um paraiso para os Mods e Adms
 
-#### [Obrigatório] <Opicional>
+#### [Obrigatório] < Opicional >
 
 #### Administração Exclusive (Personalização)
 **-setxpchannel #canal** Seleciona o canal para envio de mensagens XP Level Up
