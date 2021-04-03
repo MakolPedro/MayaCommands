@@ -92,6 +92,7 @@ Prefixo padrão ( - )
 **-setlogchannel #canal** Canal de Relatório
 
 ![Embed Log](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
+
 ![Embed Mute](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
 ![Embed Kick](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
 
