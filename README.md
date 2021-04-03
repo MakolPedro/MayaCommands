@@ -6,7 +6,7 @@ Prefixo padrão ( - )
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Picture.png)
 
 
-## Maya System
+## ⚙️ Maya System
 > No Maya System, você tem acesso ao meu sistema de economia, perfil e tudo mais.
 
 **-balance | -bal | -bal @user** Veja o seu dinheiro ou de alguém
