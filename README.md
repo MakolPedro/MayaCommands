@@ -9,6 +9,7 @@ Prefixo padrão ( - )
 ## Maya System
 
 -balance | -bal | -bal @user
+> Veja o seu perfil ou o de alguém
 
 -pay Pague alguém
 
