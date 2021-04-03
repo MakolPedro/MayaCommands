@@ -67,19 +67,33 @@ Prefixo padrão ( - )
 
 ![Photo Level Up](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
--setreportchannel Canal pra Receber -report dos membros
+**-setreportchannel #canal** Seleciona o canal para receber reports dos membros
 
--setautorole @cargo Autorole System
+![Photo Report](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
 
--setleave Canal de Saída
+**-setautorole @cargo** Selecione um cargo para todos que entrar no servidor recebe-lo
 
--setwelcome Canal de boas vindas
+**-setleave #canal** Canal de saída
 
--setwelcomemsg Mensagem de boas vindas
+![Embed Saida No Text](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
 
--setleavemsg Mensagem de saída
+**-setwelcome #canal** Canal de boas vindas
 
--setlogchannel Canal de Relatório
+![Embed Welcome No Text](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
+
+**-setwelcomemsg Mensagem de boas vindas** Escolha uma mensagem legal de boas vindas
+
+![Embed Welcome](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
+
+**-setleavemsg Mensagem de saída** Escolha uma mensagem legal pra saida
+
+![Embed Saida](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
+
+**-setlogchannel #canal** Canal de Relatório
+
+![Embed Log](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
+![Embed Mute](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
+![Embed Kick](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
 
 -unban Desban algúm membro
 
