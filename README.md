@@ -136,7 +136,7 @@ Prefixo padrão ( - )
 
 **-slowmode [Tempo em segundos]** Ative o modo lento
 
-### Maya Comandos Exclusivos
+### 🔸 Maya Comandos Exclusivos
 
 **-setprefix | -prefix [NovoPrefixo]** Mudar prefixo
 
