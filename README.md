@@ -54,6 +54,8 @@ Prefixo padrão ( - )
 
 **-profile | -perfil @user** Veja seu perfil ou o de alguém
 
+
+
 # 💿 Music System
 
 > O sistema de música está com a minha irmãzinha
@@ -298,3 +300,45 @@ Prefixo padrão ( - )
 
 **-puppy** Fofiiiinho
 
+# ❤️ Comandos de Reações
+> Demonstre reações por gifs no servidor
+
+**-cry** Chorar as vezes faz bem
+
+**-dance** Dance Dance
+
+**-fury** Mostre sua furia!
+
+**-trig** TRIGGEEEEER
+
+**-happy** Feliiiz
+
+**-sleep** Que soninhoo
+
+**-smile** Está feliz? Sorria!
+
+**-tired** que cansaço!
+
+**-surprise** Mas o que é isso?
+
+**-clap** Aplaudir é legal
+
+**-thin** Oque eu faço
+
+**-die** Morreu
+
+**-facepalm** Decepcionado(a)
+
+**-glare** Olhar Pistola
+
+**-pout** Fazendo Bico
+
+**-sad** Triste
+
+
+
+## Desenvolvido por:
+
+Discord: Rody#3756
+
+Email: rodrigo.couto.santos@hotmail.com
