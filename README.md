@@ -7,7 +7,7 @@ Prefixo padrão ( - )
 
 
 ## ⚙️ Maya System
-> No Maya System, você tem acesso ao meu sistema de economia, perfil e tudo mais.
+> Acesso ao meu sistema de economia, perfil e tudo mais.
 
 **-balance | -bal | -bal @user** Veja o seu dinheiro ou de alguém
 
@@ -19,21 +19,19 @@ Prefixo padrão ( - )
 
 **-dep | -dep all** Deposite seu dinheiro
 
+**-sacar | -sacar all** Saque dinheiro do banco
+
 **-roubar @user** Roube alguém
 
--sacar Saque dinheiro do banco
+**-work** Trabalhe e ganhe até 100 dinheirinhos
 
--work Trabalhe e ganhe até 100:StarPoint:
+**-daily** Pegue 500 dinheiros diariamente
 
--daily Pegue 500:StarPoint: diariamente
+**-lotery** Ganhe até 2000 dinheiros
 
--lotery Ganhe até 2000:StarPoint: (se tiver sorte)
+**-slut** Ganhe ou perca até 10000 dinheiros
 
--slut Ganhe ou perca até 10000:StarPoint:
-
--loja -store -rankingmp
-
--level Seu level
+**-level** Veja seu level
 
 -dailyxp 150xp diariamente
 
