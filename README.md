@@ -47,7 +47,6 @@ Prefixo padrão ( - )
 
 **-rp** Dê reputação
 
-**-setstatus** Defina seu status no seu perfil
-> -setstatus Eu sou a lua que brilha no céu
+**-setstatus** Defina seu status no seu perfil > -setstatus Eu sou a lua que brilha no céu
 
 **-profile | -perfil @user** Veja seu perfil ou o de alguém
