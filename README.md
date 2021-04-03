@@ -58,13 +58,13 @@ Prefixo padrão ( - )
 
 [Mayazinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
 
-# ⚙️ Comandos Administrativos
+# 🛠️ Comandos Administrativos
 
 > Isso aqui é um paraiso para os Mods e Adms
 
 #### [Obrigatório] < Opicional >
 
-#### Administração Exclusive (Personalização)
+#### 🔸Administração Exclusive (Personalização)
 **-setxpchannel #canal** Seleciona o canal para envio de mensagens XP Level Up
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
@@ -98,7 +98,7 @@ Prefixo padrão ( - )
 
 **-lockdown** Trave o servidor em caso de emergência
 
-#### Moderação
+#### 🔸 Moderação
 
 **-move [@user]** Move o mebro pra sua call
 
@@ -126,7 +126,7 @@ Prefixo padrão ( - )
 
 **-kickvoice [@user]** Tire alguém da call
 
-### Chat Commands
+### 🔸 Chat Commands
 
 **-lockchannel <#canal>** Trave um canal especifico
 
@@ -146,7 +146,7 @@ Prefixo padrão ( - )
 
 **-dm | -pv [@user] [Mensagem]** Comando Travado
 
-### Interação com os server
+### 🔸 Interação com os server
 
 **-criarcomando [NomeDoComando] [O que eu vou responder]** Cria um comando só pro servidor
 
