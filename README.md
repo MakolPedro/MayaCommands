@@ -7,9 +7,9 @@ Prefixo padrão ( - )
 
 
 ## Maya System
+> No Maya System, você tem acesso ao meu sistema de economia, perfil e tudo mais.
 
 -balance | -bal | -bal @user
-> Veja o seu perfil ou o de alguém
 
 -pay Pague alguém
 
