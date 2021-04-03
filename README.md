@@ -7,57 +7,46 @@ Prefixo padrão ( - )
 
 Maya System
 
-:topreach: Economy System
+-balance | -bal | -bal @user
 
-:small_blue_diamond:-balance | -bal | -bal @user
+-pay Pague alguém
 
-:small_orange_diamond:-pay Pague alguém
+-blackjack -bj Game de Cartas
 
-:small_orange_diamond:-blackjack -bj Game de Cartas
+-dep Deposite seu dinheiro
 
-:small_orange_diamond:-dep Deposite seu dinheiro
+-roubar Roube alguém
 
-:small_orange_diamond:-roubar Roube alguém
+-sacar Saque dinheiro do banco
 
-:small_orange_diamond:-sacar Saque dinheiro do banco
+-work Trabalhe e ganhe até 100:StarPoint:
 
-:small_blue_diamond:-work Trabalhe e ganhe até 100:StarPoint:
+-daily Pegue 500:StarPoint: diariamente
 
-:small_orange_diamond:-daily Pegue 500:StarPoint: diariamente
+-lotery Ganhe até 2000:StarPoint: (se tiver sorte)
 
-:small_blue_diamond:-lotery Ganhe até 2000:StarPoint: (se tiver sorte)
-
-:small_orange_diamond:-slut Ganhe ou perca até 10000:StarPoint:
-
-:topreach: Em Breve
+-slut Ganhe ou perca até 10000:StarPoint:
 
 -loja -store -rankingmp
 
-:topreach: Level System
+-level Seu level
 
-:small_orange_diamond:-level Seu level
+-dailyxp 150xp diariamente
 
-:small_orange_diamond:-dailyxp 150xp diariamente
+-rank Ranking
 
-:small_orange_diamond:-rank Ranking
+-marry @user Se case com alguém
 
-:topreach: Family System
+-divorce Se divorcie
 
-:small_blue_diamond:-marry @user Se case com alguém
+-family 1...5 Adicione até 5 pessoas a sua familia
 
-:small_blue_diamond:-divorce Se divorcie
+-nofamily 1...5 Tire alguém da sua familia
 
-:small_orange_diamond:-family 1...5 Adicione até 5 pessoas a sua familia
+-rp Dê reputação
 
-:small_orange_diamond:-nofamily 1...5 Tire alguém da sua familia
+-setstatus Defina seu status no seu perfil
 
-:topreach: Perfil
+-profile -perfil Veja seu perfil
 
-:small_orange_diamond:-rp Dê reputação
-
-:small_orange_diamond:-setstatus Defina seu status no seu perfil
-
-
-:small_blue_diamond:-profile -perfil Veja seu perfil
-
-:small_blue_diamond:-perfil @user Perfil de alguém
+-perfil @user Perfil de alguém
