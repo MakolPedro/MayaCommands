@@ -51,3 +51,9 @@ Prefixo padrão ( - )
 *-setstatus Eu sou a lua que brilha no céu*
 
 **-profile | -perfil @user** Veja seu perfil ou o de alguém
+
+# 💿 Music System
+
+> O sistema de música está com a minha irmãzinha
+
+[Mayzinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
