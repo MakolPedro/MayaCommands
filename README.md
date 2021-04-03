@@ -6,7 +6,7 @@ Prefixo padrão ( - )
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Picture.png)
 
 
-## ⚙️ Maya System
+## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
 **-balance | -bal | -bal @user** Veja o seu dinheiro ou de alguém
@@ -57,3 +57,87 @@ Prefixo padrão ( - )
 > O sistema de música está com a minha irmãzinha
 
 [Mayzinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
+
+# ⚙️ Comandos Administrativos
+
+> Isso aqui é um paraiso para os Mods e Adms
+
+### Administração Exclusive
+-setxpchannel Canal de mensagem XP Level Up
+
+-setreportchannel Canal pra Receber -report dos membros
+
+-setautorole @cargo Autorole System
+
+-setleave Canal de Saída
+
+-setwelcome Canal de boas vindas
+
+-setwelcomemsg Mensagem de boas vindas
+
+-setleavemsg Mensagem de saída
+
+-setlogchannel Canal de Relatório
+
+-unban Desban algúm membro
+
+-createchannel Crie canais de texto
+
+-createvoice Crie canais de voz
+
+-lockdown Trave o servidor em caso de emergência
+
+
+-move Move o mebro pra sua call
+
+-addrole Dê cargos
+
+-removerole Tire Cargos
+
+-setnick @user Mude o nickname de alguém
+
+-kick Chute alguém do servidor
+
+-ban Banir membros
+
+-muteinfo Info do meu Mute System
+
+-mute Mute alguém (tempmute)
+
+-unmute Desmuta alguém
+
+-warn Dê Warns
+
+-warns Confira seus Warns
+
+-resetwarns
+
+-rwarns Reset warns de membros
+
+-kickvoice Tire alguém da call
+
+Chat
+
+-lockchannel Trave um canal especifico
+
+-anunciar Publique informações
+
+-clear Limpe o chat
+
+-slowmode Ative o modo lento
+
+Maya
+
+-setprefix -prefix Informações sobre o meu prefix
+
+-say Diga algo atráves de mim
+
+-dm -pv Mande mensagem no privado
+
+Interação
+
+-criarcomando Cria um comando só pro servidor
+
+-deletecomando Deleta um comando criado
+
+-sorteio Faça sorteios
