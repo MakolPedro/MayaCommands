@@ -1,5 +1,6 @@
 # MayaCommands
 
-Comandos da Maya™
+Aqui você tem acesso a todos os comandos da Maya™
+Prefixo padrão ( - )
 
-Texto que vai aparecer
+Maya System
