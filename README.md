@@ -83,7 +83,7 @@ Prefixo padrão ( - )
 
 **-setwelcomemsg Mensagem de boas vindas** Escolha uma mensagem legal de boas vindas
 
-![Embed Welcome](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
 
 **-setleavemsg Mensagem de saída** Escolha uma mensagem legal pra saida
 
