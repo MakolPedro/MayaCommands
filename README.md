@@ -9,11 +9,11 @@ Prefixo padrão ( - )
 ## Maya System
 > No Maya System, você tem acesso ao meu sistema de economia, perfil e tudo mais.
 
--balance | -bal | -bal @user
+**-balance | -bal | -bal @user**
 
--pay Pague alguém
+**-pay Pague alguém**
 
--blackjack -bj Game de Cartas
+**-blackjack -bj Game de Cartas**
 
 -dep Deposite seu dinheiro
 
