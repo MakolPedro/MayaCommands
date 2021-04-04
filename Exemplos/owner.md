@@ -55,4 +55,4 @@
 
 `-delmaya` Me deleta :cry:
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)

@@ -21,4 +21,4 @@
 ### Membro entrou no servidor pt.2
 ![Image Final](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Welcome.png)
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)

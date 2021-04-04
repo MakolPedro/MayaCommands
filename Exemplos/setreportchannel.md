@@ -10,4 +10,4 @@
 ### Recebendo Reports
 ![Recebendo Reports](https://github.com/rodycouto/MayaCommands/blob/main/images/Report%20Image.png)
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)
