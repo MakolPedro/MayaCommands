@@ -107,8 +107,8 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 `-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setlogchannel [#canal]` Canal de Relatório.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.md)
+`-setlogchannel [#canal]` Canal de Relatórios.
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
