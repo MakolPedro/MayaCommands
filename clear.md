@@ -10,8 +10,8 @@
 
 `-clear <@user> [1~99]` Apague 1~99 mensagens de alguém especifico
 
-`-clear < bot > [1~99]` Apague 1~99 mensagens de bots
+`-clear <bot> [1~99]` Apague 1~99 mensagens de bots
 
-`-clear < images > [1~99]` Apague somente imagens/videos/gifs
+`-clear <images> [1~99]` Apague somente imagens/videos/gifs
 
 [Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
