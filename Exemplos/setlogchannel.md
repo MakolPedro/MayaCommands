@@ -1,13 +1,9 @@
-# Set Report Channel
-> Escolha um canal para receber report dos seus membros. O canal pode ou não ser privado, aí a escolha é sua.
+# Set Log Channel
+> Escolha um canal para receber todos os log(relatórios) do servidores
+> O Log Channel é de grande ajuda para a organização. Todo mute, kick, ban vai para o log channel, detalhadamente com todos os ocorridos.
 
 ### Comando
-`-setreportchannel #canal`
+`-setlogchannel #canal`
 
 ### Exemplo
-![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/Report%20Exemple.png)
-
-### Recebendo Reports
-![Recebendo Reports](https://github.com/rodycouto/MayaCommands/blob/main/images/Report%20Image.png)
-
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
+![Imagem de Exemplo]
