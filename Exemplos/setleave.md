@@ -8,7 +8,7 @@
 ![Imagem Exemplo](LINK AQUI)
 
 ### Membro saiu do servidor
-![Imagem de Saida](LINKAQUI)
+![Imagem de Saida](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Saida%20Not%20Ready.png)
 
 ### Comando
 `-setleavemsg Sua mensagem em diante`
@@ -17,6 +17,6 @@
 ![Imagem Exemplo Texto](LINK AQUI)
 
 ### Membro saiu
-![Imagem Exemplo Leave Pronto](LINK AQUI)
+![Imagem Exemplo Leave Pronto](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Saida.png)
 
 [Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
