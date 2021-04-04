@@ -24,6 +24,10 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
+`-help` `-h` `-ajuda` Painel de ajuda
+
+`-oldhelp` Antigo painel de ajuda
+
 ### Economia
 `-balance` `-bal` `-bal <@user>` Veja o seu dinheiro ou de alguém
 
