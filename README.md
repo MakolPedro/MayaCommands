@@ -93,7 +93,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-setreportchannel [#canal]` Seleciona o canal para receber reports dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.md)
 
-`-setautorole [@cargo]` Selecione um cargo para todos que entrar no servidor recebe-lo
+`-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
 
 `-setleave [#canal]` Canal de saída
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
