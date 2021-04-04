@@ -11,8 +11,7 @@ Prefixo padrão ( - )
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
-`-balance` `-bal` `-bal @user`
-Veja o seu dinheiro ou de alguém
+`-balance` `-bal` `-bal @user`\n Veja o seu dinheiro ou de alguém
 
 **-pay** Pague alguém
 
