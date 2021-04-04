@@ -24,19 +24,19 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
-`-balance` `-bal` `-bal @user` Veja o seu dinheiro ou de alguém
+`-balance` `-bal` `-bal <@user>` Veja o seu dinheiro ou de alguém
 
-`-pay` Pague alguém
+`-pay [@user] [valor]` Pague alguém
 
-`-blackjack -bj` Game de Cartas
+`-blackjack [valor]` `-bj [valor]` Game de Cartas
 
 `-bjhelp` Caso você não saiba jogar blackjack/21
 
-`-dep | -dep all` Deposite seu dinheiro
+`-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
-`-sacar | -sacar all` Saque dinheiro do banco
+`-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
 
-`-roubar @user` Roube alguém
+`-roubar [@user]` Roube alguém
 
 `-work` Trabalhe e ganhe até 100 dinheirinhos
 
@@ -46,26 +46,26 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-slut` Ganhe ou perca até 10000 dinheiros
 
-`-level | -level @user` Veja seu level ou o de alguém
+`-level <@user>` Veja seu level ou o de alguém
 
 `-dailyxp` 150xp diariamente
 
 `-rank` Ranking Interservidor de XP Maya
 
-`-marry @user` Se case com alguém
+`-marry [@user]` Se case com alguém
 
 `-divorce` Se divorcie
 
-`-family 1...5` Adicione até 5 pessoas a sua familia
+`-family [1...5]` Adicione até 5 pessoas a sua familia
 
-`-nofamily 1...5` Tire alguém da sua familia
+`-nofamily [1...5]` Tire alguém da sua familia
 
-`-rp` Dê reputação
+`-rp [@user]` Dê reputação
 
-`-setstatus` Defina seu status no seu perfil Exemplo:
+`-setstatus [Seu Status]` Defina seu status no seu perfil Exemplo:
 *-setstatus Eu sou a lua que brilha no céu*
 
-`-profile | -perfil @user` Veja seu perfil ou o de alguém
+`-profile | -perfil < @user >` Veja seu perfil ou o de alguém
 
 
 
