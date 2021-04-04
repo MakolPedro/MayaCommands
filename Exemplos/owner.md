@@ -41,7 +41,7 @@
 
 `-setlevel @user` Dita o level de alguém
 
-### Comandos Black
+### Comandos Dark
 
 `-addwhitelist @user` Adiciona alguém na whitelist
 
