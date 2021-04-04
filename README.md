@@ -5,6 +5,15 @@ Prefixo padrão ( - )
 
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Profile%20Pic.png)
 
+### Oláá, meu nome é Maya!
+Eu fui criada originalmente para ser uma bot de diversão e admnistração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
+
+## Minhas informações
+- Nome: Maya
+- Idade: 15
+- Aniversário: 15/03
+- Hobby: Interagir com o pessoal do Discord
+- Gostos: Música, animes e sorvete de montão
 
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
