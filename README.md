@@ -89,28 +89,26 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 > Isso aqui é um paraiso para os Mods e Adms
 
 #### 🔸Administração Exclusive (Personalização)
-`-setxpchannel [#canal]` Selecione o canal para envio de mensagens XP Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
+`-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
 
-`-setreportchannel [#canal]` Seleciona o canal para receber reports dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.md)
+`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.md)
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
 
-`-setleave [#canal]` Canal de saída
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
-
-`-setwelcome [#canal]` Canal de boas vindas
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
-
-`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
+`-setleave [#canal]` Canal de saída.
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
 `-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
+
+`-setwelcome [#canal]` Canal de boas vindas.
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
+
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
 `-setlogchannel [#canal]` Canal de Relatório
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
-[Exemplo2](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
-[Exemplo3](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
