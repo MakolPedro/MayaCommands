@@ -78,7 +78,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 #### 🔸Administração Exclusive (Personalização)
 `-setxpchannel [#canal]` Seleciona o canal para envio de mensagens XP Level Up
-[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
+[Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
 
 `-setreportchannel [#canal]` Seleciona o canal para receber reports dos membros
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
@@ -144,7 +144,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-anunciar [Título] - [Anúncio]` Publique informações
 
-`-clear` Limpe o chat. Veja o [Comando  Clear](https://github.com/rodycouto/MayaCommands/blob/main/clear.md)
+`-clear` Limpe o chat. Veja o [Comando  Clear](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/clear.md)
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
