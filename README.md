@@ -47,7 +47,10 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-slut` Ganhe ou perca até 10000 dinheiros
 
+`-loja` `-slot` `-buy` `-send` `-give` `-cobrar` Em Breve
+
 ### Level System
+> No momento, o Level System Global está em vigor, o sistema de level por servidor estará disponível em breve
 
 `-level <@user>` Veja seu level ou o de alguém
 
@@ -73,6 +76,8 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 *-setstatus Eu sou a lua que brilha no céu*
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
+
+`-setniver` `-signo` Em breve
 
 # 💿 Music System
 
