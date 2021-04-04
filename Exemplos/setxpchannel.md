@@ -6,4 +6,4 @@
 `-setxpchannel [#Canal]`
 
 ### Exemplo
-![Imagem Exemplo](images\setxpchannel.png)
+![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/setxpchannel.png)
