@@ -5,7 +5,7 @@
 `-setleave #canal`
 
 ### Exemplo
-![Imagem Exemplo](LINK AQUI)
+![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/Leave%20Channel.png)
 
 ### Membro saiu do servidor
 ![Imagem de Saida](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Saida%20Not%20Ready.png)
@@ -14,7 +14,7 @@
 `-setleavemsg Sua mensagem em diante`
 
 ### Exemplo de Mensagem
-![Imagem Exemplo Texto](LINK AQUI)
+![Imagem Exemplo Texto](https://github.com/rodycouto/MayaCommands/blob/main/images/Leave%20Msg%20Pronta.png)
 
 ### Membro saiu
 ![Imagem Exemplo Leave Pronto](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Saida.png)
