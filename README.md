@@ -411,6 +411,11 @@ Quiz: 27 Perguntas
 
 Quiz Naruto: 17 Perguntas
 
+# Exclusivo - Owner Commands
+> Comandos exclusivos do criador da Maya
+
+[Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Owner%20Commands.png)
+
 # Maya Assistence
 > Pessoas que ajudaram na construção da Maya
 
