@@ -11,6 +11,7 @@
 ![Image Without Text](https://github.com/rodycouto/MayaCommands/blob/main/images/Embed%20Welcome%20no%20text.png)
 
 ### Comando
+> Escolha uma mensagem para aparecer na embed de boas vindas
 `-setwelcomemsg Sua Mensagem`
 
 ### Exemplo

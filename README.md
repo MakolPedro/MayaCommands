@@ -98,16 +98,16 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 `-setleave [#canal]` Canal de saída.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
-`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida
+`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
 `-setwelcome [#canal]` Canal de boas vindas.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setlogchannel [#canal]` Canal de Relatório
+`-setlogchannel [#canal]` Canal de Relatório.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
