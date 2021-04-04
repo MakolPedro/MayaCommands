@@ -348,7 +348,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 > Interaja com as pessoas atráves de gifs sensacionais
 
 `-baka [@user]` Chame de Baka!
-`-bite [@user]` Mor`didinha
+`-bite [@user]` Mordidinha
 `-dedo [@user]` Educação
 `-greet [@user]` Comprimento
 `-fight [@user]` Briga, briga, briga!
