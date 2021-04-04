@@ -336,9 +336,19 @@ Prefixo padrão ( - )
 **-sad** Triste
 
 
+# Maya Assistence:
 
-## Desenvolvido por:
+### Desenvolvedor
 
 Discord: Rody#3756
+Coop: Gowther#9233
 
 Email: rodrigo.couto.santos@hotmail.com
+
+### Review for bugs and advices
+
+Discord: Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
+
+### Designers
+
+Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
