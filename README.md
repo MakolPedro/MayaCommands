@@ -341,6 +341,7 @@ Prefixo padrão ( - )
 ### Desenvolvedor
 
 Discord: Rody#3756
+
 Coop: Gowther#9233
 
 Email: rodrigo.couto.santos@hotmail.com
