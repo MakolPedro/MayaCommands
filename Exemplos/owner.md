@@ -54,3 +54,5 @@
 `-leaveall` Me tira de todos os servidores
 
 `-delmaya` Me deleta :cry:
+
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)

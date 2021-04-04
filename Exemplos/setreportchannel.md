@@ -5,4 +5,9 @@
 `-setreportchannel #canal`
 
 ### Exemplo
-![Imagem Exemplo]()
+![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/Report%20Exemple.png)
+
+### Recebendo Reports
+![Recebendo Reports](https://github.com/rodycouto/MayaCommands/blob/main/images/Report%20Image.png)
+
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
