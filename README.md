@@ -355,7 +355,9 @@ Discord: Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
 
 ### Designers
 
-Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233, CUTE BEAR INSTAGRAM
+Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
+
+Gifs do Ursinho: [@milkmochabear](https://www.instagram.com/milkmochabear)
 
 ### Advices and Sugestions
 
