@@ -6,4 +6,9 @@
 `-setlogchannel #canal`
 
 ### Exemplo
-![Imagem de Exemplo]
+![Imagem de Exemplo]()
+
+### Recebendo Logs
+![Recebendo Logs]()
+
+[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands)
