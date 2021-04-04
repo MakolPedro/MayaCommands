@@ -337,6 +337,9 @@ Prefixo padrão ( - )
 
 
 # Maya Assistence
+> Pessoas que ajudaram na construção da Maya
+
+> Todos os direitos abaixo
 
 ### Desenvolvedor
 
@@ -353,3 +356,17 @@ Discord: Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
 ### Designers
 
 Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
+
+### Advices and Sugestions
+
+𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | Comandos de Administração
+
+LucasLuquisquiss#4643 | `-frase`
+
+João da Cilada#7041 | `-love`
+
+Giacometti#4849 | `-feet`
+
+Coiny#9056 | Ideias no Painel Interativo
+
+CALORIES#2822 | Music System Helper
