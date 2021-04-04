@@ -369,20 +369,17 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-rob [@user]` Roubar é tão feio...
 
-
 `-slap [@user]` Tapããão
 
 `-slaap [@user]` Tapão em foto
 
 `-love [@user]` Mande seu amor secretamente
 
-
 `-ery [@user]` Deboche
 
 `-lick [@user]` Peroriin
 
 `-suck [@user]` Chupada
-
 
 `-highfive [@user]` Toca Aqui
 
