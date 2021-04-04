@@ -8,7 +8,7 @@
 
 `-clear [1~99]` Apague de 1~99 mensagens
 
-`-clear < @user > [1~99]` Apague 1~99 mensagens de alguém especifico
+`-clear <@user> [1~99]` Apague 1~99 mensagens de alguém especifico
 
 `-clear < bot > [1~99]` Apague 1~99 mensagens de bots
 
