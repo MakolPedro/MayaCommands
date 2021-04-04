@@ -3,7 +3,10 @@
 
 [Obrigatório]
 
+### Comando
 `-setxpchannel [#Canal]`
 
 ### Exemplo
 ![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/setxpchannel.png)
+
+### Level Up
