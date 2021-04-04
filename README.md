@@ -67,28 +67,23 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-profile | -perfil < @user >` Veja seu perfil ou o de alguém
 
-
-
 # 💿 Music System
 
 > O sistema de música está com a minha irmãzinha
 
-[Mayazinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
+[Adicione a Mayazinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
 
 # 🛠️ Comandos Administrativos
-
 > Isso aqui é um paraiso para os Mods e Adms
 
-#### [Obrigatório] < Opicional >
-
 #### 🔸Administração Exclusive (Personalização)
-`-setxpchannel #canal` Seleciona o canal para envio de mensagens XP Level Up
+`-setxpchannel [#canal]` Seleciona o canal para envio de mensagens XP Level Up
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
 `-setreportchannel [#canal]` Seleciona o canal para receber reports dos membros
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
 
-`-setautorole @cargo` Selecione um cargo para todos que entrar no servidor recebe-lo
+`-setautorole [@cargo]` Selecione um cargo para todos que entrar no servidor recebe-lo
 
 `-setleave [#canal]` Canal de saída
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
@@ -139,7 +134,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-warns [@user]` Confira Warns
 
-`-rwarns | -resetwarns [@user]` Reset warns de alguém
+`-rwarns` `-resetwarns [@user]` Reset warns de alguém
 
 `-kickvoice [@user]` Tire alguém da call
 
