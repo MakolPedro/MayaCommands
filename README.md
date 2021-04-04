@@ -232,7 +232,7 @@ Prefixo padrão ( - )
 
 `-dono | -owner` Veja quem é o dono do server
 
-### 💡 Comandinhos da Maya
+### 🔸 Comandinhos da Maya
 
 `-ping` Pong!
 
@@ -242,7 +242,7 @@ Prefixo padrão ( - )
 
 `-sup | -support | -suporte` Minha central de Suporte
 
-### 💡 Usuário
+### 🔸 Usuário
 
 `-avatar <@user>` Veja sua foto de perfil ou a de alguém
 
@@ -254,7 +254,7 @@ Prefixo padrão ( - )
 
 `-userinfo <@user>` Veja informações detalhadas de alguém
 
-### 💡 Fun
+### 🔸 Fun
 
 `-Jokenpo | -j < pedra > < papel > < tesoura >` Jooo keeen po!
 
@@ -266,7 +266,7 @@ Prefixo padrão ( - )
 
 `-changemymind [Sua frase]` Changemymind Meme
 
-### 💡 Util
+### 🔸 Util
 
 `-cat` Gatinhos são úteis, tá bom? ;-;
 
@@ -280,7 +280,7 @@ Prefixo padrão ( - )
 
 `-imc [peso] [altura]` (Peso e Altura sem ponto e virgula) Veja seu imc *Exemplo: -imc 75 181*
 
-### 💡 Random
+### 🔸 Random
 
 `-advice` This command is completelly in english
 
