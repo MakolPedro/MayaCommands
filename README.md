@@ -104,6 +104,8 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
+`-clonechannel` Cria um canal com o mesmo nome
+
 `-createchannel [#NomeDoCanal]` Crie canais de texto
 
 `-createvoice [#NomeDaCall]` Crie canais de voz

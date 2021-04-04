@@ -5,6 +5,7 @@
 - **Mensagens acima de 14 dias não serão apagadas por limitações do Discord.**
 
 `-clear [all]` Limpe todo o chat
+> Se quiser um novo canal com o mesmo nome, use `-clonechannel`
 
 `-clear [1~99]` Apague de 1~99 mensagens
 
