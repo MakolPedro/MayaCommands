@@ -65,7 +65,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 `-setstatus [Seu Status]` Defina seu status no seu perfil Exemplo:
 *-setstatus Eu sou a lua que brilha no céu*
 
-`-profile | -perfil < @user >` Veja seu perfil ou o de alguém
+`-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
 # 💿 Music System
 
@@ -150,13 +150,13 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 ### 🔸 Maya Comandos Exclusivos
 
-`-setprefix | -prefix [NovoPrefixo]` Mudar prefixo
+`-setprefix` `-prefix [NovoPrefixo]` Mudar prefixo
 
 `-resetprefix` Reseta meu prefixo para ( - )
 
 `-say [Sua mensagem]` Diga algo atráves de mim
 
-`-dm | -pv [@user] [Mensagem]` Comando Travado
+`-dm` `-pv [@user] [Mensagem]` Comando Travado
 
 ### 🔸 Interação com os server
 
@@ -176,29 +176,29 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-brawlstars`
 
-`-clashroyale | -clash`
+`-clashroyale` `-clash`
 
-`-counterstrike | -cs`
+`-counterstrike` `-cs`
 
 `-ddtank`
 
-`-freefire | -ff`
+`-freefire` `-ff`
 
 `-gartic`
 
-`-genshinimpact | -genshin`
+`-genshinimpact` `-genshin`
 
 `-gta`
 
 `-habbo`
 
-`-leagueoflegends | -lol`
+`-leagueoflegends` `-lol`
 
-`-summoners | -sumwar`
+`-summoners` `-sumwar`
 
 `-mario`
 
-`-mobilelegends | -mbl`
+`-mobilelegends` `-mbl`
 
 `-minecraft`
 
@@ -206,7 +206,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-rocketleague`
 
-`-transformice | -tfm`
+`-transformice` `-tfm`
 
 `-uno`
 
@@ -230,7 +230,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 ### 🔸 Servidor
 
-`-invite | -inv` Me coloque no seu servidor
+`-invite` `-inv` Me coloque no seu servidor
 
 `-ideia [Sua ideia]` Mande ideias pro seu Servidor para ser votada
 
@@ -238,7 +238,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-serverinfo` Informações do Servidor
 
-`-dono | -owner` Veja quem é o dono do server
+`-dono` `-owner` Veja quem é o dono do server
 
 ### 🔸 Comandinhos da Maya
 
@@ -248,7 +248,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-botinfo` Informações sobre mim
 
-`-sup | -support | -suporte` Minha central de Suporte
+`-sup` `-support` `-suporte` Minha central de Suporte
 
 ### 🔸 Usuário
 
@@ -256,7 +256,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-id <@user>` Veja o ID
 
-`-spotify | -spot <@user>` Veja a música que alguém está escutando
+`-spotify` `-spot <@user>` Veja a música que alguém está escutando
 
 `-user <@user>` Veja o nome de usúario de alguém
 
@@ -264,7 +264,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 ### 🔸 Fun
 
-`-Jokenpo | -j < pedra > < papel > < tesoura >` Jooo keeen po!
+`-Jokenpo` `-j < pedra > < papel > < tesoura >` Jooo keeen po!
 
 `-coinflip < cara > < coroa >` Cara ou coroa?
  
@@ -280,9 +280,9 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-clima [SuaCidade]` Veja o clima da sua cidade
 
-`-translate | -t [pt][en][fr] [A frase que deseja traaduzir]` Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
+`-translate` `-t [pt][en][fr] [A frase que deseja traaduzir]` Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
 
-`-invisible | -invisivel` Não há nada aqui
+`-invisible` `-invisivel` Não há nada aqui
 
 `-piada` kkkkkk q u a l i d a d e
 
@@ -304,7 +304,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-loli` Lolicon
 
-`-stonks | -notstonks` Stonks esse comando
+`-stonks` `-notstonks` Stonks esse comando
 
 `-puppy` Fofiiiinho
 
