@@ -348,34 +348,61 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 > Interaja com as pessoas atráves de gifs sensacionais
 
 `-baka [@user]` Chame de Baka!
+
 `-bite [@user]` Mordidinha
+
 `-dedo [@user]` Educação
+
 `-greet [@user]` Comprimento
+
 `-fight [@user]` Briga, briga, briga!
+
 `-hug [@user]` Abraçar é tão boom
+
 `-kill [@user]` Mate!
+
 `-kiss [@user]` Hmmm, beijo é?
+
 `-onegai [@user]` Porfavoor
+
 `-pat [@user]` Cariiiinho
+
 `-rob [@user]` Roubar é tão feio...
+
+
 `-slap [@user]` Tapããão
+
 `-slaap [@user]` Tapão em foto
+
 `-love [@user]` Mande seu amor secretamente
+
+
 `-ery [@user]` Deboche
+
 `-lick [@user]` Peroriin
+
 `-suck [@user]` Chupada
+
+
 `-highfive [@user]` Toca Aqui
+
 `-poke [@user]` Cutucadinha
+
 `-shoot [@user]` Atire para matar
+
 `-shrug [@user]` Fazer oque ne
+
 `-stare [@user]` Olhar fixo
+
 `-stomp [@user]` Pise em alguem
+
 `-affect [@user]` Isso não afeta o bebê
 
 # 📝 Quiz - BETA
 > O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
 
 `-quiz` Você terá apenas 15 segundos para responder
+
 `-quiznaruto` Ainda na 1º Versão (Atualizando)
 
 ### Em breve
@@ -384,6 +411,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 #### Informações Adicionais
 
 Quiz: 27 Perguntas
+
 Quiz Naruto: 17 Perguntas
 
 # Maya Assistence
