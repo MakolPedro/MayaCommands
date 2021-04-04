@@ -336,7 +336,7 @@ Prefixo padrão ( - )
 **-sad** Triste
 
 
-# Maya Assistence:
+# Maya Assistence
 
 ### Desenvolvedor
 
