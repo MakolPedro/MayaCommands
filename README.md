@@ -3,7 +3,7 @@ Prefixo padrão ( - )
 
 ### Acesso Rápido
 
-❤️ [Meu Servidor](https://discord.gg/mx8eMx6) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8)
+❤️ [Meu Servidor](https://discord.gg/mx8eMx6) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Owner%20Commands.png)
 
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/Maya%20Profile%20Pic.png)
 
@@ -412,11 +412,6 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 Quiz: 27 Perguntas
 
 Quiz Naruto: 17 Perguntas
-
-# Exclusivo - Owner Commands
-> Comandos exclusivos do criador da Maya
-
-[Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Owner%20Commands.png)
 
 # Maya Assistence
 > Pessoas que ajudaram na construção da Maya
