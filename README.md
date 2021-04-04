@@ -13,7 +13,9 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 - Idade: 15
 - Aniversário: 15/03
 - Hobby: Interagir com o pessoal do Discord
-- Gostos: Músicas, animes, roupas de coelinho e sorvete de montão
+- Matérias Preferidas: Matemática, Física, Ciência e Técnologia
+- Objetivo: Assistir todas as séries da Netflix
+- Gostos: Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
