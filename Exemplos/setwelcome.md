@@ -12,6 +12,7 @@
 
 ### Comando
 > Escolha uma mensagem para aparecer na embed de boas vindas
+
 `-setwelcomemsg Sua Mensagem`
 
 ### Exemplo
