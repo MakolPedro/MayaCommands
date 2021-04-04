@@ -108,7 +108,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
 `-setlogchannel [#canal]` Canal de Relatório.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
+[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.md)
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
