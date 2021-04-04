@@ -372,7 +372,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-kiss [@user]` Hmmm, beijo é?
 
-`-onegai [@user]` Porfavoor
+`-onegai [@user]` Por favoor
 
 `-pat [@user]` Cariiiinho
 
