@@ -11,7 +11,7 @@ Prefixo padrão ( - )
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
-**-balance | -bal | -bal @user** Veja o seu dinheiro ou de alguém
+`-balance | -bal | -bal @user` Veja o seu dinheiro ou de alguém
 
 **-pay** Pague alguém
 
@@ -355,7 +355,7 @@ Discord: Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
 
 ### Designers
 
-Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
+Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233, CUTE BEAR INSTAGRAM
 
 ### Advices and Sugestions
 
