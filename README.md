@@ -11,49 +11,48 @@ Prefixo padrão ( - )
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
-`-balance` `-bal` `-bal @user`\\
-Veja o seu dinheiro ou de alguém
+`-balance` `-bal` `-bal @user` Veja o seu dinheiro ou de alguém
 
-**-pay** Pague alguém
+`-pay` Pague alguém
 
-**-blackjack -bj** Game de Cartas
+`-blackjack -bj` Game de Cartas
 
-**-bjhelp** Caso você não saiba jogar blackjack/21
+`-bjhelp` Caso você não saiba jogar blackjack/21
 
-**-dep | -dep all** Deposite seu dinheiro
+`-dep | -dep all` Deposite seu dinheiro
 
-**-sacar | -sacar all** Saque dinheiro do banco
+`-sacar | -sacar all` Saque dinheiro do banco
 
-**-roubar @user** Roube alguém
+`-roubar @user` Roube alguém
 
-**-work** Trabalhe e ganhe até 100 dinheirinhos
+`-work` Trabalhe e ganhe até 100 dinheirinhos
 
-**-daily** Pegue 500 dinheiros diariamente
+`-daily` Pegue 500 dinheiros diariamente
 
-**-lotery** Ganhe até 2000 dinheiros
+`-lotery` Ganhe até 2000 dinheiros
 
-**-slut** Ganhe ou perca até 10000 dinheiros
+`-slut` Ganhe ou perca até 10000 dinheiros
 
-**-level | -level @user** Veja seu level ou o de alguém
+`-level | -level @user` Veja seu level ou o de alguém
 
-**-dailyxp** 150xp diariamente
+`-dailyxp` 150xp diariamente
 
-**-rank** Ranking Interservidor de XP Maya
+`-rank` Ranking Interservidor de XP Maya
 
-**-marry @user** Se case com alguém
+`-marry @user` Se case com alguém
 
-**-divorce** Se divorcie
+`-divorce` Se divorcie
 
-**-family 1...5** Adicione até 5 pessoas a sua familia
+`-family 1...5` Adicione até 5 pessoas a sua familia
 
-**-nofamily 1...5** Tire alguém da sua familia
+`-nofamily 1...5` Tire alguém da sua familia
 
-**-rp** Dê reputação
+`-rp` Dê reputação
 
-**-setstatus** Defina seu status no seu perfil Exemplo:
+`-setstatus` Defina seu status no seu perfil Exemplo:
 *-setstatus Eu sou a lua que brilha no céu*
 
-**-profile | -perfil @user** Veja seu perfil ou o de alguém
+`-profile | -perfil @user` Veja seu perfil ou o de alguém
 
 
 
@@ -70,271 +69,271 @@ Veja o seu dinheiro ou de alguém
 #### [Obrigatório] < Opicional >
 
 #### 🔸Administração Exclusive (Personalização)
-**-setxpchannel #canal** Seleciona o canal para envio de mensagens XP Level Up
+`-setxpchannel #canal` Seleciona o canal para envio de mensagens XP Level Up
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Level%20up.png)
 
-**-setreportchannel [#canal]** Seleciona o canal para receber reports dos membros
+`-setreportchannel [#canal]` Seleciona o canal para receber reports dos membros
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Report%20Image.png)
 
-**-setautorole @cargo** Selecione um cargo para todos que entrar no servidor recebe-lo
+`-setautorole @cargo` Selecione um cargo para todos que entrar no servidor recebe-lo
 
-**-setleave [#canal]** Canal de saída
+`-setleave [#canal]` Canal de saída
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Leave%20no%20text.png)
 
-**-setwelcome [#canal]** Canal de boas vindas
+`-setwelcome [#canal]` Canal de boas vindas
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome%20no%20text.png)
 
-**-setwelcomemsg [Sua mensagem de boas vindas]** Escolha uma mensagem legal de boas vindas
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Welcome.png)
 
-**-setleavemsg [Sua mensagem de saída]** Escolha uma mensagem legal pra saida
+`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Embed%20Saida.png)
 
-**-setlogchannel [#canal]** Canal de Relatório
+`-setlogchannel [#canal]` Canal de Relatório
 [Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/Log%20Channel.png)
 [Exemplo2](https://github.com/rodycouto/MayaCommands/blob/main/Mute%20Exemple%20Embed.png)
 [Exemplo3](https://github.com/rodycouto/MayaCommands/blob/main/Kick%20Embed.png)
 
-**-unban [ID]** Desban algúm membro *(requer o ID do usuário)*
+`-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
-**-createchannel [#NomeDoCanal]** Crie canais de texto
+`-createchannel [#NomeDoCanal]` Crie canais de texto
 
-**-createvoice [#NomeDaCall]** Crie canais de voz
+`-createvoice [#NomeDaCall]` Crie canais de voz
 
-**-lockdown** Trave o servidor em caso de emergência
+`-lockdown` Trave o servidor em caso de emergência
 
 #### 🔸 Moderação
 
-**-move [@user]** Move o mebro pra sua call
+`-move [@user]` Move o mebro pra sua call
 
-**-addrole [@user] [@cargo]** Dê cargos
+`-addrole [@user] [@cargo]` Dê cargos
 
-**-removerole [@user] [@cargo]** Tire Cargos
+`-removerole [@user] [@cargo]` Tire Cargos
 
-**-setnick [@user] [Novo Nome]** Mude o nickname de alguém
+`-setnick [@user] [Novo Nome]` Mude o nickname de alguém
 
-**-kick [@user] <razão>** Chute alguém do servidor
+`-kick [@user] <razão>` Chute alguém do servidor
 
-**-ban [@user] <razão>** Banir membros
+`-ban [@user] <razão>` Banir membros
 
-**-muteinfo** Informações do Mute System
+`-muteinfo` Informações do Mute System
 
-**-mute [@user] [10s/m/h] <razão>** Mute alguém
+`-mute [@user] [10s/m/h] <razão>` Mute alguém
 
-**-unmute [@user] <razão>** Desmuta alguém
+`-unmute [@user] <razão>` Desmuta alguém
 
-**-warn [@user]** Dê Warns *razão em breve*
+`-warn [@user]` Dê Warns *razão em breve*
 
-**-warns [@user]** Confira Warns
+`-warns [@user]` Confira Warns
 
-**-rwarns | -resetwarns [@user]** Reset warns de alguém
+`-rwarns | -resetwarns [@user]` Reset warns de alguém
 
-**-kickvoice [@user]** Tire alguém da call
+`-kickvoice [@user]` Tire alguém da call
 
 ### 🔸 Chat Commands
 
-**-lockchannel <#canal>** Trave um canal especifico
+`-lockchannel <#canal>` Trave um canal especifico
 
-**-anunciar [Título] - [Anúncio]** Publique informações
+`-anunciar [Título] - [Anúncio]` Publique informações
 
-**-clear** Limpe o chat, veja os [comandos do Clear](https://github.com/rodycouto/MayaCommands/blob/main/Clear%20commands.png)
+`-clear` Limpe o chat, veja os [comandos do Clear](https://github.com/rodycouto/MayaCommands/blob/main/Clear%20commands.png)
 
-**-slowmode [Tempo em segundos]** Ative o modo lento
+`-slowmode [Tempo em segundos]` Ative o modo lento
 
 ### 🔸 Maya Comandos Exclusivos
 
-**-setprefix | -prefix [NovoPrefixo]** Mudar prefixo
+`-setprefix | -prefix [NovoPrefixo]` Mudar prefixo
 
-**-resetprefix** Reseta meu prefixo para ( - )
+`-resetprefix` Reseta meu prefixo para ( - )
 
-**-say [Sua mensagem]** Diga algo atráves de mim
+`-say [Sua mensagem]` Diga algo atráves de mim
 
-**-dm | -pv [@user] [Mensagem]** Comando Travado
+`-dm | -pv [@user] [Mensagem]` Comando Travado
 
 ### 🔸 Interação com os server
 
-**-criarcomando [NomeDoComando] [O que eu vou responder]** Cria um comando só pro servidor
+`-criarcomando [NomeDoComando] [O que eu vou responder]` Cria um comando só pro servidor
 
-**-deletecomando [NomeDoComando]** Deleta um comando criado
+`-deletecomando [NomeDoComando]` Deleta um comando criado
 
-**-sorteio [20s/m/h/d] [#CanalDoSorteio] [Prêmio]** Faça sorteios
+`-sorteio [20s/m/h/d] [#CanalDoSorteio] [Prêmio]` Faça sorteios
 
 # 🎮 Link de Games
 
 > Acesse os principais jogos rapidamente
 
-**-amongus**
+`-amongus`
 
-**-brawlhalla**
+`-brawlhalla`
 
-**-brawlstars**
+`-brawlstars`
 
-**-clashroyale | -clash**
+`-clashroyale | -clash`
 
-**-counterstrike | -cs**
+`-counterstrike | -cs`
 
-**-ddtank**
+`-ddtank`
 
-**-freefire | -ff**
+`-freefire | -ff`
 
-**-gartic**
+`-gartic`
 
-**-genshinimpact | -genshin**
+`-genshinimpact | -genshin`
 
-**-gta**
+`-gta`
 
-**-habbo**
+`-habbo`
 
-**-leagueoflegends | -lol**
+`-leagueoflegends | -lol`
 
-**-summoners | -sumwar**
+`-summoners | -sumwar`
 
-**-mario**
+`-mario`
 
-**-mobilelegends | -mbl**
+`-mobilelegends | -mbl`
 
-**-minecraft**
+`-minecraft`
 
-**-paladins**
+`-paladins`
 
-**-rocketleague**
+`-rocketleague`
 
-**-transformice | -tfm**
+`-transformice | -tfm`
 
-**-uno**
+`-uno`
 
-**-valorant**
+`-valorant`
 
 # 📺 Animes
 
 > Esses comandos estão sendo desenvolvidos ainda, não se preocupe
 
-**-ind** Indicação de Animes (+2000 Animes)
+`-ind` Indicação de Animes (+2000 Animes)
 
-**-sao** Fotos/gifs de Sword Art Online
+`-sao` Fotos/gifs de Sword Art Online
 
-**-quiznaruto** Quiz de Naruto pra quem é viciado
+`-quiznaruto` Quiz de Naruto pra quem é viciado
 
 # 💡 Comandos Gerais
 
 > Comandos úteis e que podem ajudar muito
 
-**-covid < br >** Informações mundiais sobre a COVID-19
+`-covid < br >` Informações mundiais sobre a COVID-19
 
 ### 🔸 Servidor
 
-**-invite | -inv** Me coloque no seu servidor
+`-invite | -inv` Me coloque no seu servidor
 
-**-ideia [Sua ideia]** Mande ideias pro seu Servidor para ser votada
+`-ideia [Sua ideia]` Mande ideias pro seu Servidor para ser votada
 
-**-report <@user> [O motivo do seu report]** coisas pra Staff do Servidor
+`-report <@user> [O motivo do seu report]` coisas pra Staff do Servidor
 
-**-serverinfo** Informações do Servidor
+`-serverinfo` Informações do Servidor
 
-**-dono | -owner** Veja quem é o dono do server
+`-dono | -owner` Veja quem é o dono do server
 
 ### 💡 Comandinhos da Maya
 
-**-ping** Pong!
+`-ping` Pong!
 
-**-uptime** Tempo que eu estou acordada
+`-uptime` Tempo que eu estou acordada
 
-**-botinfo** Informações sobre mim
+`-botinfo` Informações sobre mim
 
-**-sup | -support | -suporte** Minha central de Suporte
+`-sup | -support | -suporte` Minha central de Suporte
 
 ### 💡 Usuário
 
-**-avatar <@user>** Veja sua foto de perfil ou a de alguém
+`-avatar <@user>` Veja sua foto de perfil ou a de alguém
 
-**-id <@user>** Veja o ID
+`-id <@user>` Veja o ID
 
-**-spotify | -spot <@user>** Veja a música que alguém está escutando
+`-spotify | -spot <@user>` Veja a música que alguém está escutando
 
-**-user <@user>** Veja o nome de usúario de alguém
+`-user <@user>` Veja o nome de usúario de alguém
 
-**-userinfo <@user>** Veja informações detalhadas de alguém
+`-userinfo <@user>` Veja informações detalhadas de alguém
 
 ### 💡 Fun
 
-**-Jokenpo | -j < pedra > < papel > < tesoura >** Jooo keeen po!
+`-Jokenpo | -j < pedra > < papel > < tesoura >` Jooo keeen po!
 
-**-coinflip < cara > < coroa >** Cara ou coroa?
+`-coinflip < cara > < coroa >` Cara ou coroa?
  
-**-ascii [Sua mensagem]** Muito doido
+`-ascii [Sua mensagem]` Muito doido
 
-**-frase** Filosofia pura
+`-frase` Filosofia pura
 
-**-changemymind [Sua frase]** Changemymind Meme
+`-changemymind [Sua frase]` Changemymind Meme
 
 ### 💡 Util
 
-**-cat** Gatinhos são úteis, tá bom? ;-;
+`-cat` Gatinhos são úteis, tá bom? ;-;
 
-**-clima [SuaCidade]** Veja o clima da sua cidade
+`-clima [SuaCidade]` Veja o clima da sua cidade
 
-**-translate | -t [pt][en][fr] [A frase que deseja traaduzir]** Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
+`-translate | -t [pt][en][fr] [A frase que deseja traaduzir]` Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
 
-**-invisible | -invisivel** Não há nada aqui
+`-invisible | -invisivel` Não há nada aqui
 
-**-piada** kkkkkk q u a l i d a d e
+`-piada` kkkkkk q u a l i d a d e
 
-**-imc [peso] [altura]** (Peso e Altura sem ponto e virgula) Veja seu imc *Exemplo: -imc 75 181*
+`-imc [peso] [altura]` (Peso e Altura sem ponto e virgula) Veja seu imc *Exemplo: -imc 75 181*
 
 ### 💡 Random
 
-**-advice** This command is completelly in english
+`-advice` This command is completelly in english
 
-**-boom** Só faz boom
+`-boom` Só faz boom
 
-**-ecchi** Não recomendo usar isso
+`-ecchi` Não recomendo usar isso
 
-**-explosion** Megumiiin
+`-explosion` Megumiiin
 
-**-feet** Pézin
+`-feet` Pézin
 
-**-livia** Gay
+`-livia` Gay
 
-**-loli** Lolicon
+`-loli` Lolicon
 
-**-stonks | -notstonks** Stonks esse comando
+`-stonks | -notstonks` Stonks esse comando
 
-**-puppy** Fofiiiinho
+`-puppy` Fofiiiinho
 
 # ❤️ Comandos de Reações
 > Demonstre reações por gifs no servidor
 
-**-cry** Chorar as vezes faz bem
+`-cry` Chorar as vezes faz bem
 
-**-dance** Dance Dance
+`-dance` Dance Dance
 
-**-fury** Mostre sua furia!
+`-fury` Mostre sua furia!
 
-**-trig** TRIGGEEEEER
+`-trig` TRIGGEEEEER
 
-**-happy** Feliiiz
+`-happy` Feliiiz
 
-**-sleep** Que soninhoo
+`-sleep` Que soninhoo
 
-**-smile** Está feliz? Sorria!
+`-smile` Está feliz? Sorria!
 
-**-tired** que cansaço!
+`-tired` que cansaço!
 
-**-surprise** Mas o que é isso?
+`-surprise` Mas o que é isso?
 
-**-clap** Aplaudir é legal
+`-clap` Aplaudir é legal
 
-**-thin** Oque eu faço
+`-thin` Oque eu faço
 
-**-die** Morreu
+`-die` Morreu
 
-**-facepalm** Decepcionado(a)
+`-facepalm` Decepcionado(a)
 
-**-glare** Olhar Pistola
+`-glare` Olhar Pistola
 
-**-pout** Fazendo Bico
+`-pout` Fazendo Bico
 
-**-sad** Triste
+`-sad` Triste
 
 
 # Maya Assistence
