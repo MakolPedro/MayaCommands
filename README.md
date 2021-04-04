@@ -24,6 +24,7 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 ## 🧩 Maya System
 > Acesso ao meu sistema de economia, perfil e tudo mais.
 
+### Economia
 `-balance` `-bal` `-bal <@user>` Veja o seu dinheiro ou de alguém
 
 `-pay [@user] [valor]` Pague alguém
@@ -46,11 +47,15 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 
 `-slut` Ganhe ou perca até 10000 dinheiros
 
+### Level System
+
 `-level <@user>` Veja seu level ou o de alguém
 
 `-dailyxp` 150xp diariamente
 
 `-rank` Ranking Interservidor de XP Maya
+
+### Family System
 
 `-marry [@user]` Se case com alguém
 
@@ -59,6 +64,8 @@ Eu fui criada originalmente para ser uma bot de diversão e admnistração. Por�
 `-family [1...5]` Adicione até 5 pessoas a sua familia
 
 `-nofamily [1...5]` Tire alguém da sua familia
+
+### Perfil
 
 `-rp [@user]` Dê reputação
 
