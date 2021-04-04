@@ -339,6 +339,8 @@ Prefixo padrão ( - )
 
 > Todos os direitos abaixo
 
+[Servidor Central](https://discord.gg/mx8eMx6) | [Host Atual](https://replit.com/)
+
 ### Desenvolvedor
 
 Discord: Rody#3756
