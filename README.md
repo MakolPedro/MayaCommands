@@ -1,8 +1,6 @@
 # 🌟 Todos os comandos disponiveis da Maya™
 Prefixo padrão ( - )
 
-[![]](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
-
 Guia Rápido: [ Obrigatório ] < Opicional >
 
 ### Acesso Rápido
