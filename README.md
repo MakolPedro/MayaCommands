@@ -1,6 +1,8 @@
 # 🌟 Todos os comandos disponiveis da Maya™
 Prefixo padrão ( - )
 
+[![Me Adicione](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)]
+
 Guia Rápido: [ Obrigatório ] < Opicional >
 
 ### Acesso Rápido
@@ -11,8 +13,6 @@ Guia Rápido: [ Obrigatório ] < Opicional >
 
 ### Oláá, meu nome é Maya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
-
-
 
 ## Minhas informações
 - **Nome:** Maya
