@@ -307,6 +307,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-advice` This command is completelly in english
 
+`-history` Histórias escritas por membros do Discord
+
 `-boom` Só faz boom
 
 `-ecchi` Não recomendo usar isso
