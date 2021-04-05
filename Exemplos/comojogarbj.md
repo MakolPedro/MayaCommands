@@ -27,7 +27,7 @@ O blackjack foi desenvolvido para ser fácil de jogar, então não se preocupe.
 
 Você jogará contra mim. Siim, eu serei sua adversária!
 
-Você terá apenas 2 opcões, comprar ou finalizar o jogo, como dita as regras.
+Você terá apenas 2 opções, comprar ou finalizar o jogo, como dita as regras.
 
 Inicie o jogo e veja seus pontos, para comprar digite `C`, para finalizar digite `F`
 
