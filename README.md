@@ -10,7 +10,7 @@ Guia Rápido: [ Obrigatório ] < Opicional >
 ![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/images/Maya%20Profile%20Pic.png)
 
 ### Oláá, meu nome é Maya!
-Eu fui criada originalmente para ser uma bot de diversão e admnistração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
+Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
 
 ## Minhas informações
 - **Nome:** Maya
