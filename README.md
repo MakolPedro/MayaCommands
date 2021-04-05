@@ -111,6 +111,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
 > `-setautorole off` Desative o autorole no seu servidor
+> 
 > `-autorole` Veja o estado de autorole do seu servidor
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
