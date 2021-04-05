@@ -22,6 +22,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 - **Matérias Preferidas:** Ciência e Técnologia
 - **Objetivo:** Assistir todas as séries da Netflix
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
+- **Informações Técnicas:** `-botinfo`
 
 ## 🧩 Maya System
 > Eu tenho um sistema único e ele é integrado com todos os outros servidor
