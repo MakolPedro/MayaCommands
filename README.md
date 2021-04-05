@@ -14,7 +14,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 ## Minhas informações
 - **Nome:** Maya
-- **Idade**: 15
+- **Idade**: 14
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com o pessoal do Discord
 - **Matérias Preferidas:** Matemática, Física, Ciência e Técnologia
@@ -22,7 +22,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 
 ## 🧩 Maya System
-> Acesso ao meu sistema de economia, perfil e tudo mais.
+> Eu tenho um sistema único e ele é integrado com todos os outros servidor
 
 `-help` `-h` `-ajuda` Painel de ajuda
 
