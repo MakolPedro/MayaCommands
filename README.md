@@ -95,7 +95,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 #### 🔸Administração Exclusive (Personalização)
 `-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
 
-`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.`
+`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.)
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
 > `-autorole` Veja o estado de autorole no seu servidor
