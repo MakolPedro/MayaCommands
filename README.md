@@ -93,27 +93,25 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 > Isso aqui é um paraiso para os Mods e Adms
 
 #### 🔸Administração Exclusive (Personalização)
+
 `-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
 
 `-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.)
 
+`-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
+
+`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
+
+`-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
+> `-setwelcome off` Desative o sistema de boas vindas
+
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
+
+`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
+
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
-> `-autorole` Veja o estado de autorole no seu servidor
-
-`-setleave [#canal]` Canal de saída.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
-
-`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
-
-`-setwelcome [#canal]` Canal de boas vindas.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
-
-`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
-
-`-setlogchannel [#canal]` Canal de Relatórios.
-[Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
+> `-setautorole off` Desative o autorole no seu servidor
+> `-autorole` Veja o estado de autorole do seu servidor
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
