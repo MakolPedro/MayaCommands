@@ -1,5 +1,7 @@
 # ♠️ ♥️ Jogo de Cartas Blackjack / 21 ♣️ ♦️
 
+![Blackjack Cards](https://github.com/rodycouto/MayaCommands/blob/main/images/Blackjack%20cards.jpg)
+
 ### ♦️ O que é blackjack?
 
 O Blackjack também conhecido como 21 é um jogo simples.
