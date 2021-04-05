@@ -6,7 +6,7 @@ O Blackjack também conhecido como 21 é um jogo simples.
 
 Seu objetivo é atingir **21 pontos** na soma das cartas, se passar disso, você perde.
 
-Você e seu adversário começa com 2 cartas cada. O valor de cada carta é o número presente nas cartas, no entanto, as cartas `J`, `Q`, `K` valem 10 pontos e o `A` vale 1.
+Você e seu adversário começa com 2 cartas cada. O valor de cada carta é o número presente nas cartas, no entanto, as cartas `J`, `Q`, `K` valem 10 pontos e o `A` vale 1 ponto.
 
 Caso você começe o jogo com poucos pontos, você pode comprar cartas do baralho, porém, você não sabe o número que virá, então, cuidado.
 
