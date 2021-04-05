@@ -7,7 +7,7 @@ Guia Rápido: [ Obrigatório ] < Opicional >
 
 ❤️ [Meu Servidor](https://discord.gg/mx8eMx6) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/owner.md)
 
-[![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/images/Mays%20Picture.png)](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
+[![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/images/Maya%20logo%20qrcode.png)](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
 
 ### Oláá, meu nome é Maya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
