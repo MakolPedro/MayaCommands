@@ -3,7 +3,7 @@ Prefixo padrão ( - )
 
 Guia Rápido: [ Obrigatório ] < Opicional >
 
-### Acesso Rápido [![Me Adicione]](https://github.com/rodycouto/MayaCommands/blob/main/images/Me%20Adicione%20Logo.png)
+### Acesso Rápido [![Me Adicione](https://github.com/rodycouto/MayaCommands/blob/main/images/Me%20Adicione%20Logo.png)]
 
 ❤️ [Meu Servidor](https://discord.gg/mx8eMx6) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/owner.md)
 
