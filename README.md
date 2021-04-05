@@ -35,7 +35,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-blackjack [valor]` `-bj [valor]` Game de Cartas
 
-`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](LINK)
+`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
