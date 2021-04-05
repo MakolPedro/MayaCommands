@@ -97,9 +97,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.`
 
-`-autorole` Veja o estado de autorole no seu servidor
-
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
+> `-autorole` Veja o estado de autorole no seu servidor
 
 `-setleave [#canal]` Canal de saída.
 [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
