@@ -4,7 +4,8 @@
 
 ### ♦️ O que é blackjack?
 
-> Sem termos técnicos como bet ou hit por aqui, está bem? [Informações técnicas sobre o Blackjack](https://pt.wikipedia.org/wiki/Blackjack)
+> Sem termos técnicos como bet ou hit por aqui, está bem?
+Veja as [informações técnicas sobre o Blackjack](https://pt.wikipedia.org/wiki/Blackjack) se ficar curioso.
 
 O Blackjack também conhecido como 21 é um jogo simples.
 
