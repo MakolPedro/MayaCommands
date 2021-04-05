@@ -35,7 +35,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-blackjack [valor]` `-bj [valor]` Game de Cartas
 
-`-bjhelp` Caso você não saiba jogar blackjack/21
+`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](LINK)
 
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
