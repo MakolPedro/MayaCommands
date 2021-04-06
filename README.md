@@ -113,6 +113,9 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
 
+`-blockchannel <#canal>` Bloqueie meus comandos em canais especificos
+> `-unblockchannel <#canal>` Libere meus comandos
+
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
 > `-setautorole off` Desative o autorole no seu servidor
 
