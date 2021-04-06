@@ -448,27 +448,13 @@ Quiz Naruto: 17 Perguntas
 
 [Servidor Central](https://discord.gg/mx8eMx6) | [Host Atual](https://replit.com/)
 
-### Desenvolvedor
+### Créditos a todos que ajudaram
 
-Discord: Rody#3756
+Rody#3756 | `Construção do Código e Pesquisa`
 
-Coop: Gowther#9233
+Gowther#9233 | `90% dos Gifs e Comandos de Animes`
 
-Email: rodrigo.couto.santos@hotmail.com
-
-### Review for bugs and advices
-
-Discord: Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
-
-### Designers
-
-Discord: Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
-
-Gifs do Ursinho: [@milkmochabear](https://www.instagram.com/milkmochabear)
-
-### Advices and Sugestions
-
-𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | Comandos de Administração
+𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração`
 
 LucasLuquisquiss#4643 | `-frase`
 
@@ -478,6 +464,16 @@ Giacometti#4849 | `-feet`
 
 Dog Comunista#2185 | `-block`
 
-Coiny#9056 | Ideias no Painel Interativo
+Coiny#9056 | `Ideias no Painel Interativo`
 
-CALORIES#2822 | Music System Helper
+CALORIES#2822 | `Music System Helper` ~ USA
+
+### Caça Bugs
+
+Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
+
+### Designers
+
+Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
+
+@milkmochabear: [Gifs do Ursinho](https://www.instagram.com/milkmochabear)
