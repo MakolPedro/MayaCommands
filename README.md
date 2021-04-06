@@ -311,6 +311,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-boom` Só faz boom
 
+`-senpai` Meu senpai
+
 `-ecchi` Não recomendo usar isso
 
 `-explosion` Megumiiin
