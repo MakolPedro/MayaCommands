@@ -231,6 +231,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 > Esses comandos estão sendo desenvolvidos ainda, não se preocupe
 
+`-anime [Seu anime]` Pesquisa de animes
+
 `-ind` Indicação de Animes (+2000 Animes)
 
 `-sao` Fotos/gifs de Sword Art Online
