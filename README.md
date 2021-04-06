@@ -32,7 +32,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-oldhelp` Antigo painel de ajuda
 
 ### Economia
-`-balance` `-bal` `-bal <@user>` Veja o seu dinheiro ou de alguém
+`-bal <@user>` Veja o seu dinheiro ou de alguém
+> `-balance` `-bal` `-atm` `-money`
 
 `-pay [@user] [valor]` Pague alguém
 
@@ -325,6 +326,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-livia` Gay
 
+`-suicide` Faz isso não
+
 `-loli` Lolicon
 
 `-stonks` `-notstonks` Stonks esse comando
@@ -378,6 +381,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-greet [@user]` Comprimento
 
 `-fight [@user]` Briga, briga, briga!
+
+`-luta [@user]` Lutinha saudavel
 
 `-hug [@user]` Abraçar é tão boom
 
