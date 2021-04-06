@@ -1,4 +1,5 @@
 # 🌟 Todos os comandos disponiveis da Maya™
+> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro (Modo Dark é lindo)
 Prefixo padrão ( - )
 
 Guia Rápido: [ Obrigatório ] < Opicional >
