@@ -29,8 +29,6 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-help` `-h` `-ajuda` Painel de ajuda
 
-`-oldhelp` Antigo painel de ajuda
-
 ### Afk Command
 `-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline.
 
