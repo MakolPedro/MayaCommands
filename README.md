@@ -31,6 +31,9 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-oldhelp` Antigo painel de ajuda
 
+### Afk Command
+`-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline.
+
 ### Economia
 `-bal <@user>` Veja o seu dinheiro ou de alguém
 > `-balance` `-bal` `-atm` `-money` `-conta` `mp`
