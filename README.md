@@ -33,27 +33,29 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 ### Economia
 `-bal <@user>` Veja o seu dinheiro ou de alguém
-> `-balance` `-bal` `-atm` `-money`
+> `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
-`-pay [@user] [valor]` Pague alguém
+`-pagar` `-pay [@user] [valor]` Pague alguém
 
 `-blackjack [valor]` `-bj [valor]` Game de Cartas
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
+`-crime` Cuidado para não ser preso
+
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
 `-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
 
-`-roubar [@user]` Roube alguém
+`-rob` `-roubar [@user]` Roube alguém
 
-`-work` Trabalhe e ganhe até 100 dinheirinhos
+`-trabalhar` `-work` Trabalhe e ganhe até 100 dinheirinhos
 
 `-daily` Pegue 500 dinheiros diariamente
 
 `-lotery` Ganhe até 2000 dinheiros
 
-`-slut` Ganhe ou perca até 10000 dinheiros
+`-prostituir` `-slut` Ganhe ou perca até 10000 dinheiros
 
 `-loja` `-slot` `-buy` `-send` `-give` `-cobrar` Em Breve
 
@@ -314,6 +316,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 ### 🔸 Random
 
 `-advice` This command is completelly in english
+
+`-conselho` Esse comando é completamente em português
 
 `-history` Histórias escritas por membros do Discord
 
