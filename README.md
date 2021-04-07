@@ -169,8 +169,6 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
 
-`-anunciar [Título] - [Anúncio]` Publique informações
-
 `-clear` Limpe o chat. Veja o [Comando  Clear](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/clear.md)
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
