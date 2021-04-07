@@ -300,7 +300,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-frase` Filosofia pura
 
-`~-changemymind [Sua frase]~` Changemymind Meme
+~`-changemymind [Sua frase]`~ Changemymind Meme
 
 ### 🔸 Util
 
