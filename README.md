@@ -300,7 +300,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-frase` Filosofia pura
 
-`-changemymind [Sua frase]` Changemymind Meme
+`~-changemymind [Sua frase]~` Changemymind Meme
 
 ### 🔸 Util
 
@@ -382,31 +382,33 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 # 🤝 Comandos de Interação
 > Interaja com as pessoas atráves de gifs sensacionais
 
+`-votação` `-votar` `-vote [O que deseja ser votado]` Abra um votação
+
 `-baka [@user]` Chame de Baka!
 
-`-bite [@user]` Mordidinha
+`-morder` `-bite [@user]` Mordidinha
 
 `-dedo [@user]` Educação
 
-`-greet [@user]` Comprimento
+`-saudar` `-comprimentrar` `-greet [@user]` Comprimento
 
 `-fight [@user]` Briga, briga, briga!
 
-`-luta [@user]` Lutinha saudavel
+`-lutar [@user]` Lutinha saudavel
 
-`-hug [@user]` Abraçar é tão boom
+`-abraço` `-abraçar` `-hug [@user]` Abraçar é tão boom
 
-`-kill [@user]` Mate!
+`-matar` `-kill [@user]` Mate!
 
-`-kiss [@user]` Hmmm, beijo é?
+`-beijo` `-beijar` `-kiss [@user]` Hmmm, beijo é?
 
-`-onegai [@user]` Por favoor
+`implorar` `-onegai [@user]` Por favoor
 
-`-pat [@user]` Cariiiinho
+`-carinho` `-pat [@user]` Cariiiinho
 
 `-rob [@user]` Roubar é tão feio...
 
-`-slap [@user]` Tapããão
+`-tapa` `-slap [@user]` Tapããão
 
 `-slaap [@user]` Tapão em foto
 
@@ -414,23 +416,25 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-ery [@user]` Deboche
 
-`-lick [@user]` Peroriin
+`-lambar` `-lick [@user]` Peroriin
 
-`-suck [@user]` Chupada
+`-chupar` `-suck [@user]` Chupada
 
-`-highfive [@user]` Toca Aqui
+`-tocaai` `-highfive [@user]` Toca Aqui
 
-`-poke [@user]` Cutucadinha
+`-cutucar` `-poke [@user]` Cutucadinha
 
-`-shoot [@user]` Atire para matar
+`-atirar` `-shoot [@user]` Atire para matar
 
 `-shrug [@user]` Fazer oque ne
 
-`-stare [@user]` Olhar fixo
+`-olhar` `-stare [@user]` Olhar fixo
 
-`-stomp [@user]` Pise em alguem
+`-pisar` `-stomp [@user]` Pise em alguem
 
 `-affect [@user]` Isso não afeta o bebê
+
+`-explodir [@user]` Exploda alguém
 
 # 📝 Quiz - BETA
 > O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
