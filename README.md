@@ -43,6 +43,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-crime` Cuidado para não ser preso
+> `fugir` Caso você tenha sido preso
 
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
@@ -165,6 +166,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 ### 🔸 Chat Commands
 
 `-lockchannel <#canal>` Trave um canal especifico
+
+`-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
 
 `-anunciar [Título] - [Anúncio]` Publique informações
 
@@ -479,7 +482,7 @@ CALORIES#2822 | `Music System Helper` ~ USA
 
 ### Caça Bugs
 
-Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508
+Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508, Bαყʑι ッ#5485
 
 ### Designers
 
