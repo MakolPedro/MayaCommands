@@ -480,7 +480,15 @@ CALORIES#2822 | `Music System Helper` ~ USA
 
 ### Caça Bugs
 
-Casado✋🏻😎#9113, Pitticco#1827, MakolPedro#8508, Bαყʑι ッ#5485
+Casado✋🏻😎#9113: `5 bugs`
+
+Pitticco#1827: `Bug Mute`
+
+### Try Hard
+
+MakolPedro#8508: `32 Bugs`
+
+Bαყʑι ッ#5485: `4 Bugs`
 
 ### Designers
 
