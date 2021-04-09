@@ -73,9 +73,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
 Utilize seu dinheirinho
-- Pague: `-give` `-pagar` `-pay [@user] [valor]`
-- Compre: ~`-buy` `-loja` `-store`~
-- Deposite: `-dep [valor]` `-dep [all]`
+- Pague: `-pay [@user] [valor]`
+- Compre: ~`-loja`~
+- Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 
 Se divirta ganhando e perdendo dinheiro
@@ -83,11 +83,7 @@ Se divirta ganhando e perdendo dinheiro
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-`-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
-
-> Traduções possiveis por enquanto: `-roubar` `-trabalhar` `-prostituir`
-
- `-slot` `-cobrar` Em Breve
+> Traduções possiveis por enquanto: `-depositar` `-withdraw` `-loteria` ~`-store` `-buy`~ `-pagar` `-give` `-roubar` `-trabalhar` `-prostituir` ~`-slot` `-cobrar`~
 
 ### Level System
 > No momento, o Level System Global está em vigor, o sistema de level por servidor estará disponível em breve
