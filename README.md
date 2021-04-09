@@ -79,14 +79,14 @@ Utilize seu dinheirinho
 - Saque: `-sacar [valor]/[all]`
 
 Se divirta ganhando e perdendo dinheiro
-> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` 
+- `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` 
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-> Traduções possiveis por enquanto: `-depositar` `-withdraw` `-loteria` ~`-store` `-buy`~ `-pagar` `-give` `-roubar` `-trabalhar` `-prostituir` ~`-slot` `-cobrar`~
+- Traduções possiveis por enquanto: `-depositar` `-withdraw` `-loteria` ~`-store` `-buy`~ `-pagar` `-give` `-roubar` `-trabalhar` `-prostituir` ~`-slot` `-cobrar`~
 
-### Level System
-> No momento, o Level System Global está em vigor, o sistema de level por servidor estará disponível em breve
+### ⬆️ Level System - Uhuul, level up!
+> É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
 
 `-level <@user>` Veja seu level ou o de alguém
 
