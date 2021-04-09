@@ -37,7 +37,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-afkhelp` Informações úteis
 
 ### Economia
-`-bal <@user>` Veja o seu dinheiro ou de alguém
+`-bal <@user>` Veja o seu dinheiro ou o de alguém
 > `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
 `-pagar` `-pay [@user] [valor]` Pague alguém
@@ -47,7 +47,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-crime` Cuidado para não ser preso
-> `fugir` Caso você tenha sido preso
+
+`-fugir` Foi preso? Tente fugir (cuidado)
 
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
