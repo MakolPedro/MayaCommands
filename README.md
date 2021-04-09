@@ -77,9 +77,11 @@ Utilize seu dinheirinho
 - Compre: ~`-loja`~
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
+- Roube: `-rob [@user]`
+- Jogue: `-blackjack [valor]`
 
 Se divirta ganhando e perdendo dinheiro
-- `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` 
+- `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-bj [valor]` 
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
