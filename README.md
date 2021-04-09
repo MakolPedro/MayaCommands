@@ -54,7 +54,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 ## O Novíssimo AFK Global Command
 - Com esse novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
 
-`-afkhelp` Informações úteis, uma boa explicação e comandos de exemplos fáceis
+`-afkhelp` Informações úteis, uma boa explicação e exemplos fáceis
 
 `-afk < razão >` Ative o AFK no seu servidor
 
