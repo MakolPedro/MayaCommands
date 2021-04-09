@@ -66,8 +66,8 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 - ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
 
 
-## O Reformulado Sistema de Economia Global
-> O meu sistema de economia global é unificado. Se você tem 100 dinheirinhos no servidor A, você vai ter 100 dinheirinhos no servidor B. Funciona com perfil. status, level, afk e todas as outras coisas também.
+## 🪙 O Reformulado Sistema de Economia Global
+> Gastei o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
