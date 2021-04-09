@@ -32,7 +32,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 ## O Novissimo AFK Global Command
 - Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
 
-Ative o AFK no seu servidor
+Ative o AFK no seu servido
 > `-afk < razão >` 
 
 Ative o AFK em todos os servidores. SIIM, em todos!
@@ -43,8 +43,8 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 ## O Reformulado Sistema de Economia Global
 > O meu sistema de economia global é unificado. Se você tem 100 dinheirinhos no servidor A, você vai ter 100 dinheirinhos no servidor B. Funciona com perfil. status, level, afk e todas as outras coisas também.
 
-Veja o seu dinheiro ou o de alguém
-> `-bal <@user>` `-balance` `-bal` `-atm` `-money` `-conta` `mp`
+Veja o seu saldo ou o de alguém *(adicione @user para ver o saldo de um amigo)*
+-  `-bal` `-balance` `-bal` `-atm` `-money` `-conta` `mp` `-saldo`
 
 Pague alguém
 > `-pagar` `-pay [@user] [valor]`
