@@ -3,11 +3,11 @@
 
 Prefixo padrão ( - )
 
-# Para você não se perder, presta atenção em!
+# Para você não se perder aqui, presta atenção em!
 
-[ **Argumentos Obrigatórios** ] `-help [commands]` Palavras necessárias para o comando funcionar.
+** [Argumentos Obrigatórios]** `-help [commands]` Palavras necessárias para o comando funcionar.
 
-< **Opicional** > `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
+**<Opicional>** `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
 
 **~Em reforma/Indisponivel~** Comando fora do ar pra reforma ou porque bugou e não quer pergar
 
