@@ -59,7 +59,8 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 `-afk < razão >` Ative o AFK no seu servidor
 
 Ative o AFK em todos os servidores. SIIM, em todos!
-> `-afk [all] < sua mensagem >`
+
+`-afk [all] < sua mensagem >`
 
 `-afk [global] < sua mensagem >`
 ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
