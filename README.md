@@ -1,5 +1,5 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
-> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro para melhor esse lugar em 500%
+> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro para melhorar esse lugar em 500%
 
 Prefixo padrão ( - )
 
