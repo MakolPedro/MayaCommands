@@ -49,7 +49,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 *Este é o sistema global da Maya.*
 
-# 🌟 Todos os comandos disponiveis da Maya™
+# 🌟 Todos os meus lindos comandos
 
 ## O Novíssimo AFK Global Command
 - Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
