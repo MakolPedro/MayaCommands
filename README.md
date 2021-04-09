@@ -54,13 +54,16 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 ## O Novíssimo AFK Global Command
 - Com esse novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
 
-Ative o AFK no seu servidor
-> `-afk < razão >` 
+`-afkhelp` Informações úteis, uma boa explicação e comandos de exemplos fáceis
+
+`-afk < razão >` Ative o AFK no seu servidor
 
 Ative o AFK em todos os servidores. SIIM, em todos!
-> `-afk [all] < sua mensagem >` `-afk [global] < sua mensagem >`
+> `-afk [all] < sua mensagem >`
+
+`-afk [global] < sua mensagem >`
 ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
-`-afkhelp` Informações úteis
+
 
 ## O Reformulado Sistema de Economia Global
 > O meu sistema de economia global é unificado. Se você tem 100 dinheirinhos no servidor A, você vai ter 100 dinheirinhos no servidor B. Funciona com perfil. status, level, afk e todas as outras coisas também.
