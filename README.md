@@ -29,7 +29,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-help` `-h` `-ajuda` Painel de ajuda
 
-### O Novissimo **AFK Global Command**
+### O Novissimo AFK Global Command
 `-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline
 
 `-afk [all] < razão >` Quando alguém te chamar, eu avisarei que você está offline em qualquer servidor que eu esteja
