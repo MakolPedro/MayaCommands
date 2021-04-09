@@ -32,7 +32,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 ## O Novissimo AFK Global Command
 - Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
 
-Ative o AFK no seu servido
+Ative o AFK no seu servidor
 > `-afk < razão >` 
 
 Ative o AFK em todos os servidores. SIIM, em todos!
