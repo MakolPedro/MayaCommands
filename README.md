@@ -66,7 +66,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 - ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
 
 
-## 🪙 O Reformulado Sistema de Economia Global
+## 💸 O Reformulado Sistema de Economia Global
 > Gastei o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
