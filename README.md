@@ -5,11 +5,14 @@ Prefixo padrão ( - )
 
 ## Para você não se perder aqui, presta atenção em!
 
-**[Argumentos Obrigatórios]** `-ban [@fulano]` Palavras necessárias para o comando funcionar.
+**[Argumento Obrigatório]** 
+> `-ban [@fulano]` Palavras necessárias para o comando funcionar.
 
-**< Opicional >** `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
+**< Argumento Opicional >**
+> `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
 
-**~Em reforma/Indisponivel~** Comandos fora do ar pra reforma ou por algum motivo desconhecido.
+**~Em reforma/Indisponivel~**
+> Comandos fora do ar pra reforma ou por algum motivo desconhecido.
 
 ### Acesso Rápido
 
