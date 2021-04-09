@@ -79,7 +79,9 @@ Utilize seu dinheirinho
 - Saque: `-sacar [valor]/[all]`
 
 Se divirta ganhando e perdendo dinheiro
-> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
+> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` 
+
+`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
 
