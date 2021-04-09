@@ -52,14 +52,14 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 # 🌟 Todos os meus lindos comandos
 
 ## O Novíssimo AFK Global Command
-- Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
+- Com esse novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
 
 Ative o AFK no seu servidor
 > `-afk < razão >` 
 
 Ative o AFK em todos os servidores. SIIM, em todos!
 > `-afk [all] < sua mensagem >` `-afk [global] < sua mensagem >`
-
+##### O AFK System será desativado no momento em que você mandar alguma mensagem.
 `-afkhelp` Informações úteis
 
 ## O Reformulado Sistema de Economia Global
