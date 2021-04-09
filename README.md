@@ -30,10 +30,11 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-help` `-h` `-ajuda` Painel de ajuda
 
 ### Afk Command
-`-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline.
+`-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline
 
-`-afk [all] < razão >`  Quando para todos os servidores te chamar, eu avisarei que você está offline.
-> Exemplo: `-afk all Almoçando`
+`-afk [all] < razão >` Quando alguém te chamar, eu avisarei que você está offline em qualquer servidor que eu esteja
+
+`-afkhelp` Informações úteis
 
 ### Economia
 `-bal <@user>` Veja o seu dinheiro ou de alguém
@@ -123,7 +124,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-blockchannel <#canal>` Bloqueie meus comandos em canais especificos
 > `-unblockchannel <#canal>` Libere meus comandos
 
-`-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente.
+`-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente
 > `-setautorole off` Desative o autorole no seu servidor
 
 > `-autorole` Veja o estado de autorole do seu servidor
@@ -172,7 +173,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
 
-`-clear` Limpe o chat. Veja o [Comando  Clear](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/clear.md)
+`-clear` Limpe o chat. [Veja os comandos do Clear](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/clear.md)
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
