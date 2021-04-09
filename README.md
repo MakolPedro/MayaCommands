@@ -47,30 +47,23 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 -  `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
 Pague alguém
-> `-pagar` `-pay [@user] [valor]`
+> `-give` `-pagar` `-pay [@user] [valor]`
 
-Game de Cartas
+Game de Cartas - Blackjack
 > `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-`-crime` Cuidado para não ser preso
+Se divirta ganhando e perdendo dinheiro
+> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]`
 
-`-fugir` Foi preso? Tente fugir (cuidado)
 
 `-dep [valor]` `-dep [all]` Deposite seu dinheiro
 
 `-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
 
-`-rob` `-roubar [@user]` Roube alguém
+> Traduções possiveis por enquanto: `-roubar` `-trabalhar` `-prostituir`
 
-`-trabalhar` `-work` Trabalhe e ganhe até 100 dinheirinhos
 
-`-daily` Pegue 500 dinheiros diariamente
-
-`-lotery` Ganhe até 2000 dinheiros
-
-`-prostituir` `-slut` Ganhe ou perca até 10000 dinheiros
-
-`-loja` `-slot` `-buy` `-send` `-give` `-cobrar` Em Breve
+`-loja` `-slot` `-buy` `-give` `-cobrar` Em Breve
 
 ### Level System
 > No momento, o Level System Global está em vigor, o sistema de level por servidor estará disponível em breve
