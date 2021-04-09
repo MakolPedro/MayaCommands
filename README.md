@@ -36,15 +36,15 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-afkhelp` Informações úteis
 
-### Economia
+### O reformulado Sistema de Economia Global
  Veja o seu dinheiro ou o de alguém
 > `-bal <@user>` `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
-`-pagar` `-pay [@user] [valor]` Pague alguém
+Pague alguém
+> `-pagar` `-pay [@user] [valor]`
 
-`-blackjack [valor]` `-bj [valor]` Game de Cartas
-
-`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
+Game de Cartas
+> `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-crime` Cuidado para não ser preso
 
