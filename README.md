@@ -43,7 +43,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 ## O Reformulado Sistema de Economia Global
 > O meu sistema de economia global é unificado. Se você tem 100 dinheirinhos no servidor A, você vai ter 100 dinheirinhos no servidor B. Funciona com perfil. status, level, afk e todas as outras coisas também.
 
-Veja o seu saldo ou o de alguém *(adicione @user para ver o saldo de um amigo)*
+Veja o seu saldo *(adicione @user para ver o saldo de um amigo `-saldo @user`)*
 -  `-bal` `-balance` `-bal` `-atm` `-money` `-conta` `mp` `-saldo`
 
 Pague alguém
