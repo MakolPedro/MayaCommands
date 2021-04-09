@@ -32,6 +32,9 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 ### Afk Command
 `-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline.
 
+`-afk [all] < razão >`  Quando para todos os servidores te chamar, eu avisarei que você está offline.
+> Exemplo: `-afk all Almoçando`
+
 ### Economia
 `-bal <@user>` Veja o seu dinheiro ou de alguém
 > `-balance` `-bal` `-atm` `-money` `-conta` `mp`
