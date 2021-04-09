@@ -67,7 +67,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 
 
 ## 💸 O Reformulado Sistema de Economia Global
-> Gastei o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
+> Gaste o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
@@ -77,6 +77,7 @@ Utilize seu dinheirinho
 - Compre: ~`-buy` `-loja` `-store`~
 - Deposite: `-dep [valor]` `-dep [all]`
 - Saque: `-sacar [valor]/[all]`
+
 Se divirta ganhando e perdendo dinheiro
 > `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
