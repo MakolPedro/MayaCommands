@@ -3,7 +3,7 @@
 
 Prefixo padrão ( - )
 
-#### Para você não se perder, presta atenção em!
+# Para você não se perder, presta atenção em!
 
 [ **Argumentos Obrigatórios** ] `-help [commands]` Palavras necessárias para o comando funcionar.
 
