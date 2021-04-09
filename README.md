@@ -1,15 +1,15 @@
-# 🌟 Todos os comandos disponiveis da Maya™
-> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro (No Modo Dark é Melhor)
+# 👩‍💻 Centralzinha de Ajuda e Comandos
+> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro para melhor esse lugar em 500%
 
 Prefixo padrão ( - )
 
-# Para você não se perder aqui, presta atenção em!
+## Para você não se perder aqui, presta atenção em!
 
 **[Argumentos Obrigatórios]** `-ban [@fulano]` Palavras necessárias para o comando funcionar.
 
 **< Opicional >** `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
 
-**~Em reforma/Indisponivel~** Comando fora do ar pra reforma ou porque bugou e não quer pergar
+**~Em reforma/Indisponivel~** Comandos fora do ar pra reforma ou por algum motivo desconhecido.
 
 ### Acesso Rápido
 
@@ -34,6 +34,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 > Graças ao meu sistema Interservidor, suas informações se mantem em todos os servidores em que eu esteja, tipo o seu level, dinheiro e outras coisas.
 
 `-help` `-h` `-ajuda` Painel de ajuda
+
+# 🌟 Todos os comandos disponiveis da Maya™
 
 ## O Novíssimo AFK Global Command
 - Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
