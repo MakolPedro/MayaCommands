@@ -40,7 +40,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 
 `-afkhelp` Informações úteis
 
-## O Reformulado Sistema de Economia Global
+>## O Reformulado Sistema de Economia Global
 Veja o seu dinheiro ou o de alguém
 > `-bal <@user>` `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
