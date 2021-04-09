@@ -38,10 +38,15 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 
-## 🧩 Maya System
-> Graças ao meu sistema Interservidor, suas informações se mantem em todos os servidores em que eu esteja, tipo o seu level, dinheiro e outras coisas.
+## 🧩 Maya Global System
+- Siiiim, eu tenho um sistema Global! O que isso significa? Também não sei.
 
-`-help` `-h` `-ajuda` Painel de ajuda
+~ Rody: O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.
+
+Se você é level 40, você vai ser level 40 em todos os servidores
+Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores
+
+Este é o sistema global da Maya.
 
 # 🌟 Todos os comandos disponiveis da Maya™
 
