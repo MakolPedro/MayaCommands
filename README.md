@@ -63,7 +63,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 `-afk [all] < sua mensagem >`
 
 `-afk [global] < sua mensagem >`
-##### O AFK System será desativado no momento em que você mandar alguma mensagem.
+- ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
 
 
 ## O Reformulado Sistema de Economia Global
