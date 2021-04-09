@@ -3,7 +3,7 @@
 
 Prefixo padrão ( - )
 
-Guia Rápido: [ Obrigatório ] < Opicional >
+Observações nos comandos: [ Obrigatório ] < Opicional >
 
 ### Acesso Rápido
 
