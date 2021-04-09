@@ -28,7 +28,7 @@ Sou uma portadora de centenas de comandos, desde o ban/mute até o os fofos hug/
 
 Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha blacklist 🔪
 
-## Minhas informações legais
+## 📃 Minhas informações super interessantes
 - **Nome:** Maya
 - **Idade**: 14 anos
 - **Aniversário:** 15/03
