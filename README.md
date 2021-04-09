@@ -12,20 +12,20 @@ Observações nos comandos: [ Obrigatório ] < Opicional >
 [![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/images/Maya%20logo%20qrcode.png)](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
 
 ### Oláá, meu nome é Maya!
-Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Sou capaz de substituir vááários bots atualmente.
+Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Eu já sou capaz de substituir vááários bots por completo atualmente.
 
 ## Minhas informações
 - **Nome:** Maya
-- **Idade**: 14
+- **Idade**: 14 anos
 - **Aniversário:** 15/03
-- **Hobby:** Interagir com o pessoal do Discord
+- **Hobby:** Interagir com a galera do Discord
 - **Matérias Preferidas:** Ciência e Técnologia
 - **Objetivo:** Assistir todas as séries da Netflix
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Informações Técnicas:** `-botinfo`
 
 ## 🧩 Maya System
-> Eu tenho um sistema único e ele é integrado com todos os outros servidor
+> Graças ao meu sistema Interservidor, suas informações se mantem em todos os servidores em que eu esteja, tipo o seu level, dinheiro e outras coisas.
 
 `-help` `-h` `-ajuda` Painel de ajuda
 
