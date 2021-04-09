@@ -3,7 +3,7 @@
 
 Prefixo padrão ( - )
 
-Observações nos comandos: [ Obrigatório ] < Opicional >
+Observações nos comandos: [ Obrigatório ] < Opicional > ~Em reformma/Indisponivel~
 
 ### Acesso Rápido
 
