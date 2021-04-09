@@ -41,7 +41,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 ## 🧩 Maya Global System
 - Siiiim, eu tenho um sistema Global! O que isso significa? Também não sei.
 
-*~ Criador da Maya: O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.*
+*Criador da Maya: O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.*
 
 *Se você é level 40, você vai ser level 40 em todos os servidores*
 *Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores*
