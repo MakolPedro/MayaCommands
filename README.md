@@ -36,7 +36,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Matérias Preferidas:** Ciência e Técnologia
 - **Objetivo:** Assistir todas as séries da Netflix
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
-- **Informações Técnicas:** `-botinfo`
+- **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 
 ## 🧩 Maya System
 > Graças ao meu sistema Interservidor, suas informações se mantem em todos os servidores em que eu esteja, tipo o seu level, dinheiro e outras coisas.
