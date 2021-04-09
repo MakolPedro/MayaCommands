@@ -44,26 +44,21 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 > O meu sistema de economia global é unificado. Se você tem 100 dinheirinhos no servidor A, você vai ter 100 dinheirinhos no servidor B. Funciona com perfil. status, level, afk e todas as outras coisas também.
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
--  `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
+- `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
-Pague alguém
-> `-give` `-pagar` `-pay [@user] [valor]`
-
-Game de Cartas - Blackjack
-> `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
-
+Utilize seu dinheirinho
+- Pague: `-give` `-pagar` `-pay [@user] [valor]`
+- Compre: `-buy` `-loja`
+- Deposite: `-dep [valor]` `-dep [all]`
+- Saque: `-sacar [valor]/[all]`
 Se divirta ganhando e perdendo dinheiro
-> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]`
-
-
-`-dep [valor]` `-dep [all]` Deposite seu dinheiro
+> `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-rob [@user]` `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-sacar [valor]` `-sacar [all]` Saque dinheiro do banco
 
 > Traduções possiveis por enquanto: `-roubar` `-trabalhar` `-prostituir`
 
-
-`-loja` `-slot` `-buy` `-give` `-cobrar` Em Breve
+ `-slot` `-cobrar` Em Breve
 
 ### Level System
 > No momento, o Level System Global está em vigor, o sistema de level por servidor estará disponível em breve
