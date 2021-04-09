@@ -48,7 +48,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 Utilize seu dinheirinho
 - Pague: `-give` `-pagar` `-pay [@user] [valor]`
-- Compre: `-buy` `-loja`
+- Compre: ~`-buy` `-loja` `-store`~
 - Deposite: `-dep [valor]` `-dep [all]`
 - Saque: `-sacar [valor]/[all]`
 Se divirta ganhando e perdendo dinheiro
