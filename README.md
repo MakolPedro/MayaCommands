@@ -29,23 +29,25 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 
 `-help` `-h` `-ajuda` Painel de ajuda
 
-### O Novissimo AFK Global Command
-![Imagem AFK](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
+## O Novissimo AFK Global Command
+- Com o meu novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e te mostrarei a sua mensagem, [olha como eu aviso.](https://github.com/rodycouto/MayaCommands/blob/main/images/Afk%20est%C3%A1%20offline.png)
 
-`-afk < razão >` Quando alguém te chamar, eu avisarei que você está offline
+Ative o AFK no seu servidor
+> `-afk < razão >` 
 
-`-afk [all] < razão >` Quando alguém te chamar, eu avisarei que você está offline em qualquer servidor que eu esteja *`-afk [global]` também é uma opção*
+Ative o AFK em todos os servidores. SIIM, em todos!
+> `-afk [all] < sua mensagem >` `-afk [global] < sua mensagem >`
 
-`-afkhelp` Informações úteis
+`-afkhelp` Informações úteis, [veja como usar], é muito fácil.
 
-### O Reformulado Sistema de Economia Global
-- Veja o seu dinheiro ou o de alguém
+## O Reformulado Sistema de Economia Global
+Veja o seu dinheiro ou o de alguém
 > `-bal <@user>` `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
-- Pague alguém
+Pague alguém
 > `-pagar` `-pay [@user] [valor]`
 
-- Game de Cartas
+Game de Cartas
 > `-blackjack [valor]` `-bj [valor]` `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-crime` Cuidado para não ser preso
