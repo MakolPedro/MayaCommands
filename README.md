@@ -38,7 +38,7 @@ Ative o AFK no seu servidor
 Ative o AFK em todos os servidores. SIIM, em todos!
 > `-afk [all] < sua mensagem >` `-afk [global] < sua mensagem >`
 
-`-afkhelp` Informações úteis, [veja como usar], é muito fácil.
+`-afkhelp` Informações úteis
 
 ## O Reformulado Sistema de Economia Global
 Veja o seu dinheiro ou o de alguém
