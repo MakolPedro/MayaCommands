@@ -37,8 +37,8 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 `-afkhelp` Informações úteis
 
 ### Economia
-`-bal <@user>` Veja o seu dinheiro ou o de alguém
-> `-balance` `-bal` `-atm` `-money` `-conta` `mp`
+ Veja o seu dinheiro ou o de alguém
+> `-bal <@user>` `-balance` `-bal` `-atm` `-money` `-conta` `mp`
 
 `-pagar` `-pay [@user] [valor]` Pague alguém
 
