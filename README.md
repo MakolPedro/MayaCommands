@@ -80,7 +80,7 @@ Utilize seu dinheirinho
 - Roube: `-rob [@user]`
 - Jogue: `-blackjack [valor]`
 - Sorteios: ~`-sortear [valor]`~ Quase pronto
-- Cobre: ~`-cobrar [valor]`~ Quaaaase pronto
+- Cobre: `-cobrar [valor]`
 - Mendigue: ~`-esmola`~ Discord não ajuda nas reações
 
 Se divirta ganhando e perdendo dinheiro
