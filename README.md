@@ -79,9 +79,9 @@ Utilize seu dinheirinho
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
 - Jogue: `-blackjack [valor]`
-- Sorteios: ~`-sortear [valor]`~
-- Cobre: ~`-cobrar [valor]`~
-- Mendigue: ~`-esmola`~
+- Sorteios: ~`-sortear [valor]`~ Quase pronto
+- Cobre: ~`-cobrar [valor]`~ Quaaaase pronto
+- Mendigue: ~`-esmola`~ Discord não ajuda nas reações
 
 Se divirta ganhando e perdendo dinheiro
 - `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-bj [valor]` 
