@@ -3,7 +3,7 @@
 
 Prefixo padrão ( - )
 
-### Nota do criador da Maya
+## Nota do criador da Maya
 
 A Maya agora tem suporte para funcionamento sem a permissão *Administrador* ativada.
 
@@ -13,13 +13,12 @@ A Maya agora tem suporte para funcionamento sem a permissão *Administrador* ati
 
 - **🧩 Maya Global System**
 
-O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.*
+O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.
 
-*Se você é level 40, você vai ser level 40 em todos os servidores*
+Se você é level 40, você vai ser level 40 em todos os servidores
 
-*Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores*
+Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores
 
-*Este é o sistema global da Maya.*
 
 ## Para você não se perder aqui, presta atenção em!
 
