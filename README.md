@@ -3,6 +3,10 @@
 
 Prefixo padrão ( - )
 
+**Criador da Maya:** A Maya agora tem suporte para funcionamento sem a permissão *Administrador* ativada.
+
+- Permissões Básicas: Mandar mensagem, ler canais, gerenciar mensagens para envio de gifs e reações.
+
 ## Para você não se perder aqui, presta atenção em!
 
 **[Argumento Obrigatório]** 
