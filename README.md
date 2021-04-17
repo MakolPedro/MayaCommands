@@ -1,5 +1,5 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
-Esta págino no modo escuro é 500% mais bonito
+Esta págino no modo escuro é 500% mais bonita.
 
 Prefixo padrão ( - )
 
@@ -21,7 +21,7 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 ### Acesso Rápido
 
-❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/owner.md)
+❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8)
 
 ![](https://imgur.com/mrilAyU.png)
 
