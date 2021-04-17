@@ -71,10 +71,10 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### O que tem no Sistema de Economia da Maya?
 
-- Compre: `-loja`
+- Compre: `-shop`
 - Colecione: `-slot`
 - Pague: `-pay [@user] [valor]`
-- Venda: `-sell \~<@user>\~ [item] [quantidade]`
+- Venda: `-sell <@user> [item] [quantidade]`
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
@@ -100,7 +100,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-- Traduções suportadas: `-depositar` `-withdraw` `-loteria` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell`
+- Traduções suportadas: `-depositar` `-withdraw` `-loteria` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
 ### ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
