@@ -91,7 +91,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank money`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
-- Libere funções: `-titulo` ~`-estrelas`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
+- Libere funções: `-settitulo` ~`-estrela`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
 - Se proteja: ~`-escudo`~
 
 ### Como ganhar dinheiro?
@@ -144,9 +144,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
-`-titulo` Defina seu título ~compre na `-loja`
+`-settitulo` Defina seu título ~compre na `-loja`
 
-~`-setniver`~ ~`-signo`~ Em breve
+`-setsigno` Defina seu signo
+
+~`-setniver`~ Em breve
 
 # 💿 Music System
 
