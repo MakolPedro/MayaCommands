@@ -87,7 +87,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Roube: `-rob [@user]`
 - Jogue: `-blackjack [valor]`
 - Lance: ~`-jogar [valor]`~ Quase pronto
-- Cobre: `-cobrar [valor] [@user]`
+- Cobre: `-cobrar [@user] [valor]`
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank money`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
