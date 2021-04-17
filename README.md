@@ -62,7 +62,9 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
 
 ## 💸 O Reformulado Sistema de Economia Global
-• Gaste o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
+• Ganhar e perder dinheiro nunca foi tão divertido, agora você pode fazer isso brincando.
+
+Moeda: ⭐MPoints
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
