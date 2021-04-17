@@ -35,7 +35,8 @@ Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores
 
 ❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/owner.md)
 
-[![Maya Photo](https://github.com/rodycouto/MayaCommands/blob/main/images/Maya%20logo%20qrcode.png)](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
+[![Maya Photo](https://imgur.com/mrilAyU.png)](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot)
+<https://imgur.com/mrilAyU.png>
 
 ### Oláá, meu nome é Maya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Eu já sou capaz de substituir vááários bots por completo atualmente.
