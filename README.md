@@ -604,7 +604,7 @@ Pitticco#1827: `1 Bug`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
-MakolPedro#8508: `33 Bugs`
+MakolPedro#8508: `34 Bugs`
 
 ! Levi Ackerman#2447 `15 Bugs`
 
