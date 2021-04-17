@@ -47,16 +47,16 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 # 🌟 Listinha dos meus lindos comandos
 
-## O Novíssimo AFK Global Command
-- Com esse novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
+## O Belíssimo AFK Global Command
+- Com esse sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
 
-`-afkhelp` Informações úteis, uma boa explicação e exemplos fáceis
+`-help afk` Informações úteis, uma boa explicação e exemplos fáceis do comando.
 
-`-afk < razão >` Ative o AFK no seu servidor
+`-afk` Ative o AFK no seu servidor sem nenhum mensagem.
 
-Ative o AFK em todos os servidores. SIIM, em todos!
+`-afk < sua mensagem >`
 
-`-afk [all] < sua mensagem >`
+- Ative o AFK em todos os servidores. SIIM, em todos!
 
 `-afk [global] < sua mensagem >`
 - ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
