@@ -202,11 +202,15 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 #### 🔸 Moderação
 
-`-move [@user]` Move o mebro pra sua call
+`-move [@user]` Move um membro pra sua call
 
 `-addrole [@user] [@cargo]` Dê cargos
 
 `-removerole [@user] [@cargo]` Tire Cargos
+
+~`-createrole [Nome]`~ Crie um cargos
+
+~`-deleterole [Nome]`~ Delete cargos
 
 `-setnick [@user] [Novo Nome]` Mude o nickname de alguém
 
@@ -215,6 +219,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-ban [@user] <razão>` Banir membros
 
 `-muteinfo` Informações do Mute System
+
+`-mute` Ativa as configurações do comando mute *(Mova a role Muted para um cargo alto)*
 
 `-mute [@user] [10s/m/h] <razão>` Mute alguém
 
