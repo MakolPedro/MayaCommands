@@ -69,10 +69,12 @@ Moeda: ⭐MPoints *(Maya Points)*
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
-O que tem no Sistema de Economia da Maya?
+### O que tem no Sistema de Economia da Maya?
 
 - Compre: `-loja`
+- Colecione: `-slot`
 - Pague: `-pay [@user] [valor]`
+- Venda: `-sell ~<@user>~ [item] [quantidade]`
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
@@ -81,14 +83,24 @@ O que tem no Sistema de Economia da Maya?
 - Lance: ~`-jogar [valor]`~ Quase pronto
 - Cobre: `-cobrar [valor] [@user]`
 - Mendigue: `-esmola`
+- Suba no ranking: `-rank`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
+- Libere funções: `-titulo` ~`-estrelas`~ `-assaltar`
 
-Se divirta ganhando e perdendo dinheiro
-- `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-bj [valor]` 
+### Como ganhar dinheiro?
+
+- Ganhe dinheiro: `-work` `-lotery` `-daily`
+- Aposte na sorte: `-slut` `-cu` `-blackjack` `-crime` `-roleta`
+
+- Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
+
+### Ajudinha rápida sobre a economia da Maya
+
+`-help economia` Todos os comandos que aqui estão mais informações que também aqui estão.
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-- Traduções possiveis por enquanto: `-depositar` `-withdraw` `-loteria` ~`-store` `-buy`~ `-pagar` `-give` `-roubar` ~`-pedir`~ `-trabalhar` `-prostituir` ~`-slot` `-cobrar`~
+- Traduções suportadas: `-depositar` `-withdraw` `-loteria` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell`
 
 ### ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
