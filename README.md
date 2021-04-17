@@ -1,9 +1,6 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
-> [Crie uma conta](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) no Github e deixe no modo escuro para melhorar esse lugar em 500%
 
 Prefixo padrão ( - )
-
-## Nota do criador da Maya
 
 A Maya agora tem suporte para funcionamento sem a permissão *Administrador* ativada.
 
@@ -23,19 +20,19 @@ Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores
 ## Para você não se perder aqui, presta atenção em!
 
 **[Argumento Obrigatório]** 
-> `-ban [@fulano]` Palavras necessárias para o comando funcionar.
+• `-ban [@fulano]` Palavras necessárias para o comando funcionar.
 
 **< Argumento Opicional >**
-> `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
+• `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
 
 **~Em reforma/Indisponivel~**
-> Comandos fora do ar pra reforma ou por algum motivo desconhecido.
+• Comandos fora do ar pra reforma ou por algum motivo desconhecido.
 
 ### Acesso Rápido
 
 ❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | [Owner Commands](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/owner.md)
 
-![Maya Photo](https://imgur.com/mrilAyU.png)]
+![](https://imgur.com/mrilAyU.png)
 
 ### Oláá, meu nome é Maya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Eu já sou capaz de substituir vááários bots por completo atualmente.
@@ -73,7 +70,7 @@ Ative o AFK em todos os servidores. SIIM, em todos!
 
 
 ## 💸 O Reformulado Sistema de Economia Global
-> Gaste o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
+• Gaste o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
@@ -97,7 +94,7 @@ Se divirta ganhando e perdendo dinheiro
 - Traduções possiveis por enquanto: `-depositar` `-withdraw` `-loteria` ~`-store` `-buy`~ `-pagar` `-give` `-roubar` ~`-pedir`~ `-trabalhar` `-prostituir` ~`-slot` `-cobrar`~
 
 ### ⬆️ Level System - Uhuul, level up!
-> É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
+• É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
 
 `-level <@user>` Veja seu level ou o de alguém
 
@@ -128,12 +125,12 @@ Se divirta ganhando e perdendo dinheiro
 
 # 💿 Music System
 
-> O sistema de música está com a minha irmãzinha
+• O sistema de música está com a minha irmãzinha
 
 [Adicione a Mayazinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
 
 # 🛠️ Comandos Administrativos
-> Isso aqui é um paraiso para os Mods e Adms
+• Isso aqui é um paraiso para os Mods e Adms
 
 #### 🔸Administração Exclusive (Personalização)
 
@@ -146,19 +143,19 @@ Se divirta ganhando e perdendo dinheiro
 `-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
 `-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
-> `-setwelcome off` Desative o sistema de boas vindas
+• `-setwelcome off` Desative o sistema de boas vindas
 
 `-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
 `-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
 
 `-blockchannel <#canal>` Bloqueie meus comandos em canais especificos
-> `-unblockchannel <#canal>` Libere meus comandos
+• `-unblockchannel <#canal>` Libere meus comandos
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente
-> `-setautorole off` Desative o autorole no seu servidor
+• `-setautorole off` Desative o autorole no seu servidor
 
-> `-autorole` Veja o estado de autorole do seu servidor
+• `-autorole` Veja o estado de autorole do seu servidor
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
@@ -228,7 +225,7 @@ Se divirta ganhando e perdendo dinheiro
 
 # 🎮 Link de Games
 
-> Acesse os principais jogos rapidamente
+• Acesse os principais jogos rapidamente
 
 `-amongus`
 
@@ -286,7 +283,7 @@ Se divirta ganhando e perdendo dinheiro
 
 # 💡 Comandos Gerais
 
-> Comandos úteis e que podem ajudar muito
+• Comandos úteis e que podem ajudar muito
 
 `-covid < br >` Informações mundiais sobre a COVID-19
 
@@ -379,7 +376,7 @@ Se divirta ganhando e perdendo dinheiro
 `-puppy` Fofiiiinho
 
 # ❤️ Comandos de Reações
-> Demonstre reações por gifs no servidor
+• Demonstre reações por gifs no servidor
 
 `-cry` Chorar as vezes faz bem
 
@@ -414,7 +411,7 @@ Se divirta ganhando e perdendo dinheiro
 `-sad` Triste
 
 # 🤝 Comandos de Interação
-> Interaja com as pessoas atráves de gifs sensacionais
+• Interaja com as pessoas atráves de gifs sensacionais
 
 `-votação` `-votar` `-vote [O que deseja ser votado]` Abra um votação
 
@@ -471,11 +468,11 @@ Se divirta ganhando e perdendo dinheiro
 `-explodir [@user]` Exploda alguém
 
 # 📝 Quiz - BETA
-> O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
+• O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
 
 `-quiz` Você terá apenas 15 segundos para responder
 
-`-quiznaruto` Ainda na 1º Versão (Atualizando)
+`-quiznaruto` Você conhece Naruto?
 
 ### Em breve
 `-quizanimes` `-quizcinema` `-quizhistoria` `-quizch` -> corpo humano
@@ -487,9 +484,7 @@ Quiz: 27 Perguntas
 Quiz Naruto: 17 Perguntas
 
 # 📁 Maya Assistence
-> Pessoas que ajudaram na construção da Maya
-
-> Todos os direitos abaixo
+• Pessoas que ajudaram na construção da Maya
 
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://replit.com/)
 
