@@ -1,5 +1,5 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
-Esta págino no modo escuro é 500% mais bonita.
+Esta página no modo escuro é 500% mais bonita.
 
 Prefixo padrão ( - )
 
@@ -44,6 +44,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Objetivo:** Assistir todas as séries da Netflix
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
+- **Tempo online:** Aproximadamente 29hrs por dia
 
 # 🌟 Listinha dos meus lindos comandos
 
@@ -240,8 +241,6 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ~`-unlock`~ Destrave um canal especifico
 
-`-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
-
 `-clear [all]` Limpe todo o chat
 - Recomendo criar um novo canal com o mesmo nome, use `-clonechannel`
 
@@ -259,11 +258,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### 🔸 Maya Comandos Exclusivos
 
-`-setprefix` `-prefix [NovoPrefixo]` Mudar prefixo
+`-setprefix [NovoPrefixo]` Muda meu prefixo
+
+`-prefix` Informações sobre o prefixo
 
 `-resetprefix` Reseta meu prefixo para ( - )
-
-`-say [Sua mensagem]` Diga algo atráves de mim
 
 `-dm` `-pv [@user] [Mensagem]` Comando Travado
 
@@ -272,6 +271,12 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-criarcomando [NomeDoComando] [O que eu vou responder]` Cria um comando só pro servidor
 
 `-deletecomando [NomeDoComando]` Deleta um comando criado
+
+~`-listadecomandos`~ Em breve
+
+`-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
+
+`-say [Sua mensagem]` Mande mensagens atráves de mim
 
 `-sorteio [20s/m/h/d] [#CanalDoSorteio] [Prêmio]` Faça sorteios
 
@@ -325,11 +330,13 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 > Esses comandos estão sendo desenvolvidos ainda, não se preocupe
 
-`-anime [Seu anime]` Pesquisa de animes
+~`-anime [Seu anime]`~ Pesquisa de animes
 
 `-ind` Indicação de Animes (+2000 Animes)
 
 `-sao` Fotos/gifs de Sword Art Online
+
+`-senpai` Meu lindo e perfeito senpai
 
 `-quiznaruto` Quiz de Naruto pra quem é viciado
 
@@ -349,7 +356,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-serverinfo` Informações do Servidor
 
-`-dono` `-owner` Veja quem é o dono do server
+`-dono` `-owner` Veja quem é o dono do servidor
+
+`-invites` Veja quantas pessoas cada membro convidou pro servidor *(Criador do link que ganha o invite)*
 
 ### 🔸 Comandinhos da Maya
 
@@ -381,9 +390,13 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
  
 `-ascii [Sua mensagem]` Muito doido
 
+`-dado` `-roll [1...4]` Role até 4 dados
+
 `-frase` Filosofia pura
 
 ~`-changemymind [Sua frase]`~ Changemymind Meme (Not Working)
+
+`-history` Histórias criadas pelo pessoal do Discord
 
 ### 🔸 Util
 
@@ -391,7 +404,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-clima [SuaCidade]` Veja o clima da sua cidade
 
-`-translate` `-t [pt][en][fr] [A frase que deseja traaduzir]` Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
+`-cal [10 + 10]` Calculadora poxa
+
+`-translate` `-t [pt][en][fr] [A frase que deseja traduzir]` Traduza com o Google Tradutor *Exemplo: -t pt What are you mean with that?*
 
 `-invisible` `-invisivel` Não há nada aqui
 
@@ -405,17 +420,19 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-conselho` Esse comando é completamente em português
 
-`-history` Histórias escritas por membros do Discord
+`-invisivel` `-invisible` Invisivel
+
+`-nota [@user]` Dê nota a alguém
 
 `-boom` Só faz boom
-
-`-senpai` Meu senpai
 
 `-ecchi` Não recomendo usar isso
 
 `-explosion` Megumiiin
 
 `-feet` Pézin
+
+`-servidores` Servidores que usam a Maya
 
 `-livia` Gay
 
@@ -427,40 +444,52 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-puppy` Fofiiiinho
 
+`-zt` `-zerotwo` Zero Two linda
+
+~`-nezuko`~ Coletando Gifs
+
 # ❤️ Comandos de Reações
 • Demonstre reações por gifs no servidor
+
+`-clap` Aplaudir é legal
 
 `-cry` Chorar as vezes faz bem
 
 `-dance` Dance Dance
 
+`-die` Morreu
+
+`-ery` Puff.. kkkk
+
+`-facepalm` Decepcionado(a)
+
 `-fury` Mostre sua furia!
 
-`-trig` TRIGGEEEEER
+`-glare` Olhar Pistola
 
 `-happy` Feliiiz
+
+`-kkk` kkkkkk
+
+`-pout` Fazendo Bico
+
+`-run` Coooorre
+
+`-sad` Triste
+
+`-shy` Vergonha
 
 `-sleep` Que soninhoo
 
 `-smile` Está feliz? Sorria!
 
-`-tired` que cansaço!
-
 `-surprise` Mas o que é isso?
 
-`-clap` Aplaudir é legal
+`-thin` Oque eu faço... Pensando...
 
-`-thin` Oque eu faço
+`-tired` que cansaço!
 
-`-die` Morreu
-
-`-facepalm` Decepcionado(a)
-
-`-glare` Olhar Pistola
-
-`-pout` Fazendo Bico
-
-`-sad` Triste
+`-trig` TRIGGEEEEER
 
 # 🤝 Comandos de Interação
 • Interaja com as pessoas atráves de gifs sensacionais
@@ -519,12 +548,14 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-explodir [@user]` Exploda alguém
 
+- Todos comandos de interação tem traduções, caso queira adicionar mais alguma tradução, [clique aqui](https://forms.gle/vtJ5qBqFDd9rL5JU8)
+
 # 📝 Quiz - BETA
 • O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
 
 `-quiz` Você terá apenas 15 segundos para responder
 
-`-quiznaruto` Você conhece Naruto?
+`-quiznaruto` Você conhece Naruto? Tem 15 segundos também
 
 ### Em breve
 `-quizanimes` `-quizcinema` `-quizhistoria` `-quizch` -> corpo humano
@@ -557,7 +588,7 @@ João da Cilada#7041 | `-love`
 
 Giacometti#4849 | `-feet`
 
-Dog Comunista#2185 | `-block`
+Dog Comunista#2185 | `-lockcommands`
 
 Coiny#9056 | `Ideias no Painel Interativo`
 
@@ -567,16 +598,16 @@ CALORIES#2822 | `Music System Helper` ~ USA
 
 Casado✋🏻😎#9113: `5 bugs`
 
-Pitticco#1827: `Bug Mute`
+Pitticco#1827: `1 Bug`
 
-### Try Hard
-
-MakolPedro#8508: `32 Bugs`
+ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556: `27 Bugs`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
+MakolPedro#8508: `32 Bugs`
+
+! Levi Ackerman#2447 `15 Bugs`
+
 ### Designers
 
-Yma#5175, Raffah#1751, Rody#3756, Gowther#9233
-
-@milkmochabear: [Gifs do Ursinho](https://www.instagram.com/milkmochabear)
+Yma#5175, Raffah#1751, Rody#3756, Gowther#9233, [@milkmochabear](https://www.instagram.com/milkmochabear)
