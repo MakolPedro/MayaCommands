@@ -143,7 +143,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
-`-titulo` Defina seu título ~compra na `-loja`
+`-titulo` Defina seu título ~compre na `-loja`
 
 ~`-setniver`~ ~`-signo`~ Em breve
 
@@ -167,11 +167,12 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
 
 `-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
-• `-setwelcome off` Desative o sistema de boas vindas
+
+• `-setwelcome off` `-setleave off` Desative o sistema de boas vindas/saídas
 
 `-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md)
+`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
 
 `-blockchannel <#canal>` Bloqueie meus comandos em canais especificos
 • `-unblockchannel <#canal>` Libere meus comandos
