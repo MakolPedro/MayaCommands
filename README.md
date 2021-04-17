@@ -125,11 +125,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-marry [@user]` Se case com alguém
 
-`-divorce` Se divorcie
+`-divorce [@user]` Se divorcie
 
-`-family [1...5]` Adicione até 5 pessoas a sua familia
+`-family1` `-family2` `-family3` Adicione até 3 pessoas a sua familia
 
-`-nofamily [1...5]` Tire alguém da sua familia
+`-nofamily1` `-nofamily2` `-nofamily3` Tire alguém da sua familia
 
 ### Perfil
 
