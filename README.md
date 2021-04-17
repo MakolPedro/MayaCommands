@@ -67,9 +67,9 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 Moeda: ⭐MPoints *(Maya Points)*
 
 - ##### Administração
-• `-setpescachannel #canal` Canal para pescar
-• `-setminechannel #canal` Canal para mineração
-• ~`-setflorestchannel #canal`~ Canal para floresta
+- `-setpescachannel #canal` Canal para pescar
+- `-setminechannel #canal` Canal para mineração
+- ~`-setflorestchannel #canal`~ Canal para floresta
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
