@@ -168,19 +168,27 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
-• `-setwelcome off` `-setleave off` Desative o sistema de boas vindas/saídas
+`-setwelcome off` `-setleave off` Desative o sistema de boas vindas/saídas
 
 `-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
 
 `-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
 
-`-blockchannel <#canal>` Bloqueie meus comandos em canais especificos
-• `-unblockchannel <#canal>` Libere meus comandos
+`-setpescachannel #canal` Canal de pesca
+
+`-setminechannel #canal` Canal de mineração
+
+`-setflorestachannel #canal` Canal da floresta
+
+`-lockcommands <#canal>` Bloqueie meus comandos em canais especificos
+
+`-unlockcommands <#canal>` Libere meus comandos em canais que foram bloqueados
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente
-• `-setautorole off` Desative o autorole no seu servidor
 
-• `-autorole` Veja o estado de autorole do seu servidor
+`-setautorole off` Desative o autorole no seu servidor
+
+`-autorole` Veja o estado de autorole do seu servidor
 
 `-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
