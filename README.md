@@ -70,15 +70,17 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
 Utilize seu dinheirinho
+
+- Compre: `-loja`
 - Pague: `-pay [@user] [valor]`
-- Compre: ~`-loja`~
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
+- Assalte: `-assaltar [@user]` ~requer Arma
 - Jogue: `-blackjack [valor]`
-- Sorteios: ~`-sortear [valor]`~ Quase pronto
-- Cobre: `-cobrar [valor]`
-- Mendigue: ~`-esmola`~ Discord não ajuda nas reações
+- Lance: ~`-jogar [valor]`~ Quase pronto
+- Cobre: `-cobrar [valor] [@user]`
+- Mendigue: `-esmola`
 
 Se divirta ganhando e perdendo dinheiro
 - `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-bj [valor]` 
