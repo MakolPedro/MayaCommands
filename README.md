@@ -576,7 +576,7 @@ Quiz Naruto: 17 Perguntas
 
 ### Créditos a todos que ajudaram
 
-Rody#3756 | `Construção do Código e Pesquisa`
+Rody#4191 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `90% dos Gifs e Comandos de Animes`
 
@@ -610,4 +610,4 @@ MakolPedro#8508: `32 Bugs`
 
 ### Designers
 
-Yma#5175, Raffah#1751, Rody#3756, Gowther#9233, [@milkmochabear](https://www.instagram.com/milkmochabear)
+Yma#5175, Raffah#1751, Rody#4191, Gowther#9233, [@milkmochabear](https://www.instagram.com/milkmochabear)
