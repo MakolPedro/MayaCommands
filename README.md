@@ -67,7 +67,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 Moeda: ⭐MPoints *(Maya Points)*
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
-- `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
+- Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
 ### O que tem no Sistema de Economia da Maya?
 
@@ -78,14 +78,14 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
-- Assalte: `-assaltar [@user]` ~requer Arma
 - Jogue: `-blackjack [valor]`
 - Lance: ~`-jogar [valor]`~ Quase pronto
 - Cobre: `-cobrar [valor] [@user]`
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
-- Libere funções: `-titulo` ~`-estrelas`~ `-assaltar`
+- Libere funções: `-titulo` ~`-estrelas`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
+- Se proteja: ~`-escudo`~
 
 ### Como ganhar dinheiro?
 
