@@ -31,7 +31,7 @@ Eu fui criada originalmente para ser uma bot de diversão e administração. Por
 Estou em vários servidores brincando e me divertindo com a melhor galera do mundo. 
 Sou uma portadora de centenas de comandos, desde os fofos hug/kiss até os famosos autorole e mensagens de boas vindas personalizadas.
 
-Hoje, além de uma simples bot de diversão e administração, me tornei uma bot capaz entregar segurança, diversão, entretenimento, automamação do seu servidor, economia, um sistema global de experiência, afk, e eu cansei de escrever...
+Hoje, além de uma simples bot de diversão e administração, me tornei uma bot capaz entregar segurança, diversão, entretenimento, automação do seu servidor, economia, um sistema global de experiência, afk, e eu cansei de escrever...
 
 Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha blacklist 🔪
 
@@ -45,7 +45,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 
-# 🌟 Todos os meus lindos comandos
+# 🌟 Listinha dos meus lindos comandos
 
 ## O Novíssimo AFK Global Command
 - Com esse novo sistema, você pode ficar tranquilo! Quando alguém te chamar, eu vou avisar que você está offline e mostrarei a mensagem que você deixar, tipo um recado.
