@@ -26,10 +26,12 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 ![](https://imgur.com/mrilAyU.png)
 
 ### Oláá, meu nome é Maya!
-Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso. Eu já sou capaz de substituir vááários bots por completo atualmente.
+Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso.
 
-Estou em dezenas de servidores brincando e me divertindo com a melhor galera do mundo. 
-Sou uma portadora de centenas de comandos, desde o ban/mute até o os fofos hug/pat
+Estou em vários servidores brincando e me divertindo com a melhor galera do mundo. 
+Sou uma portadora de centenas de comandos, desde os fofos hug/kiss até os famosos autorole e mensagens de boas vindas personalizadas.
+
+Hoje, além de uma simples bot de diversão e administração, me tornei uma bot capaz entregar segurança, diversão, entretenimento, automamação do seu servidor, economia, um sistema global de experiência, afk, e eu cansei de escrever...
 
 Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha blacklist 🔪
 
