@@ -52,15 +52,14 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-help afk` Informações úteis, uma boa explicação e exemplos fáceis do comando.
 
-`-afk` Ative o AFK no seu servidor sem nenhum mensagem.
+`-afk` Ative o AFK no seu servidor sem nenhuma mensagem.
 
 `-afk < sua mensagem >`
 
 - Ative o AFK em todos os servidores. SIIM, em todos!
 
-`-afk [global] < sua mensagem >`
+`-afk [global/all] < sua mensagem >`
 - ##### O AFK System será desativado no momento em que você mandar alguma mensagem.
-
 
 ## 💸 O Reformulado Sistema de Economia Global
 • Gaste o seu dinheirinho em vários servidores, isso é incrivel! Tipo mágica.
