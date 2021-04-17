@@ -122,10 +122,13 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Por ser global, os administradores não pode dar ou tirar xp, i'm sorry.
 
 ### Family System
+- Adicione pessoas ao seu perfil
 
 `-marry [@user]` Se case com alguém
 
 `-divorce [@user]` Se divorcie
+
+`-family` `-nofamily` Informações e comandos que aqui estão
 
 `-family1` `-family2` `-family3` Adicione até 3 pessoas a sua familia
 
@@ -140,7 +143,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
-`-setniver` `-signo` Em breve
+`-titulo` Defina seu título ~compra na `-loja`
+
+~`-setniver`~ ~`-signo`~ Em breve
 
 # 💿 Music System
 
