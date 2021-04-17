@@ -74,7 +74,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Compre: `-loja`
 - Colecione: `-slot`
 - Pague: `-pay [@user] [valor]`
-- Venda: `-sell ~<@user>~ [item] [quantidade]`
+- Venda: `-sell \~<@user>\~ [item] [quantidade]`
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
