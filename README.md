@@ -236,11 +236,24 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### 🔸 Chat Commands
 
-`-lockchannel <#canal>` Trave um canal especifico
+~`-lock`~ Trave um canal especifico
+
+~`-unlock`~ Destrave um canal especifico
 
 `-send [#canal] [Sua mensagem]` Envie mensagens para outros canais
 
-`-clear` Limpe o chat. [Veja os comandos do Clear](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/clear.md)
+`-clear [all]` Limpe todo o chat
+- Recomendo criar um novo canal com o mesmo nome, use `-clonechannel`
+
+`-clear [1~99]` Apague de 1~99 mensagens
+
+`-clear <@user> [1~99]` Apague 1~99 mensagens de alguém especifico
+
+`-clear <bot> [1~99]` Apague 1~99 mensagens de bots
+
+`-clear <images> [1~99]` Apague somente imagens/videos/gifs
+
+Mensagens acima de 14 dias não serão apagadas por limitações do Discord.
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
