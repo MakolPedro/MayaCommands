@@ -253,7 +253,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-clear <images> [1~99]` Apague somente imagens/videos/gifs
 
-Mensagens acima de 14 dias não serão apagadas por limitações do Discord.
+- ##### Mensagens acima de 14 dias não serão apagadas por limitações do Discord.
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
