@@ -117,7 +117,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-rank xp` Ranking Interservidor de XP Maya
 
-~`-giverole [level]`~ Dá um cargo para quem alcançar um level especifico
+~`-levelrole [level]`~ Dá um cargo para quem alcançar um level especifico
 
 - Por ser global, os administradores não pode dar ou tirar xp, i'm sorry.
 
