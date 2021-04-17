@@ -70,6 +70,7 @@ Moeda: ⭐MPoints *(Maya Points)*
 - `-setpescachannel #canal` Canal para pescar
 - `-setminechannel #canal` Canal para mineração
 - ~`-setflorestchannel #canal`~ Canal para floresta
+- ~`-seteconomychannel #canal`~ Canal de economia *(Habilita sistema de economia)*
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
