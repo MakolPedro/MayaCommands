@@ -117,6 +117,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-rank xp` Ranking Interservidor de XP Maya
 
+- Por ser global, os administradores não pode dar ou tirar xp, i'm sorry.
+
 ### Family System
 
 `-marry [@user]` Se case com alguém
