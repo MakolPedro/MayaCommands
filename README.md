@@ -82,7 +82,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Lance: ~`-jogar [valor]`~ Quase pronto
 - Cobre: `-cobrar [valor] [@user]`
 - Mendigue: `-esmola`
-- Suba no ranking: `-rank`
+- Suba no ranking: `-rank money`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
 - Libere funções: `-titulo` ~`-estrelas`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
 - Se proteja: ~`-escudo`~
@@ -102,7 +102,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Traduções suportadas: `-depositar` `-withdraw` `-loteria` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
-### ⬆️ Level System - Uhuul, level up!
+## ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
 
 `-level <@user>` Veja seu level ou o de alguém
