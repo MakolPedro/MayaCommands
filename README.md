@@ -1,32 +1,23 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
+Esta págino no modo escuro é 500% mais bonito
 
 Prefixo padrão ( - )
 
-A Maya agora tem suporte para funcionamento sem a permissão *Administrador* ativada.
+- **Permissões Básicas Requeridas:**
 
-- **Permissões Básicas:**
-
- Mandar mensagem, ler canais, gerenciar mensagens para envio de gifs e reações.
+ Mandar mensagem, ler canais, gerenciar mensagens.
 
 - **🧩 Maya Global System**
 
-O Sistema Global da Maya é simples. Tudo o que você conseguir dentro da Maya, você vai poder utilizar em qualquer servidor, desde que ela também esteja no servidor.
+Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Maya estiver presente.
 
-Se você é level 40, você vai ser level 40 em todos os servidores
+## Para você não se perder aqui, presta atenção!
 
-Se você tem 50.000 MPoints, você vai ter 50.000 MPoints em todos os servidores
+**[Argumento Obrigatório]** • `-ban [@fulano]`
 
+**< Argumento Opicional >** • `-saldo` `-saldo <@pedro>` 
 
-## Para você não se perder aqui, presta atenção em!
-
-**[Argumento Obrigatório]** 
-• `-ban [@fulano]` Palavras necessárias para o comando funcionar.
-
-**< Argumento Opicional >**
-• `-saldo` `-saldo <@pedro>` Com ou sem a palavra, o comando vai funcionar.
-
-**~Em reforma/Indisponivel~**
-• Comandos fora do ar pra reforma ou por algum motivo desconhecido.
+**~Em reforma/Indisponivel~** • Comandos em reforma.
 
 ### Acesso Rápido
 
