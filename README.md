@@ -69,7 +69,7 @@ Moeda: ⭐MPoints *(Maya Points)*
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
 
-Utilize seu dinheirinho
+O que tem no Sistema de Economia da Maya?
 
 - Compre: `-loja`
 - Pague: `-pay [@user] [valor]`
@@ -81,6 +81,7 @@ Utilize seu dinheirinho
 - Lance: ~`-jogar [valor]`~ Quase pronto
 - Cobre: `-cobrar [valor] [@user]`
 - Mendigue: `-esmola`
+- Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
 
 Se divirta ganhando e perdendo dinheiro
 - `-crime` `-fugir` `-work` `-daily` `-lotery` `-slut` `-bj [valor]` 
