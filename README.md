@@ -148,7 +148,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-setsigno` Defina seu signo
 
-~`-setniver`~ Em breve
+`-setniver` Defina seu aniversário
 
 # 💿 Music System
 
