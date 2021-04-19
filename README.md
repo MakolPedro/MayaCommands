@@ -46,6 +46,10 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 - **Tempo online:** Aproximadamente 29hrs por dia
 
+`-gif [link]` Envie gifs pra mim colocar nos packs
+
+`-ideiamaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+
 # 🌟 Listinha dos meus lindos comandos
 
 ## O Belíssimo AFK Global Command
@@ -78,6 +82,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### O que tem no Sistema de Economia da Maya?
 
+- A Maya não se responsabiliza por dinheiro perdido ou mal usado.
+
 - Compre: `-shop`
 - Colecione: `-slot`
 - Pague: `-pay [@user] [valor]`
@@ -94,10 +100,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Libere funções: `-settitulo` ~`-estrela`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
 - Se proteja: ~`-escudo`~
 - Invista na bolsa: ~`-bolsa [quantia]`~
+- Envie cartas: `-carta [@user] [Sua mensagem]`
 
 ### Como ganhar dinheiro?
 
-- Ganhe dinheiro: `-work` `-lotery` `-daily`
+- Ganhe dinheiro: `-work` `-lotery` `-daily` `-vender`
 - Aposte na sorte: `-slut` `-cu` `-blackjack` `-crime` `-roleta`
 
 - Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
@@ -267,6 +274,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-dm` `-pv [@user] [Mensagem]` Comando Travado
 
+`-ideiamaya [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
+
 ### 🔸 Interação com os server
 
 `-criarcomando [NomeDoComando] [O que eu vou responder]` Cria um comando só pro servidor
@@ -341,6 +350,16 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quiznaruto` Quiz de Naruto pra quem é viciado
 
+#### Pack de Gifs
+
+`-nezuko`
+
+`-zenitsu`
+
+`-naruto`
+
+`-kimetsu` Pack de Gifs de Kimetsu No Yaiba
+- Em breve: `-kirito` `-asuna` e mais 36 packs *(Tô com preguiça de escrever)*
 # 💡 Comandos Gerais
 
 • Comandos úteis e que podem ajudar muito
@@ -491,6 +510,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-tired` que cansaço!
 
 `-trig` TRIGGEEEEER
+
+- Todos tem traduções para português.
 
 # 🤝 Comandos de Interação
 • Interaja com as pessoas atráves de gifs sensacionais
