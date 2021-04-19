@@ -55,7 +55,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-afk` Ative o AFK no seu servidor sem nenhuma mensagem.
 
-`-afk < sua mensagem >`
+`-afk < sua mensagem >` Ative o AFK com uma mensagem personalizada.
 
 - Ative o AFK em todos os servidores. SIIM, em todos!
 
