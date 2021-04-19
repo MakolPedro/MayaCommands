@@ -68,13 +68,13 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 Moeda: ⭐MPoints *(Maya Points)*
 
 - ##### Administração
-- `-setpescachannel #canal` Canal para pescar
+- `-setpescachannel #canal` Canal para pesca
 - `-setminechannel #canal` Canal para mineração
 - ~`-setflorestchannel #canal`~ Canal para floresta
 - ~`-seteconomychannel #canal`~ Canal de economia *(Habilita sistema de economia)*
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
-- Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `mp` `-saldo`
+- Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-mp` `-saldo`
 
 ### O que tem no Sistema de Economia da Maya?
 
@@ -93,6 +93,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
 - Libere funções: `-settitulo` ~`-estrela`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
 - Se proteja: ~`-escudo`~
+- Invista na bolsa: ~`-bolsa [quantia]`~
 
 ### Como ganhar dinheiro?
 
