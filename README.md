@@ -610,13 +610,19 @@ MakolPedro#8508: `34 Bugs`
 
 ! Levi Ackerman#2447 `15 Bugs`
 
-### Gifs
+### Gifs / Emojis
 
 [@milkmochabear](https://www.instagram.com/milkmochabear)
 
 ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556
 
 Gowther#9233
+
+dspofu#8041
+
+! Sanemi Shinazugawa#2447
+
+¸,ø¤{•ลℓเ¢э-µ¢ђเђล}ø¤º°#6146
 
 ### Designers
 
