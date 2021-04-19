@@ -153,9 +153,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 # 💿 Music System
 
-• O sistema de música está com a minha irmãzinha
-
-[Adicione a Mayazinha Music™](https://discord.com/api/oauth2/authorize?client_id=822490782329733150&permissions=8&scope=bot)
+• O Music System foi desativado por que a API do YouTube/Spotify/SoundCloud não colaboram comigo.
 
 # 🛠️ Comandos Administrativos
 • Isso aqui é um paraiso para os Mods e Adms
