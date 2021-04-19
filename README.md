@@ -145,11 +145,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
-`-settitulo` Defina seu título ~compre na `-loja`
+`-settitulo [Seu título]` Defina seu título ~compre na `-loja`
 
 `-setsigno` Defina seu signo
 
-`-setniver` Defina seu aniversário
+`-setniver [DD / MM / AAAA]` Defina seu aniversário
 
 # 💿 Music System
 
