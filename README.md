@@ -580,7 +580,7 @@ Quiz Naruto: 17 Perguntas
 
 Rody#4191 | `Construção do Código e Pesquisa`
 
-Gowther#9233 | `90% dos Gifs e Comandos de Animes`
+Gowther#9233 | `Start Cooper`
 
 𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração`
 
@@ -610,6 +610,14 @@ MakolPedro#8508: `34 Bugs`
 
 ! Levi Ackerman#2447 `15 Bugs`
 
+### Gifs
+
+[@milkmochabear](https://www.instagram.com/milkmochabear)
+
+ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556
+
+Gowther#9233
+
 ### Designers
 
-Yma#5175, Raffah#1751, Rody#4191, Gowther#9233, [@milkmochabear](https://www.instagram.com/milkmochabear)
+Yma#5175, Raffah#1751, Rody#4191, Gowther#9233, 
