@@ -276,6 +276,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-ideiamaya [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
 
+`-gif [linkdogif.com]` Envie gif e aumente os packs da Maya
+
 ### 🔸 Interação com os server
 
 `-criarcomando [NomeDoComando] [O que eu vou responder]` Cria um comando só pro servidor
@@ -338,7 +340,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 # 📺 Animes
 
-> Esses comandos estão sendo desenvolvidos ainda, não se preocupe
+- Esses comandos estão sendo desenvolvidos ainda, não se preocupe
 
 ~`-anime [Seu anime]`~ Pesquisa de animes
 
@@ -350,16 +352,15 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quiznaruto` Quiz de Naruto pra quem é viciado
 
-#### Pack de Gifs
+#### Pack de Gifs/Fotos
 
-`-nezuko`
+`-asuna` | `-chika` | `-nezuko`
 
-`-zenitsu`
-
-`-naruto`
+`-gojo` | `-zenitsu` | `-naruto`
 
 `-kimetsu` Pack de Gifs de Kimetsu No Yaiba
-- Em breve: `-kirito` `-asuna` e mais 36 packs *(Tô com preguiça de escrever)*
+
+- Em breve: `-kirito` e mais 36 packs *(Tô com preguiça de escrever)*
 # 💡 Comandos Gerais
 
 • Comandos úteis e que podem ajudar muito
@@ -646,4 +647,4 @@ dspofu#8041
 
 ### Designers
 
-Yma#5175, Raffah#1751, Rody#4191, Gowther#9233, 
+Yma#5175, Raffah#1751, Rody#4191, Gowther#9233
