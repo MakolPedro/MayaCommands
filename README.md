@@ -609,6 +609,8 @@ LucasLuquisquiss#4643 | `-frase`
 
 João da Cilada#7041 | `-love`
 
+MakolPedro#8508 | `-help games`
+
 Giacometti#4849 | `-feet`
 
 Dog Comunista#2185 | `-lockcommands`
