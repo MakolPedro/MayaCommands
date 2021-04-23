@@ -3,10 +3,6 @@ Esta página no modo escuro é 500% mais bonita.
 
 Prefixo padrão ( - )
 
-- **Permissões Básicas Requeridas:**
-
- Mandar mensagem, ler canais, gerenciar mensagens.
-
 - **🧩 Maya Global System**
 
 Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Maya estiver presente.
