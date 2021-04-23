@@ -19,7 +19,7 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 ❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | Top.gg *(Soon / Em Breve)*
 
-![](https://imgur.com/mrilAyU.png)
+![](https://github.com/rodycouto/MayaCommands/blob/main/images/Sayu%20profile.jpg)
 
 ### Oláá, meu nome é Maya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso.
@@ -632,6 +632,8 @@ MakolPedro#8508: `34 Bugs`
 ### Gifs / Emojis
 
 [@milkmochabear](https://www.instagram.com/milkmochabear)
+
+Foto de perfil: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
 ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556
 
