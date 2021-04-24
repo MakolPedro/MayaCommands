@@ -349,6 +349,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quiznaruto` Quiz de Naruto pra quem é viciado
 
+`-quizonepiece/op` Tem de One Piece também
+
 #### Pack de Gifs/Fotos
 
 `-asuna` | `-chika` | `-nezuko`
