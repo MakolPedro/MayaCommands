@@ -591,7 +591,7 @@ Quiz Naruto: 17 Perguntas
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://replit.com/)
 
 ### Moderação do Servidor Maya
-ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556 | ! Levi Ackerman#2447
+MakolPedro#8508 | ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556 | ! Levi Ackerman#2447
 
 ### Créditos a todos que ajudaram
 
