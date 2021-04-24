@@ -214,9 +214,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-removerole [@user] [@cargo]` Tire Cargos
 
-~`-createrole [Nome]`~ Crie um cargos
-
-~`-deleterole [Nome]`~ Delete cargos
+`-role [create/delete] [@Nome da Role]` Crie um cargos e delete cargos
 
 `-setnick [@user] [Novo Nome]` Mude o nickname de alguém
 
