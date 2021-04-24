@@ -95,12 +95,12 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
 - Libere funções: `-settitulo` ~`-estrela`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
 - Se proteja: ~`-escudo`~
-- Invista na bolsa: ~`-bolsa [quantia]`~
+- Jogue na loteria: `-loteria`
 - Envie cartas: `-carta [@user] [Sua mensagem]`
 
 ### Como ganhar dinheiro?
 
-- Ganhe dinheiro: `-work` `-lotery` `-daily` `-vender`
+- Ganhe dinheiro: `-work` `-daily` `-vender`
 - Aposte na sorte: `-slut` `-cu` `-blackjack` `-crime` `-roleta`
 
 - Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
@@ -111,7 +111,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
-- Traduções suportadas: `-depositar` `-withdraw` `-loteria` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
+- Traduções suportadas: `-depositar` `-withdraw` `-lotery` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
 ## ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
