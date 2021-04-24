@@ -579,6 +579,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quiznaruto` Você conhece Naruto? Tem 15 segundos também
 
+`-quizonepiece/op` Tem 15s pro One Piece também
+
 ### Em breve
 `-quizanimes` `-quizcinema` `-quizhistoria` `-quizch` -> corpo humano
 
