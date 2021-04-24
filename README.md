@@ -599,6 +599,8 @@ Rody#4191 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `Start Cooper`
 
+Heryson#6565 | `AllowedMentions`
+
 𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração`
 
 LucasLuquisquiss#4643 | `-frase`
@@ -617,7 +619,9 @@ CALORIES#2822 | `Music System Helper` ~ USA
 
 ### Caça Bugs
 
-Casado✋🏻😎#9113: `5 bugs`
+Casado✋🏻😎#9113: `5 Bugs`
+
+Heryson#6565: `2 Bugs`
 
 Pitticco#1827: `1 Bug`
 
@@ -625,7 +629,7 @@ Pitticco#1827: `1 Bug`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
-MakolPedro#8508: `34 Bugs`
+MakolPedro#8508: `39 Bugs`
 
 ! Levi Ackerman#2447 `15 Bugs`
 
