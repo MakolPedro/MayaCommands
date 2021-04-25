@@ -97,6 +97,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` ~`-floresta`~
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
+- Aprimore seu perfil: `-perfil`
 - Envie cartas: `-carta [@user] [Sua mensagem]`
 
 ### Como ganhar dinheiro?
@@ -119,7 +120,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-level <@user>` Veja seu level ou o de alguém
 
-`-dailyxp` 150xp diariamente
+`-daily` Pegue sua dose diaria de dinheiro e xp
 
 `-rank xp` Ranking Interservidor de XP Maya
 
