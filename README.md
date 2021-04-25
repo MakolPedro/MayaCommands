@@ -193,6 +193,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-autorole` Veja o estado de autorole do seu servidor
 
+`-role create/delete [Nome do Cargo]` Crie e delete roles
+
 #### 🔸 Moderação
 
 `-move [@user]` Move um membro pra sua call
