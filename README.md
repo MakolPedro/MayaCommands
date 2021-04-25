@@ -602,6 +602,8 @@ Rody#4191 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `Start Cooper`
 
+Spray#4492 | `-lock | -unlock`
+
 Heryson#6565 | `AllowedMentions`
 
 𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração`
