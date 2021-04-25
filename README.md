@@ -98,7 +98,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
-- Envie cartas: `-carta [@user] [Sua mensagem]`
+- Envie cartas: `-carta [@user] [Sua mensagem]` *(+5 Reputação)*
 
 ### Como ganhar dinheiro?
 
@@ -137,9 +137,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-family` `-nofamily` Informações e comandos que aqui estão
 
-`-family1` `-family2` `-family3` Adicione até 3 pessoas a sua familia
+`-family1` `-family2` `-family3 [@user]` Adicione até 3 pessoas a sua familia
 
-`-nofamily1` `-nofamily2` `-nofamily3` Tire alguém da sua familia
+`-nofamily1` `-nofamily2` `-nofamily3 [@user]` Tire alguém da sua familia
 
 ### Perfil
 
@@ -150,7 +150,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-profile` `-perfil < @user >` Veja seu perfil ou o de alguém
 
-`-settitulo [Seu título]` Defina seu título ~compre na `-loja`
+`-settitulo [Seu título]` Defina seu título *compre na `-loja`*
 
 `-setsigno` Defina seu signo
 
@@ -158,12 +158,12 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 # 💿 Music System
 
-• O Music System foi desativado por que a API do YouTube/Spotify/SoundCloud não colaboram comigo.
+• O Music System foi desativado por que a API do *YouTube/Spotify/SoundCloud* não colaboram comigo.
 
 # 🛠️ Comandos Administrativos
 • Isso aqui é um paraiso para os Mods e Adms
 
-#### 🔸Administração Exclusive (Personalização)
+#### 🔸 Areazinha da Personalização
 
 `-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
 
@@ -187,25 +187,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-setflorestachannel #canal` Canal da floresta
 
-`-lockcommands <#canal>` Bloqueie meus comandos em canais especificos
-
-`-unlockcommands <#canal>` Libere meus comandos em canais que foram bloqueados
-
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente
 
 `-setautorole off` Desative o autorole no seu servidor
 
 `-autorole` Veja o estado de autorole do seu servidor
-
-`-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
-
-`-clonechannel` Cria um canal com o mesmo nome
-
-`-createchannel [#NomeDoCanal]` Crie canais de texto
-
-`-createvoice [#NomeDaCall]` Crie canais de voz
-
-`-lockdown` Trave o servidor em caso de emergência
 
 #### 🔸 Moderação
 
@@ -222,6 +208,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-kick [@user] <razão>` Chute alguém do servidor
 
 `-ban [@user] <razão>` Banir membros
+
+`-unban [ID]` Desban algúm membro *(requer o ID do usuário)*
 
 `-muteinfo` Informações do Mute System
 
@@ -241,18 +229,29 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### 🔸 Chat Commands
 
+`-clonechannel` Cria um canal com o mesmo nome
+
+`-createchannel [#NomeDoCanal]` Crie canais de texto
+
+`-createvoice [#NomeDaCall]` Crie canais de voz
+
+`-lockdown` Trave o servidor em caso de emergência
+
 `-lock` Trave um canal especifico
 
 `-unlock` Destrave um canal especifico
 
+`-lockcommands <#canal>` Bloqueie meus comandos em canais especificos
+
+`-unlockcommands <#canal>` Libere meus comandos em canais que foram bloqueados
+
 `-clear [all]` Limpe todo o chat
-- Recomendo criar um novo canal com o mesmo nome, use `-clonechannel`
 
 `-clear [1~99]` Apague de 1~99 mensagens
 
 `-clear <@user> [1~99]` Apague 1~99 mensagens de alguém especifico
 
-`-clear <bot> [1~99]` Apague 1~99 mensagens de bots
+`-clear <bot>` Apague mensagens de bots
 
 `-clear <images> [1~99]` Apague somente imagens/videos/gifs
 
