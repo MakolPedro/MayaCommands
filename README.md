@@ -240,9 +240,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 ### 🔸 Chat Commands
 
-~`-lock`~ Trave um canal especifico
+`-lock` Trave um canal especifico
 
-~`-unlock`~ Destrave um canal especifico
+`-unlock` Destrave um canal especifico
 
 `-clear [all]` Limpe todo o chat
 - Recomendo criar um novo canal com o mesmo nome, use `-clonechannel`
