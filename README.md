@@ -94,7 +94,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank money`
 - Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
-- Libere funções: `-settitulo` ~`-estrela`~ `-assaltar [@user]` `-pesca` `-minerar` `-floresta`
+- Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` ~`-floresta`~
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
 - Envie cartas: `-carta [@user] [Sua mensagem]`
