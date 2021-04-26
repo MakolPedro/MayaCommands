@@ -107,6 +107,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Ganhe dinheiro: `-work` `-daily` `-vender`
 - Aposte na sorte: `-slut` `-cu` `-blackjack` `-crime` `-roleta`
+- Venda itens que você coleta com a `-pesca` `cavar` `buscar`, os baús escondidos são uma boa fonte de renda
+- Ajudar a Princesa Kaya e vender Diamantes são atos preciosos.
 
 - Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
 
