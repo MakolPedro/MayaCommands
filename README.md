@@ -43,9 +43,11 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 - **Tempo online:** Aproximadamente 29hrs por dia
 
-`-gif [link]` Envie gifs pra mim colocar nos packs
+`-gif [link]` Envie gifs para serem adicionados aos packs
 
-`-ideiamaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+`-ideiamaya [Sua ideia]` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro criador Rody#4191, o criador da Maya
 
 # 🌟 Listinha dos meus lindos comandos
 
