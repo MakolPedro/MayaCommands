@@ -38,7 +38,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com a galera do Discord
 - **Matérias Preferidas:** Ciência e Técnologia
-- **Objetivo:** Assistir todas as séries da Netflix
+- **Objetivo:** Assistir todas as séries da [Netflix](https://www.netflix.com/br/)
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 - **Tempo online:** Aproximadamente 29hrs por dia
