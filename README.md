@@ -47,7 +47,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-ideiamaya [Sua ideia]` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro criador Rody#4191, o criador da Maya
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Maya
 
 # 🌟 Listinha dos meus lindos comandos
 
