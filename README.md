@@ -38,7 +38,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com a galera do Discord
 - **Matérias Preferidas:** Ciência e Técnologia
-- **Objetivo:** Assistir todas as séries da Netflix
+- **Objetivo:** Assistir todas as séries da [Netflix](https://www.netflix.com/br/)
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 - **Tempo online:** Aproximadamente 29hrs por dia
@@ -46,6 +46,8 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 `-gif [link]` Envie gifs pra mim colocar nos packs
 
 `-ideiamaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Maya
 
 # 🌟 Listinha dos meus lindos comandos
 
@@ -95,6 +97,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Suba no ranking: `-rank money`
 - Cace tesouros: `-pesca` `-minerar` `-buscar`
 - Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` `-buscar`
+- Se aventure: `-floresta` *Mais comandos neste comando*
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
@@ -550,7 +553,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-ery [@user]` Deboche
 
-`-lamber` `-lick [@user]` Peroriin
+`-lamber` `-lick [@user]` Lambidinha
 
 `-chupar` `-suck [@user]` Chupada
 
