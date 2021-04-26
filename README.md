@@ -11,7 +11,7 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 **[Argumento Obrigatório]** • `-ban [@fulano]`
 
-**< Argumento Opicional >** • `-saldo` `-saldo <@pedro>` 
+**< Argumento Opicional >** • `-saldo` `-saldo <@makolpedro>` 
 
 **~Em reforma/Indisponivel~** • Comandos em reforma.
 
@@ -38,16 +38,14 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com a galera do Discord
 - **Matérias Preferidas:** Ciência e Técnologia
-- **Objetivo:** Assistir todas as séries da [Netflix](https://www.netflix.com/br/)
+- **Objetivo:** Assistir todas as séries da Netflix
 - **Gostos:** Músicas, animes/filmes/séries, roupas de coelinho e sorvete de montão
 - **Minha Casa:** A linda e perfeita [DisCloud](https://discloudbot.com/)
 - **Tempo online:** Aproximadamente 29hrs por dia
 
-`-gif [link]` Envie gifs para serem adicionados aos packs
+`-gif [link]` Envie gifs pra mim colocar nos packs
 
-`-ideiamaya [Sua ideia]` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
-
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Maya
+`-ideiamaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
 # 🌟 Listinha dos meus lindos comandos
 
@@ -73,7 +71,7 @@ Moeda: ⭐MPoints *(Maya Points)*
 - ##### Administração
 - `-setpescachannel #canal` Canal para pesca
 - `-setminechannel #canal` Canal para mineração
-- ~`-setflorestchannel #canal`~ Canal para floresta
+- `-setbuscachannel #canal` Canal para busca
 - ~`-seteconomychannel #canal`~ Canal de economia *(Habilita sistema de economia)*
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
@@ -95,8 +93,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Cobre: `-cobrar [@user] [valor]`
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank money`
-- Caçe tesouros: `-pesca` `-minerar` ~`-floresta`~
-- Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` ~`-floresta`~
+- Cace tesouros: `-pesca` `-minerar` `-buscar`
+- Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` `-buscar`
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
@@ -187,7 +185,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-setminechannel #canal` Canal de mineração
 
-`-setflorestachannel #canal` Canal da floresta
+`-setbuscachannel #canal` Canal de busca
 
 `-setautorole [@cargo]` Selecione um cargo para novos membros do servidor recebe-lo automaticamente
 
@@ -552,7 +550,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-ery [@user]` Deboche
 
-`-lambar` `-lick [@user]` Peroriin
+`-lamber` `-lick [@user]` Peroriin
 
 `-chupar` `-suck [@user]` Chupada
 
