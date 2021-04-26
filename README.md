@@ -584,6 +584,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quizonepiece/op` Tem 15s pro One Piece também
 
+`-quizkimetsu` Tem 15s pro Kimetsu também
+
 ### Em breve
 `-quizanimes` `-quizcinema` `-quizhistoria` `-quizch` -> corpo humano
 
@@ -599,33 +601,37 @@ Quiz Naruto: 17 Perguntas
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://replit.com/)
 
 ### Moderação do Servidor Maya
-MakolPedro#8508 | ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556 | ! Levi Ackerman#2447
+MakolPedro#8508 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | ! Levi Ackerman#2447
 
 ### Créditos a todos que ajudaram
 
 Rody#4191 | `Construção do Código e Pesquisa`
 
-Gowther#9233 | `Start Cooper`
+Gowther#9233 | `Start Cooper` *~Developer acess & Gif Collector*
 
-Spray#4492 | `-lock | -unlock`
+Spray#4492 | `-lock | -unlock` *~ideia*
 
-Heryson#6565 | `AllowedMentions`
+Heryson#6565 | `AllowedMentions` *~conselho & ajuda*
 
-𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração`
+𝑅𝑈 𝑀𝑖𝑛𝑒?#2790 | `Ideias nos Comandos de Administração` *~ideia*
 
-LucasLuquisquiss#4643 | `-frase`
+LucasLuquisquiss#4643 | `-frase` *~ideia*
 
-João da Cilada#7041 | `-love`
+João da Cilada#7041 | `-love` *~ideia*
 
-MakolPedro#8508 | `-help games`
+MakolPedro#8508 | `-help games` `-quizonepiece` `Atualizador do Help` *~ideias, developer, Perguntas/Respostas Quiz*
 
-Giacometti#4849 | `-feet`
+Ceci#7184 | `-doar itens` *~ideia*
 
-Dog Comunista#2185 | `-lockcommands`
+Giacometti#4849 | `-feet` *~ideia*
 
-Coiny#9056 | `Ideias no Painel Interativo`
+ツ𝑨𝒌𝒂𝒛𝒂#6556 | `-quizkimetsu` *~ideia + Perguntas/Respostas Quiz*
 
-CALORIES#2822 | `Music System Helper` ~ USA
+Dog Comunista#2185 | `-lockcommands` *~ideia*
+
+Coiny#9056 | `Painel Interativo` *~ideia & support*
+
+CALORIES#2822 | `Music System Helper` ~ USA *~ideia, support, developer*
 
 ### Caça Bugs
 
@@ -635,11 +641,11 @@ Heryson#6565: `2 Bugs`
 
 Pitticco#1827: `1 Bug`
 
-ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556: `27 Bugs`
+ツ𝑨𝒌𝒂𝒛𝒂#6556: `29 Bugs`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
-MakolPedro#8508: `43 Bugs`
+MakolPedro#8508: `49 Bugs`
 
 ! Levi Ackerman#2447 `15 Bugs`
 
@@ -649,16 +655,18 @@ MakolPedro#8508: `43 Bugs`
 
 Foto de perfil: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
-ツ𝑴𝒖𝒊𝒄𝒉𝒊𝒓𝒐 𝒕𝒐𝒌𝒊𝒕𝒐#6556
+ツ𝑨𝒌𝒂𝒛𝒂#6556 `Emojis servidor`
 
-Gowther#9233
+Gowther#9233 `Gifs Maya`
 
-dspofu#8041
+dspofu#8041 `Emojis servidor`
 
-! Sanemi Shinazugawa#2447
+Hype#0004 `Emojis Maya`
 
-¸,ø¤{•ลℓเ¢э-µ¢ђเђล}ø¤º°#6146
+! Sanemi Shinazugawa#2447 `Emojis servidor`
+
+¸,ø¤{•ลℓเ¢э-µ¢ђเђล}ø¤º°#6146 `Emojis servidor`
 
 ### Designers
 
-Yma#5175, Rody#4191, Gowther#9233
+Yma#5175, Rody#4191, Gowther#9233, Sayu
