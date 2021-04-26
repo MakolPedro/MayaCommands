@@ -598,7 +598,7 @@ Quiz Naruto: 17 Perguntas
 # 📁 Maya Assistence
 • Pessoas que ajudaram na construção da Maya
 
-[Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://replit.com/)
+[Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
 ### Moderação do Servidor Maya
 MakolPedro#8508 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | ! Levi Ackerman#2447
