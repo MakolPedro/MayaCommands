@@ -658,4 +658,4 @@ dspofu#8041
 
 ### Designers
 
-Yma#5175, Raffah#1751, Rody#4191, Gowther#9233
+Yma#5175, Rody#4191, Gowther#9233
