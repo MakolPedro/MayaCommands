@@ -118,6 +118,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
 
+`-dogname [NomeDoDoguinho]` Mude o nome do seu cachorrinho após a ajudar a Princesa Kaya `-floresta`
+
 - Traduções suportadas: `-depositar` `-withdraw` `-lotery` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
 ## ⬆️ Level System - Uhuul, level up!
