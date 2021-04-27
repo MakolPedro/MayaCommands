@@ -1,6 +1,8 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
 Esta página no modo escuro é 500% mais bonita.
 
+- [Termos de Uso](https://github.com/rodycouto/MayaCommands/blob/main/terms/TermosDeUso.md)
+
 Prefixo padrão ( - )
 
 - **🧩 Maya Global System**
