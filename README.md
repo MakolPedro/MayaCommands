@@ -85,21 +85,21 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - A Maya não se responsabiliza por dinheiro perdido ou mal usado.
 
-- Compre: `-shop`
-- Colecione: `-slot`
-- Pague: `-pay [@user] [valor]`
-- Venda: `-sell <@user> [item] [quantidade]`
+- Lojinha chique: `-shop`
+- Inventário Tecnológico: `-slot`
+- Pagamentos: `-pay [@user] [valor]`
+- Sistema de vendas: `-sell <@user> [item] [quantidade]`
 - Deposite: `-dep [valor]/[all]`
 - Saque: `-sacar [valor]/[all]`
 - Roube: `-rob [@user]`
-- Jogue: `-blackjack [valor]`
-- Lance: ~`-jogar [valor]`~ Quase pronto
+- Jogo: `-blackjack [valor]`
+- Jogue dinheiro no chat: `-lance [valor]`
 - Cobre: `-cobrar [@user] [valor]`
 - Mendigue: `-esmola`
 - Suba no ranking: `-rank money`
 - Cace tesouros: `-pesca` `-minerar` `-buscar`
 - Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` `-buscar`
-- Se aventure: `-floresta` *Mais comandos neste comando*
+- Ajude a Princesa Kaya: `-floresta` *Mais comandos neste comando*
 - Se proteja: ~`-escudo`~
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
