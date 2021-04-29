@@ -1,13 +1,13 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
 Esta página no modo escuro é 500% mais bonita.
 
-- [Termos de Uso](https://github.com/rodycouto/MayaCommands/blob/main/terms/TermosDeUso.md)
+- [Termos de Uso](https://github.com/rodycouto/NayaCommands/blob/main/terms/TermosDeUso.md)
 
 Prefixo padrão ( - )
 
-- **🧩 Maya Global System**
+- **🧩 Naya Global System**
 
-Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Maya estiver presente.
+Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Naya estiver presente.
 
 ## Para você não se perder aqui, presta atenção!
 
@@ -21,10 +21,10 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 ❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | Top.gg *(Soon / Em Breve)*
 
-![](https://github.com/rodycouto/MayaCommands/blob/main/images/Sayu%20profile.jpg)
+![](https://github.com/rodycouto/NayaCommands/blob/main/images/Sayu%20profile.jpg)
 ##### Art Profile By: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
-### Oláá, meu nome é Maya!
+### Oláá, meu nome é Naya!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso.
 
 Estou em vários servidores brincando e me divertindo com a melhor galera do mundo. 
@@ -35,7 +35,7 @@ Hoje, além de uma simples bot de diversão e administração, me tornei uma bot
 Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha blacklist 🔪
 
 ## 📃 Minhas informações super interessantes
-- **Nome:** Maya
+- **Nome:** Naya
 - **Idade**: 14 anos
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com a galera do Discord
@@ -47,9 +47,9 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-gif [link]` Envie gifs pra mim colocar nos packs
 
-`-ideiamaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+`-ideianaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Maya
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Naya
 
 # 🌟 Listinha dos meus lindos comandos
 
@@ -70,7 +70,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 # 💸 O Lindo Sistema de Economia Global
 • Ganhar e perder dinheiro nunca foi tão divertido, agora você pode fazer isso brincando.
 
-Moeda: ⭐MPoints *(Maya Points)*
+Moeda: ⭐MPoints *(Naya Points)*
 
 - ##### Administração
 - `-setpescachannel #canal` Canal para pesca
@@ -81,9 +81,9 @@ Moeda: ⭐MPoints *(Maya Points)*
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-mp` `-saldo`
 
-### O que tem no Sistema de Economia da Maya?
+### O que tem no Sistema de Economia da Naya?
 
-- A Maya não se responsabiliza por dinheiro perdido ou mal usado.
+- A Naya não se responsabiliza por dinheiro perdido ou mal usado.
 
 - Lojinha chique: `-shop`
 - Inventário Tecnológico: `-slot`
@@ -114,11 +114,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
 
-### Ajudinha rápida sobre a economia da Maya
+### Ajudinha rápida sobre a economia da Naya
 
 `-help economia` Todos os comandos que aqui estão mais informações que também aqui estão.
 
-`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/comojogarbj.md)
+`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-dogname [NomeDoDoguinho]` Mude o nome do seu cachorrinho após a ajudar a Princesa Kaya `-floresta`
 
@@ -131,7 +131,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-daily` Pegue sua dose diaria de dinheiro e xp
 
-`-rank xp` Ranking Interservidor de XP Maya
+`-rank xp` Ranking Interservidor de XP Naya
 
 ~`-levelrole [level]`~ Dá um cargo para quem alcançar um level especifico
 
@@ -174,21 +174,21 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 #### 🔸 Areazinha da Personalização
 
-`-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setxpchannel.md)
+`-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setxpchannel.md)
 
-`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setreportchannel.)
+`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setreportchannel.)
 
-`-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
+`-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setleave.md)
 
-`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setleave.md)
+`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setleave.md)
 
-`-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
+`-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setwelcome.md)
 
 `-setwelcome off` `-setleave off` Desative o sistema de boas vindas/saídas
 
-`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setwelcome.md)
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/MayaCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
+`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
 
 `-setpescachannel #canal` Canal de pesca
 
@@ -270,7 +270,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
-### 🔸 Maya Comandos Exclusivos
+### 🔸 Naya Comandos Exclusivos
 
 `-setprefix [NovoPrefixo]` Muda meu prefixo
 
@@ -280,9 +280,9 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-dm` `-pv [@user] [Mensagem]` Comando Travado
 
-`-ideiamaya [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
+`-ideianaya [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
 
-`-gif [linkdogif.com]` Envie gif e aumente os packs da Maya
+`-gif [linkdogif.com]` Envie gif e aumente os packs da Naya
 
 ### 🔸 Interação com os server
 
@@ -389,7 +389,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-invites` Veja quantas pessoas cada membro convidou pro servidor *(Criador do link que ganha o invite)*
 
-### 🔸 Comandinhos da Maya
+### 🔸 Comandinhos da Naya
 
 `-ping` Pong!
 
@@ -461,7 +461,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-feet` Pézin
 
-`-servidores` Servidores que usam a Maya
+`-servidores` Servidores que usam a Naya
 
 `-livia` Gay
 
@@ -582,7 +582,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Todos comandos de interação tem traduções, caso queira adicionar mais alguma tradução, [clique aqui](https://forms.gle/vtJ5qBqFDd9rL5JU8)
 
 # 📝 Quiz - BETA
-• O Maya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
+• O Naya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
 
 `-quiz` Você terá apenas 15 segundos para responder
 
@@ -601,12 +601,12 @@ Quiz: 27 Perguntas
 
 Quiz Naruto: 17 Perguntas
 
-# 📁 Maya Assistence
-• Pessoas que ajudaram na construção da Maya
+# 📁 Naya Assistence
+• Pessoas que ajudaram na construção da Naya
 
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
-### Moderação do Servidor Maya
+### Moderação do Servidor Naya
 MakolPedro#8508 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | ! Levi Ackerman#2447
 
 ### Créditos a todos que ajudaram
@@ -663,11 +663,11 @@ Foto de perfil: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
 ツ𝑨𝒌𝒂𝒛𝒂#6556 `Emojis servidor`
 
-Gowther#9233 `Gifs Maya`
+Gowther#9233 `Gifs Naya`
 
 dspofu#8041 `Emojis servidor`
 
-Hype#0004 `Emojis Maya`
+Hype#0004 `Emojis Naya`
 
 ! Sanemi Shinazugawa#2447 `Emojis servidor`
 
