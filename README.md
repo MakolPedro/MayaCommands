@@ -5,6 +5,8 @@ Esta página no modo escuro é 500% mais bonita.
 
 Prefixo padrão ( - )
 
+`-help categoria` Obtenha acesso a todas as pastas de comandos
+
 - **🧩 Naya Global System**
 
 Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Naya estiver presente.
@@ -227,6 +229,12 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 `-autorole` Veja o estado de autorole do seu servidor
 
 `-role create/delete [Nome do Cargo]` Crie e delete roles
+
+`-role edit name/color [@role] [Novo name/color]` Edite nomes e cor dos cargos
+
+`-role membros [@role]` Veja quantos membros tem em algúm cargo
+
+`-role id [@role]` ID do cargos
 
 #### 🔸 Moderação
 
