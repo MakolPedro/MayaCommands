@@ -140,7 +140,7 @@ Você pode ter mais informações de como doar enviando `-help` ou `-donate`.
 
 - ❓ O que eu ganho com o VIP?
 
-Tem vários comandos liberados com VIP. `-esmola` e `-buy estrela5` são dois deles.
+Perfis e embeds diferenciadas. Tem vários comandos liberados com VIP. `-esmola` e `-buy estrela5` são dois deles.
 
 - ❓ Como comprovar o pagamento?
 
