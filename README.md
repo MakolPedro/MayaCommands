@@ -669,7 +669,7 @@ dspofu#8041 `Emojis servidor`
 
 Hype#0004 `Emojis Naya`
 
-! Sanemi Shinazugawa#2447 `Emojis servidor`
+! Kokushibou#2447 `Emojis servidor`
 
 ¸,ø¤{•ลℓเ¢э-µ¢ђเђล}ø¤º°#6146 `Emojis servidor`
 
