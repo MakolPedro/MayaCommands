@@ -631,7 +631,7 @@ Ceci#7184 | `-doar itens` *~ideia*
 
 Giacometti#4849 | `-feet` *~ideia*
 
-ツ𝑨𝒌𝒂𝒛𝒂#6556 | `-quizkimetsu` *~ideia + Perguntas/Respostas Quiz*
+! Kokushibou#2447 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | `-quizkimetsu` *~ideia + Perguntas/Respostas Quiz*
 
 Dog Comunista#2185 | `-lockcommands` *~ideia*
 
