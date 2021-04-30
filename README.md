@@ -607,7 +607,7 @@ Quiz Naruto: 17 Perguntas
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
 ### Moderação do Servidor Naya
-MakolPedro#8508 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | ! Levi Ackerman#2447
+MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447
 
 ### Créditos a todos que ajudaram
 
@@ -631,7 +631,7 @@ Ceci#7184 | `-doar itens` *~ideia*
 
 Giacometti#4849 | `-feet` *~ideia*
 
-! Kokushibou#2447 | ツ𝑨𝒌𝒂𝒛𝒂#6556 | `-quizkimetsu` *~ideia + Perguntas/Respostas Quiz*
+! Kokushibou#2447 | ツ𝑫𝒐𝒎𝒂#6556 | `-quizkimetsu` *~ideia + Perguntas/Respostas Quiz*
 
 Dog Comunista#2185 | `-lockcommands` *~ideia*
 
@@ -647,13 +647,13 @@ Heryson#6565: `2 Bugs`
 
 Pitticco#1827: `1 Bug`
 
-ツ𝑨𝒌𝒂𝒛𝒂#6556: `29 Bugs`
+ツ𝑫𝒐𝒎𝒂#6556: `29 Bugs`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
 MakolPedro#8508: `49 Bugs`
 
-! Levi Ackerman#2447 `15 Bugs`
+! Kokushibou#2447 `15 Bugs`
 
 ### Gifs / Emojis
 
@@ -661,7 +661,7 @@ MakolPedro#8508: `49 Bugs`
 
 Foto de perfil: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
-ツ𝑨𝒌𝒂𝒛𝒂#6556 `Emojis servidor`
+ツ𝑫𝒐𝒎𝒂#6556 `Emojis servidor`
 
 Gowther#9233 `Gifs Naya`
 
