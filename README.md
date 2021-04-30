@@ -360,6 +360,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 `-quizonepiece/op` Tem de One Piece também
 
+`-quizkimetsu` Kimetsu no Yaiba também está na lista.
+
 #### Pack de Gifs/Fotos
 
 `-asuna` | `-chika` | `-nezuko`
@@ -454,8 +456,6 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 `-nota [@user]` Dê nota a alguém
 
 `-boom` Só faz boom
-
-`-ecchi` Não recomendo usar isso
 
 `-explosion` Megumiiin
 
@@ -601,13 +601,17 @@ Quiz: 27 Perguntas
 
 Quiz Naruto: 17 Perguntas
 
+Quiz One Piece: 15 Perguntas (24 perguntas em breve)
+
+Quiz Kimetsu no Yaiba: 15 perguntas
+
 # 📁 Naya Assistence
 • Pessoas que ajudaram na construção da Naya
 
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
 ### Moderação do Servidor Naya
-MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447
+MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
 
 ### Créditos a todos que ajudaram
 
