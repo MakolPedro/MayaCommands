@@ -102,7 +102,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Cace tesouros: `-pesca` `-minerar` `-buscar`
 - Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` `-buscar`
 - Ajude a Princesa Kaya: `-floresta` *Mais comandos neste comando*
-- Duele: `-duelar [@user]`
+- Duele: `-duelar [@user] [Valor]`
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
 - Envie cartas: `-carta [@user] [Sua mensagem]` *(+5 Reputação)*
