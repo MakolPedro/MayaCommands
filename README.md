@@ -83,7 +83,7 @@ Moeda: ⭐MPoints *(Naya Points)*
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-mp` `-saldo`
 
-### O que tem no Sistema de Economia da Naya?
+### ❓ O que tem no Sistema de Economia da Naya?
 
 - A Naya não se responsabiliza por dinheiro perdido ou mal usado.
 
@@ -107,7 +107,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Aprimore seu perfil: `-perfil`
 - Envie cartas: `-carta [@user] [Sua mensagem]` *(+5 Reputação)*
 
-### Como ganhar dinheiro?
+### ❓ Como ganhar dinheiro?
 
 - Ganhe dinheiro: `-work` `-daily` `-vender`
 - Aposte na sorte: `-slut` `-cu` `-blackjack` `-crime` `-roleta`
