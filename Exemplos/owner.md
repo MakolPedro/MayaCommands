@@ -1,13 +1,13 @@
 # ♦️ Comandos Exclusivo do Rody#3756
 > Sim, ele tem memória de uma velha, então precisa ter tudo aqui.
 
-> Esses comandos tem um alto poder de impacto em todo o bot, por tanto, são exclusivos apenas para o criador da Maya.
+> Esses comandos tem um alto poder de impacto em todo o bot, por tanto, são exclusivos apenas para o criador da Naya.
 
 ### Comandos Emergênciais
 
-`-reboot` Reinicia a Maya
+`-reboot` Reinicia a Naya
 
-`-turnoff` Desliga a Maya
+`-turnoff` Desliga a Naya
 
 `-recall` Reinicia um comando especifico
 
@@ -53,6 +53,6 @@
 
 `-leaveall` Me tira de todos os servidores
 
-`-delmaya` Me deleta :cry:
+`-delnaya` Me deleta :cry:
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)
+[Voltar para lista de comandos](https://github.com/rodycouto/NayaCommands/blob/main/README.md)

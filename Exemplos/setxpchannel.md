@@ -5,9 +5,9 @@
 `-setxpchannel #Canal`
 
 ### Exemplo
-![Imagem Exemplo](https://github.com/rodycouto/MayaCommands/blob/main/images/setxpchannel.png)
+![Imagem Exemplo](https://github.com/rodycouto/NayaCommands/blob/main/images/setxpchannel.png)
 
 ### Level Up
-![Level UP](https://github.com/rodycouto/MayaCommands/blob/main/images/Level%20up.png)
+![Level UP](https://github.com/rodycouto/NayaCommands/blob/main/images/Level%20up.png)
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)
+[Voltar para lista de comandos](https://github.com/rodycouto/NayaCommands/blob/main/README.md)

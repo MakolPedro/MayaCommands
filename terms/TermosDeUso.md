@@ -1,2 +1,2 @@
-# Termos de Uso - Bot Maya
+# Termos de Uso - Bot Naya
 ##### - Escrevendo termos de uso

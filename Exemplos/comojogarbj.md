@@ -1,6 +1,6 @@
 # ♠️ ♥️ Jogo de Cartas Blackjack / 21 ♣️ ♦️
 
-![Blackjack Cards](https://github.com/rodycouto/MayaCommands/blob/main/images/Blackjack%20cards.jpg)
+![Blackjack Cards](https://github.com/rodycouto/NayaCommands/blob/main/images/Blackjack%20cards.jpg)
 
 ### ♦️ O que é blackjack?
 
@@ -19,7 +19,7 @@ Você pode finalizar seu jogo a qualquer momento, no final, ganha quem fizer 21 
 
 Empate? Sem problema, jogue novamente e veja quem vence.
 
-### ♣️ Como iniciar o jogo na Maya?
+### ♣️ Como iniciar o jogo na Naya?
 
 Simples! Você aposta seus ⭐ Mpoints.
 
@@ -44,4 +44,4 @@ Derrota: O valor apostado vem para o meu banco e é descontado da sua carteira.
 
 Empate: O valor apostado é devolvido.
 
-[Voltar para lista de comandos](https://github.com/rodycouto/MayaCommands/blob/main/README.md)
+[Voltar para lista de comandos](https://github.com/rodycouto/NayaCommands/blob/main/README.md)
