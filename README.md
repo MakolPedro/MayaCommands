@@ -19,7 +19,7 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 ### Acesso Rápido
 
-❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=821471191578574888&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | Top.gg *(Soon / Em Breve)*
+❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=837147659898191902&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | Top.gg *(Soon / Em Breve)*
 
 ![](https://github.com/rodycouto/NayaCommands/blob/main/images/Sayu%20profile.jpg)
 ##### Art Profile By: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
