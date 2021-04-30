@@ -244,8 +244,6 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-removerole [@user] [@cargo]` Tire Cargos
 
-`-role [create/delete] [@Nome da Role]` Crie um cargos e delete cargos
-
 `-setnick [@user] [Novo Nome]` Mude o nickname de alguém
 
 `-kick [@user] <razão>` Chute alguém do servidor
