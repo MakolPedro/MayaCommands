@@ -72,7 +72,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 # 💸 O Lindo Sistema de Economia Global
 • Ganhar e perder dinheiro nunca foi tão divertido, agora você pode fazer isso brincando.
 
-Moeda: ⭐MPoints *(Naya Points)*
+Moeda: ⭐NPoints *(Naya Points)*
 
 - ##### Administração
 - `-setpescachannel #canal` Canal para pesca
