@@ -51,6 +51,8 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Naya
 
+`-donate` Tem um real sobrando? Me ajuda poxa
+
 # 🌟 Listinha dos meus lindos comandos
 
 ## O Belíssimo AFK Global Command
@@ -100,7 +102,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Cace tesouros: `-pesca` `-minerar` `-buscar`
 - Libere funções: `-settitulo` `-assaltar [@user]` `-pesca` `-minerar` `-buscar`
 - Ajude a Princesa Kaya: `-floresta` *Mais comandos neste comando*
-- Se proteja: ~`-escudo`~
+- Duele: `-duelar [@user]`
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
 - Envie cartas: `-carta [@user] [Sua mensagem]` *(+5 Reputação)*
@@ -124,7 +126,29 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Traduções suportadas: `-depositar` `-withdraw` `-lotery` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
-## ⬆️ Level System - Uhuul, level up!
+# ⭐ VIP / Donate - Só os melhores tem
+
+*Antes de tudo, fique ciente de que o VIP System não dá previlégios ou vantagens a ninguém. O VIP System é uma forma de agradecimento e libera funções que não dão vantagens, apenas é legal tê-las.*
+
+Use `-vip` que te mando todas as informações
+
+- ❓ Como obter o VIP?
+
+Simples! Você pode fazer uma doação de [R$1,00](https://mpago.la/2jYiNDg) no Mercado Pago ou fazer um PIX para o meu PicPay, basta digitar `-pix`.
+
+Você pode ter mais informações de como doar enviando `-help` ou `-donate`.
+
+- ❓ O que eu ganho com o VIP?
+
+Tem vários comandos liberados com VIP. `-esmola` e `-buy estrela5` são dois deles.
+
+- ❓ Como comprovar o pagamento?
+
+Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#4191**, enviando um **print do comprovante** e pronto, você tem seu VIP.
+
+Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
+
+# ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
 
 `-level <@user>` Veja seu level ou o de alguém
