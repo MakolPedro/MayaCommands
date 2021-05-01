@@ -128,6 +128,17 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Traduções suportadas: `-depositar` `-withdraw` `-lotery` `-store` `-buy` `-pagar` `-doar` `-roubar` `-trabalhar` `-prostituir` `-slot` `-mendigar` `-cavar` `-buy` `-comprar` `-inve` `-inventario` `-roubar` `-rol` `-sell` `-loja` `-vender`
 
+# 🌎 Chat Global
+
+Fale com a galera dos outros servidores através do Chat Global.
+
+- `-createchannel naya-global-chat` Este nome é **obrigatório** para o funcionamento deste sistema.
+- `-setglobalchat #naya-global-chat` Valide o canal para que ninguém use comandos do chat global em outros canais.
+- `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
+- `globalchat` Ajudinha de como ativar o sistema.
+
+##### A Naya não se responsabiliza por quaisquer mensagem inapropriada! *(Moderadores serão adicionados a este sistema.)*
+
 # ⭐ VIP / Donate - Só os melhores tem
 
 *Antes de tudo, fique ciente de que o VIP System não dá previlégios ou vantagens a ninguém. O VIP System é uma forma de agradecimento e libera funções que não dão vantagens, apenas é legal tê-las.*
