@@ -51,7 +51,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-ideianaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#4191, o criador da Naya
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#1000, o criador da Naya
 
 `-donate` Tem um real sobrando? Me ajuda poxa
 
@@ -157,7 +157,7 @@ Perfis e embeds diferenciadas. Tem vários comandos liberados com VIP. `-esmola`
 
 - ❓ Como comprovar o pagamento?
 
-Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#4191**, enviando um **print do comprovante** e pronto, você tem seu VIP.
+Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#1000**, enviando um **print do comprovante** e pronto, você tem seu VIP.
 
 Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
@@ -656,7 +656,7 @@ MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
 
 ### Créditos a todos que ajudaram
 
-Rody#4191 | `Construção do Código e Pesquisa`
+Rody#1000 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `Start Cooper` *~Developer acess & Gif Collector*
 
@@ -720,4 +720,4 @@ Hype#0004 `Emojis Naya`
 
 ### Designers
 
-Yma#5175, Rody#4191, Gowther#9233, Sayu
+Yma#5175, Rody#1000, Gowther#9233, Sayu
