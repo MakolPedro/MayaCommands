@@ -132,8 +132,8 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 Fale com a galera dos outros servidores através do Chat Global.
 
-- `-createchannel naya-global-chat` Este nome é **obrigatório** para o funcionamento deste sistema.
-- `-setglobalchat #naya-global-chat` Valide o canal para que ninguém use comandos do chat global em outros canais.
+- `-createchannel canal` Este nome é **obrigatório** para o funcionamento deste sistema.
+- `-setglobalchat #canal` Valide o canal para que ninguém use comandos do chat global em outros canais.
 - `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
 - `globalchat` Ajudinha de como ativar o sistema.
 
