@@ -135,9 +135,10 @@ Fale com a galera dos outros servidores através do Chat Global.
 - `-createchannel canal` Crie um canal se você quiser.
 - `-setglobalchat #canal` Escolhe um canal para ser o Global Chat
 - `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
+- `-regrasglobal` As regras do Global Chat
 - `globalchat` Ajudinha de como ativar o sistema.
 
-##### A Naya não se responsabiliza por quaisquer mensagem inapropriada! *(Moderadores serão adicionados a este sistema.)*
+##### A Naya não se responsabiliza por quaisquer mensagem inapropriada! *(Existem moderadores para mutar/banir pessoas do chat global.)*
 
 # ⭐ VIP / Donate - Só os melhores tem
 
