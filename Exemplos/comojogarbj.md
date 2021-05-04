@@ -11,9 +11,9 @@ O Blackjack também conhecido como 21 é um jogo simples.
 
 Seu objetivo é atingir **21 pontos** na soma das cartas, se passar disso, você perde.
 
-Você e seu adversário começa com 2 cartas cada. O valor de cada carta é o número presente nas cartas, no entanto, as cartas `J`, `Q`, `K` valem 10 pontos e o `A` vale 1 ponto.
+Você e seu adversário começam com 2 cartas cada. O valor de cada carta é o número presente nas cartas, no entanto, as cartas `J`, `Q`, `K` valem 10 pontos e o `A` vale 1 ponto.
 
-Caso você começe o jogo com poucos pontos, você pode comprar cartas do baralho, porém, você não sabe o número que virá, então, cuidado.
+Caso você comece o jogo com poucos pontos, você pode comprar cartas do baralho, porém, você não sabe o número que virá, então, cuidado.
 
 Você pode finalizar seu jogo a qualquer momento, no final, ganha quem fizer 21 pontos ou quem chegou mais perto do número 21.
 
@@ -21,7 +21,7 @@ Empate? Sem problema, jogue novamente e veja quem vence.
 
 ### ♣️ Como iniciar o jogo na Naya?
 
-Simples! Você aposta seus ⭐ Mpoints.
+Simples! Você aposta seus ⭐ Npoints.
 
 Digite `-bj` ou `-blackjack` seguido do valor que você deseja apostar. Exemplo: `-bj 120`
 > O valor apostado **deve** estar disponivel na sua carteira.
