@@ -214,7 +214,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setxpchannel.md)
 
-`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setreportchannel.)
+`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setreportchannel.md)
 
 `-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setleave.md)
 
