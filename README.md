@@ -1,15 +1,15 @@
 # 👩‍💻 Centralzinha de Ajuda e Comandos
 Esta página no modo escuro é 500% mais bonita.
 
-- [Termos de Uso](https://github.com/rodycouto/NayaCommands/blob/main/terms/TermosDeUso.md)
+- [Termos de Uso](https://github.com/rodycouto/RaphyCommands/blob/main/terms/TermosDeUso.md)
 
 Prefixo padrão ( - )
 
 `-help categoria` Obtenha acesso a todas as pastas de comandos
 
-- **🧩 Naya Global System**
+- **🧩 Raphy Global System**
 
-Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Naya estiver presente.
+Com o novo sistema global, torna possível o compartilhamento de dados entre servidores. Sendo assim, você vai ter as mesmas coisas em todos os servidores em que a Raphy estiver presente.
 
 ## Para você não se perder aqui, presta atenção!
 
@@ -23,10 +23,10 @@ Com o novo sistema global, torna possível o compartilhamento de dados entre ser
 
 ❤️ [Meu Servidor](https://discord.gg/YpFWgJuuUV) | [Me Convide](https://discord.com/api/oauth2/authorize?client_id=837147659898191902&permissions=8&scope=bot) | [Central de Suporte](https://forms.gle/vtJ5qBqFDd9rL5JU8) | Top.gg *(Soon / Em Breve)*
 
-![](https://github.com/rodycouto/NayaCommands/blob/main/images/Sayu%20profile.jpg)
+![](https://github.com/rodycouto/RaphyCommands/blob/main/images/Sayu%20profile.jpg)
 ##### Art Profile By: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
-### Oláá, meu nome é Naya!
+### Oláá, meu nome é Raphy!
 Eu fui criada originalmente para ser uma bot de diversão e administração. Porém tenho alguns recursos além disso.
 
 Estou em vários servidores brincando e me divertindo com a melhor galera do mundo. 
@@ -37,7 +37,7 @@ Hoje, além de uma simples bot de diversão e administração, me tornei uma bot
 Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha blacklist 🔪
 
 ## 📃 Minhas informações super interessantes
-- **Nome:** Naya
+- **Nome:** Raphy
 - **Idade**: 14 anos
 - **Aniversário:** 15/03
 - **Hobby:** Interagir com a galera do Discord
@@ -49,9 +49,9 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-gif [link]` Envie gifs pra mim colocar nos packs
 
-`-ideianaya` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
+`-ideiaraphy` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#1000, o criador da Naya
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#1000, o criador da Raphy
 
 `-donate` Tem um real sobrando? Me ajuda poxa
 
@@ -74,7 +74,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 # 💸 O Lindo Sistema de Economia Global
 • Ganhar e perder dinheiro nunca foi tão divertido, agora você pode fazer isso brincando.
 
-Moeda: ⭐NPoints *(Naya Points)*
+Moeda: ⭐NPoints *(Raphy Points)*
 
 - ##### Administração
 - `-setpescachannel #canal` Canal para pesca
@@ -85,9 +85,9 @@ Moeda: ⭐NPoints *(Naya Points)*
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
 - Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-mp` `-saldo`
 
-### ❓ O que tem no Sistema de Economia da Naya?
+### ❓ O que tem no Sistema de Economia da Raphy?
 
-- A Naya não se responsabiliza por dinheiro perdido ou mal usado.
+- A Raphy não se responsabiliza por dinheiro perdido ou mal usado.
 
 - Lojinha chique: `-shop`
 - Inventário Tecnológico: `-slot`
@@ -118,11 +118,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 - Você pode ser preso fazendo coisas ruins, como roubar ou entrar no mundo do crime, então tome cuidado. Mas se você for preso, você pode tentar `-fugir`, se der azar, a pena aumenta e você não pode mais usar o sistema de economia até o tempo zerar.
 
-### Ajudinha rápida sobre a economia da Naya
+### Ajudinha rápida sobre a economia da Raphy
 
 `-help economia` Todos os comandos que aqui estão mais informações que também aqui estão.
 
-`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/comojogarbj.md)
+`-bjhelp` Não sabe jogar blackjack? Veja [como jogar](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/comojogarbj.md)
 
 `-dogname [NomeDoDoguinho]` Mude o nome do seu cachorrinho após a ajudar a Princesa Kaya `-floresta`
 
@@ -138,7 +138,7 @@ Fale com a galera dos outros servidores através do Chat Global.
 - `-regrasglobal` As regras do Global Chat
 - `globalchat` Ajudinha de como ativar o sistema.
 
-##### A Naya não se responsabiliza por quaisquer mensagem inapropriada! *(Existem moderadores para mutar/banir pessoas do chat global.)*
+##### A Raphy não se responsabiliza por quaisquer mensagem inapropriada! *(Existem moderadores para mutar/banir pessoas do chat global.)*
 
 # ⭐ VIP / Donate - Só os melhores tem
 
@@ -169,7 +169,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-daily` Pegue sua dose diaria de dinheiro e xp
 
-`-rank xp` Ranking Interservidor de XP Naya
+`-rank xp` Ranking Interservidor de XP Raphy
 
 ~`-levelrole [level]`~ Dá um cargo para quem alcançar um level especifico
 
@@ -212,21 +212,21 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 #### 🔸 Areazinha da Personalização
 
-`-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setxpchannel.md)
+`-setxpchannel [#canal]` Envio de mensagens Level Up. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setxpchannel.md)
 
-`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setreportchannel.md)
+`-setreportchannel [#canal]` Receba report dos membros. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setreportchannel.md)
 
-`-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setleave.md)
+`-setleave [#canal]` Canal de saída. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setleave.md)
 
-`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setleave.md)
+`-setleavemsg [Sua mensagem de saída]` Escolha uma mensagem legal pra saida. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setleave.md)
 
-`-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setwelcome.md)
+`-setwelcome [#canal]` Canal de boas vindas. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setwelcome.md)
 
 `-setwelcome off` `-setleave off` Desative o sistema de boas vindas/saídas
 
-`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setwelcome.md)
+`-setwelcomemsg [Sua mensagem de boas vindas]` Escolha uma mensagem legal de boas vindas. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setwelcome.md)
 
-`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/NayaCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
+`-setlogchannel [#canal]` Canal de Relatórios. [Veja mais](https://github.com/rodycouto/RaphyCommands/blob/main/Exemplos/setlogchannel.md) *(Libera funções como ban/mute etc...)*
 
 `-setpescachannel #canal` Canal de pesca
 
@@ -312,7 +312,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-slowmode [Tempo em segundos]` Ative o modo lento
 
-### 🔸 Naya Comandos Exclusivos
+### 🔸 Raphy Comandos Exclusivos
 
 `-setprefix [NovoPrefixo]` Muda meu prefixo
 
@@ -322,9 +322,9 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-dm` `-pv [@user] [Mensagem]` Comando Travado
 
-`-ideianaya [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
+`-ideiaraphy [Sua ideia]` Envia sua ideia diretamento pro servidor central. 100% de certeza de que você será ouvido.
 
-`-gif [linkdogif.com]` Envie gif e aumente os packs da Naya
+`-gif [linkdogif.com]` Envie gif e aumente os packs da Raphy
 
 ### 🔸 Interação com os server
 
@@ -433,7 +433,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-invites` Veja quantas pessoas cada membro convidou pro servidor *(Criador do link que ganha o invite)*
 
-### 🔸 Comandinhos da Naya
+### 🔸 Comandinhos da Raphy
 
 `-ping` Pong!
 
@@ -503,7 +503,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 
 `-feet` Pézin
 
-`-servidores` Servidores que usam a Naya
+`-servidores` Servidores que usam a Raphy
 
 `-livia` Gay
 
@@ -624,7 +624,7 @@ Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
 - Todos comandos de interação tem traduções, caso queira adicionar mais alguma tradução, [clique aqui](https://forms.gle/vtJ5qBqFDd9rL5JU8)
 
 # 📝 Quiz - BETA
-• O Naya Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
+• O Raphy Quiz é um jogo simples e divertido de brincar. Tendo 2 modos, é possivel brincar bastante. Jogar com os amigos é ainda mais divertido!!!
 
 `-quiz` Você terá apenas 15 segundos para responder
 
@@ -647,12 +647,12 @@ Quiz One Piece: 15 Perguntas (24 perguntas em breve)
 
 Quiz Kimetsu no Yaiba: 15 perguntas
 
-# 📁 Naya Assistence
-• Pessoas que ajudaram na construção da Naya
+# 📁 Raphy Assistence
+• Pessoas que ajudaram na construção da Raphy
 
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
-### Moderação do Servidor Naya
+### Moderação do Servidor Raphy
 MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
 
 ### Créditos a todos que ajudaram
@@ -709,11 +709,11 @@ Foto de perfil: [Sayu](https://br.pinterest.com/pin/849843392186157763/)
 
 ツ𝑫𝒐𝒎𝒂#6556 `Emojis servidor`
 
-Gowther#9233 `Gifs Naya`
+Gowther#9233 `Gifs Raphy`
 
 dspofu#8041 `Emojis servidor`
 
-Hype#0004 `Emojis Naya`
+Hype#0004 `Emojis Raphy`
 
 ! Kokushibou#2447 `Emojis servidor`
 

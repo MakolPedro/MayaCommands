@@ -6,9 +6,9 @@
 `-setlogchannel #canal`
 
 ### Exemplo
-![Imagem de Exemplo](https://github.com/rodycouto/NayaCommands/blob/main/images/setlogchannel.png)
+![Imagem de Exemplo](https://github.com/rodycouto/RaphyCommands/blob/main/images/setlogchannel.png)
 
 ### Recebendo Logs
-![Recebendo Logs](https://github.com/rodycouto/NayaCommands/blob/main/images/Muted.png)
+![Recebendo Logs](https://github.com/rodycouto/RaphyCommands/blob/main/images/Muted.png)
 
-[Voltar para lista de comandos](https://github.com/rodycouto/NayaCommands/blob/main/README.md)
+[Voltar para lista de comandos](https://github.com/rodycouto/RaphyCommands/blob/main/README.md)

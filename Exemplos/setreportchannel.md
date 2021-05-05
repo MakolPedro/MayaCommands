@@ -5,9 +5,9 @@
 `-setreportchannel #canal`
 
 ### Exemplo
-![Imagem Exemplo](https://github.com/rodycouto/NayaCommands/blob/main/images/Report%20Exemple.png)
+![Imagem Exemplo](https://github.com/rodycouto/RaphyCommands/blob/main/images/Report%20Exemple.png)
 
 ### Recebendo Reports
-![Recebendo Reports](https://github.com/rodycouto/NayaCommands/blob/main/images/Report%20Image.png)
+![Recebendo Reports](https://github.com/rodycouto/RaphyCommands/blob/main/images/Report%20Image.png)
 
-[Voltar para lista de comandos](https://github.com/rodycouto/NayaCommands/blob/main/README.md)
+[Voltar para lista de comandos](https://github.com/rodycouto/RaphyCommands/blob/main/README.md)
