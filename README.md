@@ -160,7 +160,7 @@ Perfis e embeds diferenciadas. Tem vários comandos liberados com VIP. `-esmola`
 
 Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#1000**, enviando um **print do comprovante** e pronto, você tem seu VIP.
 
-Se quiser mais bônus no servidor pricipal, fale com **MakolPedro#8508**.
+Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 # ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
