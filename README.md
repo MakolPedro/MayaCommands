@@ -661,7 +661,7 @@ Rody#1000 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `Start Cooper` *~Developer acess & Gif Collector*
 
-Spray#4492 | `-lock | -unlock` *~ideia*
+Spray#7194 | `-lock | -unlock` *~ideia*
 
 Heryson#6565 | `AllowedMentions` *~conselho & ajuda*
 
