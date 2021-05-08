@@ -55,6 +55,8 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-donate` Tem um real sobrando? Me ajuda poxa
 
+`-sendcantada` Cantadas pro comando `-cantada`
+
 # 🌟 Listinha dos meus lindos comandos
 
 ## O Belíssimo AFK Global Command
@@ -132,10 +134,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 Fale com a galera dos outros servidores através do Chat Global.
 
-- `-createchannel canal` Crie um canal se você quiser.
+- `-chat [Sua mensagem]` Envie mensagens no chat global.
+- `-channel create text/voice canal` Crie um canal se você quiser.
 - `-setglobalchat #canal` Escolhe um canal para ser o Global Chat
 - `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
-- `-regrasglobal` As regras do Global Chat
+- `-regraschat` As regras do Global Chat
 - `globalchat` Ajudinha de como ativar o sistema.
 
 ##### A Raphy não se responsabiliza por quaisquer mensagem inapropriada! *(Existem moderadores para mutar/banir pessoas do chat global.)*
@@ -154,7 +157,14 @@ Você pode ter mais informações de como doar enviando `-help` ou `-donate`.
 
 - ❓ O que eu ganho com o VIP?
 
-Perfis e embeds diferenciadas. Tem vários comandos liberados com VIP. `-esmola` e `-buy estrela5` são dois deles.
+##### Comandos Vips
+
+- `-shop vip` Um loja exclusiva para os vips
+- `-setcolor [cor]` Escolha a cor das suas embeds/mensagens
+- `-slot vip` Um slot só pros vips
+- `-buy estrela5` Compre a 5º Estrela
+- `-esmola` Mendigue dinheiro para os outros
+- ... Mais comandos estão sendo escritos ...
 
 - ❓ Como comprovar o pagamento?
 
@@ -284,9 +294,11 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 `-clonechannel` Cria um canal com o mesmo nome
 
-`-createchannel [#NomeDoCanal]` Crie canais de texto
+`-channel create text/voice [#NomeDoCanal]` Crie canais de texto/voz
 
-`-createvoice [#NomeDaCall]` Crie canais de voz
+`-channel topic [NovoTópico]` Edite o tópico do canal
+
+`-channel name [#channel] [novo nome]` Mude o nomes do canais
 
 `-lockdown` Trave o servidor em caso de emergência
 
@@ -406,9 +418,9 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 #### Pack de Gifs/Fotos
 
-`-asuna` | `-chika` | `-nezuko`
+`-asuna` | `-chika` | `-nezuko` | `-zerotwo/-zt`
 
-`-gojo` | `-zenitsu` | `-naruto`
+`-gojo` | `-zenitsu` | `-naruto` | `-itachi`
 
 `-kimetsu` Pack de Gifs de Kimetsu No Yaiba
 
@@ -499,6 +511,8 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 `-boom` Só faz boom
 
+`-cantada` Cantadas muito boas
+
 `-explosion` Megumiiin
 
 `-feet` Pézin
@@ -514,10 +528,6 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 `-stonks` `-notstonks` Stonks esse comando
 
 `-puppy` Fofiiiinho
-
-`-zt` `-zerotwo` Zero Two linda
-
-~`-nezuko`~ Coletando Gifs
 
 # ❤️ Comandos de Reações
 • Demonstre reações por gifs no servidor
