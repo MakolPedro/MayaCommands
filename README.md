@@ -85,7 +85,7 @@ Moeda: ⭐RPoints *(Raphy Points)*
 - ~`-seteconomychannel #canal`~ Canal de economia *(Habilita sistema de economia)*
 
 Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user***)*
-- Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-mp` `-saldo`
+- Traduções: `-bal` `-balance` `-atm` `-money` `-conta` `-rp` `-saldo`
 
 ### ❓ O que tem no Sistema de Economia da Raphy?
 
@@ -109,7 +109,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Duele: `-duelar [@user] [Valor]`
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
-- Envie cartas: `-carta [@user] [Sua mensagem]` *(+5 Reputação)*
+- Envie cartas: `-carta [@user] [Sua mensagem]` ~~*(+5 Reputação)*
 
 ### ❓ Como ganhar dinheiro?
 
@@ -170,7 +170,7 @@ Você pode ter mais informações de como doar enviando `-help` ou `-donate`.
 
 Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#1000**, enviando um **print do comprovante** e pronto, você tem seu VIP.
 
-Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
+Se quiser mais bônus no servidor principal, fale com **MakolPedro#0007**.
 
 # ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
@@ -200,7 +200,7 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 ### Perfil
 
-`-rp [@user]` Dê reputação
+`-rep [@user]` Dê reputação
 
 `-setstatus [Seu Status]` Defina seu status no seu perfil Exemplo:
 *-setstatus Eu sou a lua que brilha no céu*
@@ -473,7 +473,7 @@ Se quiser mais bônus no servidor principal, fale com **MakolPedro#8508**.
 
 `-coinflip < cara > < coroa >` Cara ou coroa?
  
-`-ascii [Sua mensagem]` Muito doido
+~`-ascii [Sua mensagem]`~ Muito doido
 
 `-dado` `-roll [1...4]` Role até 4 dados
 
