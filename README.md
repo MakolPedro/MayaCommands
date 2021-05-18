@@ -110,6 +110,7 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 - Jogue na loteria: `-loteria`
 - Aprimore seu perfil: `-perfil`
 - Envie cartas: `-carta [@user] [Sua mensagem]` ~~*(+5 Reputação)*
+- Customize sua cor: `-buy [cor]`
 
 ### ❓ Como ganhar dinheiro?
 
