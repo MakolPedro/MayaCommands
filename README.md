@@ -135,12 +135,11 @@ Veja o seu saldo *(adicione @user para ver o saldo de um amigo ***-saldo @user**
 
 Fale com a galera dos outros servidores através do Chat Global.
 
-- `-chat [Sua mensagem]` Envie mensagens no chat global.
+- `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
 - `-channel create text/voice canal` Crie um canal se você quiser.
 - `-setglobalchat #canal` Escolhe um canal para ser o Global Chat
-- `-chat [A sua mensagem global]` Envie sua mensagem para todos os servidores com o sistema ativado.
 - `-regraschat` As regras do Global Chat
-- `globalchat` Ajudinha de como ativar o sistema.
+- `-globalchat` Ajudinha de como ativar o sistema.
 
 ##### A Raphy não se responsabiliza por quaisquer mensagem inapropriada! *(Existem moderadores para mutar/banir pessoas do chat global.)*
 
