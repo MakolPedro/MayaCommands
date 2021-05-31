@@ -663,7 +663,7 @@ Quiz Kimetsu no Yaiba: 15 perguntas
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
 ### Moderação do Servidor Raphy
-MakolPedro#8508 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
+MakolPedro#0007 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
 
 ### Créditos a todos que ajudaram
 
@@ -681,7 +681,7 @@ LucasLuquisquiss#4643 | `-frase` *~ideia*
 
 João da Cilada#7041 | `-love` *~ideia*
 
-MakolPedro#8508 | `-help games` `-quizonepiece` `Atualizador do Help` *~ideias, developer, Perguntas/Respostas Quiz*
+MakolPedro#0007 | `-help games` `-quizonepiece` `Atualizador do Help` *~ideias, developer, Perguntas/Respostas Quiz*
 
 Ceci#7184 | `-doar itens` *~ideia*
 
@@ -707,7 +707,7 @@ Pitticco#1827: `1 Bug`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
-MakolPedro#8508: `49 Bugs`
+MakolPedro#0007: `49 Bugs`
 
 ! Kokushibou#2447 `15 Bugs`
 
