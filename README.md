@@ -51,7 +51,7 @@ Explore tudo o que eu tenho e seja uma pessoa melhor para não entrar na minha b
 
 `-ideiaraphy` Mande suas ideias para o [servidor central](https://discord.gg/YpFWgJuuUV)
 
-`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#1000, o criador da Raphy
+`-bug [Descrição do ocorrido]` Envie bugs/erros que você notou direto pro Rody#1458, o criador da Raphy
 
 `-donate` Tem um real sobrando? Me ajuda poxa
 
@@ -168,9 +168,9 @@ Você pode ter mais informações de como doar enviando `-help` ou `-donate`.
 
 - ❓ Como comprovar o pagamento?
 
-Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#1000**, enviando um **print do comprovante** e pronto, você tem seu VIP.
+Simples! Entre no [meu servidor](https://discord.gg/YpFWgJuuUV) e fale com o **Rody#1458**, enviando um **print do comprovante** e pronto, você tem seu VIP.
 
-Se quiser mais bônus no servidor principal, fale com **MakolPedro#0007**.
+Se quiser mais bônus no servidor principal, fale com **MakolPedro#4369**.
 
 # ⬆️ Level System - Uhuul, level up!
 • É isso meeesmo! Level, nível, xp, ranking, tabelinha de xp, tudo isso aí. Lembrando, é interservidor, se você passar de nível no seu servidor, você também vai passar de nível no servidor do seu amigo. 
@@ -663,11 +663,11 @@ Quiz Kimetsu no Yaiba: 15 perguntas
 [Servidor Central](https://discord.gg/YpFWgJuuUV) | [Host Atual](https://discloudbot.com/)
 
 ### Moderação do Servidor Raphy
-MakolPedro#0007 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
+MakolPedro#4369 | ツ𝑫𝒐𝒎𝒂#6556 | ! Kokushibou#2447 | Raffah#1751
 
 ### Créditos a todos que ajudaram
 
-Rody#1000 | `Construção do Código e Pesquisa`
+Rody#1458 | `Construção do Código e Pesquisa`
 
 Gowther#9233 | `Start Cooper` *~Developer acess & Gif Collector*
 
@@ -681,7 +681,7 @@ LucasLuquisquiss#4643 | `-frase` *~ideia*
 
 João da Cilada#7041 | `-love` *~ideia*
 
-MakolPedro#0007 | `-help games` `-quizonepiece` `Atualizador do Help` *~ideias, developer, Perguntas/Respostas Quiz*
+MakolPedro#4369 | `-help games` `-quizonepiece` `Atualizador do Help` *~ideias, developer, Perguntas/Respostas Quiz*
 
 Ceci#7184 | `-doar itens` *~ideia*
 
@@ -707,7 +707,7 @@ Pitticco#1827: `1 Bug`
 
 Bαყʑι ッ#5485: `4 Bugs`
 
-MakolPedro#0007: `49 Bugs`
+MakolPedro#4369: `49 Bugs`
 
 ! Kokushibou#2447 `15 Bugs`
 
@@ -731,4 +731,4 @@ Hype#0004 `Emojis Raphy`
 
 ### Designers
 
-Yma#5175, Rody#1000, Gowther#9233, Sayu
+Yma#5175, Rody#1458, Gowther#9233, Sayu
